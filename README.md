@@ -1,12 +1,12 @@
 # MSc Project: Visual Analysis of the Social Dynamics of Weather Spotters
-Visual Analysis of high-impact weather events (HIWEs) based on crowd-sourced data by MeteoSwiss and sturumforum.ch
+Visual Analysis of high-impact weather events (HIWEs) based on crowd-sourced data by MeteoSwiss and sturmforum.ch
 
 ## Scripts
 #### First, we need to install the "installer": yarn
 sudo npm install --global yarn
-#### Then,  install all thw components
+#### Then,  install all the components
 yarn install
-#### the backend runs in the api folder
+#### The backend runs in the api folder
 cd api
 #### Create the environment
 #### [https://flask.palletsprojects.com/en/2.2.x/installation/](https://flask.palletsprojects.com/en/2.2.x/installation/)
@@ -22,7 +22,7 @@ Start the front end with:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
+Run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -46,13 +46,13 @@ Remove libraries with:
 ## Further installations
 
 #### You also need to install the MongoDB database. 
-#### It is not an easy task, you might need to grant permissions. It is your own google journey: permissions denied mongodb on mac :-)
+#### It is not an easy task, you might need to grant permissions. It is your Google journey: permissions denied Mongodb on Mac :-)
 brew install mongodb-community@5.0
 
-Start mongoDB with (on Mac):
+Start MongoDB with (on Mac):
 ### `brew services start mongodb-community@5.0`
 
-Use respective version number of mongoDB
+Use the respective version number of MongoDB
 
 Stop mongoDB:
 ### `brew services stop mongodb-community@5.0`
