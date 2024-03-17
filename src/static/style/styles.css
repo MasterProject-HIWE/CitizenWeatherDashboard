@@ -1,0 +1,512 @@
+:root,
+:root.lightGray {
+    /* changes in HSL */
+    --main-bg-color: #d4d4d4;
+    --light-bg-color: #f5f5f5;
+    /* +20L */
+    --opacity-bg-color: #ededed;
+    /* +15L */
+    --border-bg-color: #adadad;
+    /* -10L */
+    --shadow-bg-color: #878787;
+    /* -25L */
+    --gray-bg-color: #d8d8d8;
+    /* constant */
+}
+
+:root.pinkLavender {
+    --main-bg-color: #deafc6;
+    --light-bg-color: #f8edf2;
+    --opacity-bg-color: #f5e6ed;
+    --border-bg-color: #d08bac;
+    --shadow-bg-color: #b95585;
+    --gray-bg-color: #d8d8d8;
+}
+
+:root.bone {
+    --main-bg-color: #ddd8ba;
+    --light-bg-color: #f7f5ee;
+    --opacity-bg-color: #eeecdd;
+    --border-bg-color: #cdc598;
+    --shadow-bg-color: #b3a865;
+    --gray-bg-color: #d8d8d8;
+}
+
+:root.cobaltBlue {
+    --main-bg-color: #82b3e3;
+    --light-bg-color: #d5e6f6;
+    --opacity-bg-color: #c1d9f1;
+    --border-bg-color: #5999d9;
+    --shadow-bg-color: #2a73bb;
+    --gray-bg-color: #d8d8d8;
+}
+
+:root.manatee {
+    --main-bg-color: #9796bb;
+    --light-bg-color: #d4d4e3;
+    --opacity-bg-color: #c5c4d9;
+    --border-bg-color: #7977a6;
+    --shadow-bg-color: #54537f;
+    --gray-bg-color: #d8d8d8;
+}
+
+:root.almond {
+    --main-bg-color: #f1d9ca;
+    --light-bg-color: #fcf6f3;
+    --opacity-bg-color: #f6e8df;
+    --border-bg-color: #e6bca2;
+    --shadow-bg-color: #d69166;
+    --gray-bg-color: #d8d8d8;
+}
+
+:root.opal {
+    --main-bg-color: #a1ccbf;
+    --light-bg-color: #e4f1ed;
+    --opacity-bg-color: #d4e8e2;
+    --border-bg-color: #81bbaa;
+    --shadow-bg-color: #549c86;
+    --gray-bg-color: #d8d8d8;
+}
+
+:root.crystal {
+    --main-bg-color: #aad2e0;
+    --light-bg-color: #f4f9fb;
+    --opacity-bg-color: #e1eff4;
+    --border-bg-color: #83bdd2;
+    --shadow-bg-color: #39839d;
+    --gray-bg-color: #d8d8d8;
+}
+
+:root.grannySmithApple {
+    --main-bg-color: #add9a1;
+    --light-bg-color: #ecf6e9;
+    --opacity-bg-color: #dcefd7;
+    --border-bg-color: #8dca7d;
+    --shadow-bg-color: #5fb148;
+    --gray-bg-color: #d8d8d8;
+}
+
+:root.gold {
+    --main-bg-color: #e9c694;
+    --light-bg-color: #fbf4ea;
+    --opacity-bg-color: #f6e8d5;
+    --border-bg-color: #e1b06b;
+    --shadow-bg-color: #d48e2b;
+    --gray-bg-color: #d8d8d8;
+}
+
+/*use with var(--main-bg-color) etc*/
+
+body {
+    background-color: rgb(23 25 27);
+}
+
+.App {
+    /* background-color: #ffffff;
+    border: 1px solid white;
+    display: flex;
+    width: 100vw;
+    margin-top: -1px; */
+}
+
+#Map {
+    overflow: auto;
+    display: block;
+    width: 80%;
+}
+
+.heatmap-map-main {
+    width: 100% !important;
+}
+
+.map_full {
+    width: 100% !important;
+}
+
+#Map .linkDark {
+    stroke: #202020;
+}
+
+#Map .username {
+    fill: rgb(255, 255, 255);
+    z-index: 9;
+    background-color: rgb(54 74 93);
+}
+
+#Map .user-group:hover {
+    cursor: pointer;
+}
+
+.leaflet-zoom-animated path {
+    transition: all ease-in-out .2s;
+}
+
+.blend-mode-container {
+    mix-blend-mode: color-dodge;
+}
+
+#mapNetworkToggleButton {
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+    padding: 8px 12px;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 4px;
+    width: 148px;
+    cursor: pointer;
+    transition: all .1s ease-in-out;
+}
+
+#mapNetworkToggleButton:hover {
+    background-color: #FFF;
+    color: #000;
+}
+
+#MapOverloadBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: white;
+    border: var(--border-bg-color) 5px solid;
+    font-size: 30px;
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#Histogram {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    background: white;
+    border: var(--border-bg-color) solid 3px;
+    border-left: 0;
+    transition: width 0.5s ease-in-out, left 0.5s ease-in-out;
+}
+
+.histogramContent {
+    display: flex;
+    flex-direction: column;
+}
+
+.histogramContent div {
+    display: flex;
+}
+
+.histogramButtons {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-right: 20px;
+    margin-left: -23px;
+    padding-bottom: 87px;
+}
+
+.playerBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 395px;
+    margin: 0 0 5px 15px;
+}
+
+.circle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border-style: solid;
+    font-weight: bold;
+    border-width: 1px;
+}
+
+.histLegend {
+    flex-direction: row;
+    display: flex;
+}
+
+.histLegend span {
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    margin-top: 7px;
+    margin-right: 5px;
+}
+
+.histLegend p {
+    font-size: 14px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+
+.histogramLoading {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255 255 255 / 60%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#EndButtonContainer {
+    border-top: 2px solid var(--border-bg-color);
+    background-color: var(--main-bg-color);
+    padding: 0 25px 0 25px;
+}
+
+.mapLoading {
+    position: relative;
+    top: -100%;
+    height: 100%;
+    background-color: rgb(255 255 255 / 30%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MuiCircularProgress-colorPrimary {
+    color: var(--main-bg-color) !important;
+}
+
+#SelectionButtons {
+    position: absolute;
+    z-index: 100;
+    background: white;
+    border: 2px solid var(--border-bg-color);
+    border-top: 0;
+    margin-left: -1px;
+}
+
+.selectionButtonsContent {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MapBoxTitle {
+    background-color: var(--main-bg-color);
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#DisableMapSelection {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 96px;
+    width: 185px;
+    margin-left: -1px;
+}
+
+.leaflet-draw-section {
+    display: none
+}
+
+.leaflet-draw-toolbar {
+    display: none
+}
+
+.leaflet-popup-content {
+    margin: 4px 4px 4px 4px;
+}
+
+.leaflet-draw-tooltip-single {
+    background-color: #fbf0ea;
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: #00000091 0 0 3px;
+    margin-top: -13px;
+}
+
+.leaflet-draw-tooltip {
+    background-color: #fbf0ea;
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: #00000091 0 0 3px;
+    margin-top: -13px;
+}
+
+.leaflet-draw-tooltip:before {
+    border-right: 8px solid rgba(0, 0, 0, 0.5);
+    left: -9px;
+}
+
+
+.leaflet-draw-tooltip-subtext {
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.leaflet-touch .leaflet-control-layers-toggle {
+    width: 30px;
+    height: 30px;
+}
+
+.leaflet-retina .leaflet-control-layers-toggle {
+    background-size: 20px 20px;
+}
+
+.leaflet-control-layers-expanded {
+    text-align: left;
+}
+
+.leaflet-minimap {
+    top: 0;
+    right: 0;
+    margin-top: 0;
+    margin-right: 0;
+    position: absolute;
+    z-index: 1000;
+    border: 3px solid var(--border-bg-color);
+    border-top: 0;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+.leaflet-popup-content {
+    width: auto !important;
+}
+
+#previewButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 16px;
+    margin-right: -3px;
+    padding: 4px;
+    background: var(--main-bg-color);
+    border-radius: 0;
+}
+
+#selectionBoxButton {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 16px;
+    padding: 4px;
+    background: var(--main-bg-color);
+    border-radius: 0;
+    z-index: 1000;
+}
+
+.minimapMarkers {
+    cursor: default;
+}
+
+.minimapSingle {
+    margin-top: -9.5px !important;
+}
+
+.pieChart {
+    border-radius: 50%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pieChart p {
+    text-shadow: 0 1px 2px black, 1px 0 2px black, -1px 0 2px black, 0 -1px 2px black;
+    color: white;
+    margin: 0;
+}
+
+.multiPopup {
+    display: grid;
+    gap: 3px;
+    grid-template-columns: auto auto auto;
+    padding: 5px;
+}
+
+.multiPopup p {
+    white-space: nowrap;
+    margin: 1px;
+}
+
+.multiPopup>div {
+    display: flex;
+    flex-direction: column;
+}
+
+.multiEventPopup {
+    display: grid;
+    gap: 3px;
+    grid-template-columns: auto auto auto;
+    padding: 5px;
+}
+
+.multiEventPopup p {
+    white-space: nowrap;
+    margin: 1px;
+}
+
+.multiEventPopup>div {
+    display: flex;
+    flex-direction: column;
+}
+
+a.leaflet-popup-close-button {
+    display: none;
+}
+
+.leaflet-map-pane svg {
+    /* z-index: 2000; */
+    pointer-events: none;
+}
+
+.leaflet-map-pane svg line,
+.leaflet-map-pane svg circle {
+    z-index: 2000 !important;
+}
+
+.dot {
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    border: 1px solid #00000085;
+    margin: 2px 2px 0 0;
+}
+
+.scroll-shadows {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-scrolling: touch;
+
+    background:
+        linear-gradient(white 30%,
+            rgba(255, 255, 255, 0)) center top,
+
+        linear-gradient(rgba(255, 255, 255, 0),
+            white 70%) center bottom,
+
+        radial-gradient(farthest-side at 50% 0,
+            rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0)) center top,
+
+        radial-gradient(farthest-side at 50% 100%,
+            rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0)) center bottom;
+
+    background-repeat: no-repeat;
+    background-size: 100% 40px, 100% 40px, 100% 14px, 100% 14px;
+    background-attachment: local, local, scroll, scroll;
+}

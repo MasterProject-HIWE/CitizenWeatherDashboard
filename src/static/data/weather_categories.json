@@ -1,0 +1,504 @@
+[
+  {
+    "category": "BLITZE",
+    "de": "Blitze",
+    "en": "Lightning",
+    "intensity_Name": {
+      "de": "Blitz-Intensität",
+      "en": "Time between flashes"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "DONNER_UMGEBUNG",
+        "de": "Nur Donner in der Umgebung",
+        "deLong": "",
+        "en": "Thunder in vicinity",
+        "enLong": ""
+      },
+      {
+        "value": 1,
+        "name": "BLITZE_EINZELNE",
+        "de": "Schwach",
+        "deLong": "> 1 min zwischen Blitzen",
+        "en": "Light",
+        "enLong": "> 1 min between flashes"
+      },
+      {
+        "value": 2,
+        "name": "BLITZE_HAEUFIG",
+        "de": "Stark",
+        "deLong": "< 1 min zwischen Blitzen",
+        "en": "Strong",
+        "enLong": "< 1 min between flashes"
+      },
+      {
+        "value": 3,
+        "name": "BLITZE_EXTREM",
+        "de": "Extrem",
+        "deLong": "< 10 sec zwischen Blitzen",
+        "en": "Extreme",
+        "enLong": "< 10 sec between flashes"
+      }
+    ]
+  },
+  {
+    "category": "WIND",
+    "de": "Wind",
+    "en": "Wind",
+    "intensity_Name": {
+      "de": "Wind und Schäden",
+      "en": "Wind and damage"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "WIND_SCHWACH",
+        "de": "Schwacher Wind",
+        "deLong": "Dünne Zweige schwanken",
+        "en": "Gentle breeze",
+        "enLong": "Small twigs constantly moving"
+      },
+      {
+        "value": 1,
+        "name": "WIND_STARK",
+        "de": "Starker Wind",
+        "deLong": "Starke Äste schwanken",
+        "en": "Strong breeze",
+        "enLong": "Strong branches moving"
+      },
+      {
+        "value": 2,
+        "name": "WIND_STUERMISCH",
+        "de": "Stürmischer Wind",
+        "deLong": "Dünne Zweige brechen, Gartenmöbel umgeweht",
+        "en": "Stormy wind",
+        "enLong": "Break thin branches, garden furniture blown over"
+      },
+      {
+        "value": 3,
+        "name": "WIND_STURM",
+        "de": "Sturm",
+        "deLong": "Starke Äste brechen, Schäden an Häusern",
+        "en": "Storm",
+        "enLong": "Break strong branches, damage to houses"
+      },
+      {
+        "value": 4,
+        "name": "WIND_ORKAN",
+        "de": "Orkan",
+        "deLong": "Grosse Bäume entwurzelt, Dächer abgedeckt",
+        "en": "Hurricane",
+        "enLong": "Large trees uprooted, roofs damaged"
+      }
+    ]
+  },
+  {
+    "category": "HAGEL",
+    "de": "Hagel",
+    "en": "Hail",
+    "intensity_Name": {
+      "de": "Hagelkorngrösse",
+      "en": "Hailstone size"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "KEIN_HAGEL",
+        "de": "Kein Hagel",
+        "deLong": "",
+        "en": "No hail",
+        "enLong": ""
+      },
+      {
+        "value": 1,
+        "name": "HAGEL_UNTER_1CM",
+        "de": "< 1cm",
+        "deLong": "Kleiner als Kaffebohne",
+        "en": "< 1cm",
+        "enLong": "Smaller than coffee bean"
+      },
+      {
+        "value": 2,
+        "name": "HAGEL_1CM",
+        "de": "1cm",
+        "deLong": "Kaffebohne",
+        "en": "1cm",
+        "enLong": "Coffee bean"
+      },
+      {
+        "value": 3,
+        "name": "HAGEL_2CM",
+        "de": "2cm",
+        "deLong": "Einfränkler",
+        "en": "2cm",
+        "enLong": "One franc coin"
+      },
+      {
+        "value": 4,
+        "name": "HAGEL_3CM",
+        "de": "3cm",
+        "deLong": "Fünfliber",
+        "en": "3cm",
+        "enLong": "Five franc coin"
+      },
+      {
+        "value": 5,
+        "name": "HAGEL_5CM",
+        "de": "5cm",
+        "deLong": "Golfball",
+        "en": "5cm",
+        "enLong": "Golf ball"
+      },
+      {
+        "value": 6,
+        "name": "HAGEL_UEBER_7CM",
+        "de": "> 7cm",
+        "deLong": "Tennisball",
+        "en": "> 7cm",
+        "enLong": "Tennis ball"
+      }
+    ]
+  },
+  {
+    "category": "REGEN",
+    "de": "Regen",
+    "en": "Rain",
+    "intensity_Name": {
+      "de": "Regenintensität",
+      "en": "Intensity of rain"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "REGEN_LEICHT",
+        "de": "Leicht",
+        "deLong": "",
+        "en": "Light",
+        "enLong": ""
+      },
+      {
+        "value": 1,
+        "name": "REGEN_MITTEL",
+        "de": "Mittel",
+        "deLong": "Pfützenbildung in Senken",
+        "en": "Moderate",
+        "enLong": "Puddling in depressions"
+      },
+      {
+        "value": 2,
+        "name": "REGEN_KRAEFTIG",
+        "de": "Kräftig",
+        "deLong": "Wasserschicht auf Strassen",
+        "en": "Heavy",
+        "enLong": "Water layer on streets"
+      },
+      {
+        "value": 3,
+        "name": "REGEN_STARK",
+        "de": "Stark",
+        "deLong": "Überschwemmungen",
+        "en": "Strong",
+        "enLong": "Floods"
+      },
+      {
+        "value": 4,
+        "name": "REGEN_EXTREM",
+        "de": "Extrem",
+        "deLong": "Sturzbäche",
+        "en": "Extreme",
+        "enLong": "Torrents"
+      }
+    ]
+  },
+  {
+    "category": "GLAETTE",
+    "de": "Glätte",
+    "en": "Icy_Conditions",
+    "intensity_Name": {
+      "de": "Ursache der Glätte",
+      "en": "Reason for Icy_Conditions"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "GLAETTE_REIF",
+        "de": "Reifglätte",
+        "deLong": "",
+        "en": "Frost",
+        "enLong": ""
+      },
+      {
+        "value": 1,
+        "name": "GLAETTE_SCHNEE",
+        "de": "Schnee",
+        "deLong": "",
+        "en": "Snow",
+        "enLong": ""
+      },
+      {
+        "value": 2,
+        "name": "GLAETTE_UEBERFRIERENDE_NAESSE",
+        "de": "Überfrierende Nässe",
+        "deLong": "",
+        "en": "Black ice",
+        "enLong": ""
+      },
+      {
+        "value": 3,
+        "name": "GLAETTE_GEFRIERENDER_REGEN",
+        "de": "Gefrierender Regen",
+        "deLong": "",
+        "en": "Freezing rain",
+        "enLong": ""
+      }
+    ]
+  },
+  {
+    "category": "SCHNEEFALL",
+    "de": "Schneefall",
+    "en": "Snow",
+    "intensity_Name": {
+      "de": "Intensität des Schneefalls",
+      "en": "Intensity of Snow_Cover"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "SCHNEEFALL_WENIGE_FLOCKEN",
+        "de": "Wenige Flocken",
+        "deLong": "",
+        "en": "Few snowflakes",
+        "enLong": ""
+      },
+      {
+        "value": 1,
+        "name": "SCHNEEFALL_LEICHT",
+        "de": "Leicht",
+        "deLong": "Kaum Sichteinschränkungen",
+        "en": "Light",
+        "enLong": "Visibility barely reduced"
+      },
+      {
+        "value": 2,
+        "name": "SCHNEEFALL_MITTEL",
+        "de": "Mittel",
+        "deLong": "Sicht durch Schneefall eingeschränkt",
+        "en": "Moderate",
+        "enLong": "Visibility reduced by Snow_Cover"
+      },
+      {
+        "value": 3,
+        "name": "SCHNEEFALL_STARK",
+        "de": "Stark",
+        "deLong": "Keine Sicht mehr",
+        "en": "Heavy",
+        "enLong": "No visibility"
+      }
+    ]
+  },
+  {
+    "category": "SCHNEEDECKE",
+    "de": "Schneedecke",
+    "en": "Snow_Cover",
+    "intensity_Name": {
+      "de": "Höhe der Schneedecke",
+      "en": "Snow depth"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "SCHNEEDECKE_SCHNEEMATSCH",
+        "de": "Schneematsch",
+        "deLong": "",
+        "en": "Slush",
+        "enLong": ""
+      },
+      {
+        "value": 1,
+        "name": "SCHNEEDECKE_BIS_1CM",
+        "de": "≤ 1cm",
+        "deLong": "",
+        "en": "≤ 1cm",
+        "enLong": ""
+      },
+      {
+        "value": 2,
+        "name": "SCHNEEDECKE_BIS_3CM",
+        "de": "≤ 3cm",
+        "deLong": "",
+        "en": "≤ 3cm",
+        "enLong": ""
+      },
+      {
+        "value": 3,
+        "name": "SCHNEEDECKE_BIS_10CM",
+        "de": "≤ 10cm",
+        "deLong": "",
+        "en": "≤ 10cm",
+        "enLong": ""
+      },
+      {
+        "value": 4,
+        "name": "SCHNEEDECKE_BIS_20CM",
+        "de": "≤ 20cm",
+        "deLong": "",
+        "en": "≤ 20cm",
+        "enLong": ""
+      },
+      {
+        "value": 5,
+        "name": "SCHNEEDECKE_BIS_50CM",
+        "de": "≤ 50cm",
+        "deLong": "",
+        "en": "≤ 50cm",
+        "enLong": ""
+      },
+      {
+        "value": 6,
+        "name": "SCHNEEDECKE_UEBER_50CM",
+        "de": "> 50cm",
+        "deLong": "",
+        "en": "> 50cm",
+        "enLong": ""
+      }
+    ]
+  },
+  {
+    "category": "BEWOELKUNG",
+    "de": "Bewölkung",
+    "en": "Cloudiness",
+    "intensity_Name": {
+      "de": "Bedeckungsgrad",
+      "en": "Cloud coverage"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "BEWOELKUNG_WOLKENLOS",
+        "de": "Wolkenlos",
+        "deLong": "",
+        "en": "Sky clear",
+        "enLong": ""
+      },
+      {
+        "value": 1,
+        "name": "BEWOELKUNG_LEICHT_BEWOELKT",
+        "de": "Leicht bewölkt",
+        "deLong": "",
+        "en": "Slightly cloudy",
+        "enLong": ""
+      },
+      {
+        "value": 2,
+        "name": "BEWOELKUNG_WOLKIG",
+        "de": "Bewölkt",
+        "deLong": "",
+        "en": "Cloudy",
+        "enLong": ""
+      },
+      {
+        "value": 3,
+        "name": "BEWOELKUNG_BEDECKT",
+        "de": "Bedeckt",
+        "deLong": "",
+        "en": "Overcast",
+        "enLong": ""
+      }
+    ]
+  },
+  {
+    "category": "NEBEL",
+    "de": "Nebel",
+    "en": "Fog",
+    "intensity_Name": {
+      "de": "Sichtweite",
+      "en": "Visibility"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "NEBEL_LEICHT",
+        "de": "Unter 1000m",
+        "deLong": "Leichter Nebel",
+        "en": "Below 1000m",
+        "enLong": "Light fog"
+      },
+      {
+        "value": 1,
+        "name": "NEBEL_DICHT",
+        "de": "Unter 200m",
+        "deLong": "Dichter Nebel",
+        "en": "Below 200m",
+        "enLong": "Dense fog"
+      },
+      {
+        "value": 2,
+        "name": "NEBEL_EXTREM",
+        "de": "Unter 50m",
+        "deLong": "Extrem dichter Nebel",
+        "en": "Below 50m",
+        "enLong": "Extremely dense fog"
+      }
+    ]
+  },
+  {
+    "category": "TORNADO",
+    "de": "Tornado",
+    "en": "Tornado",
+    "intensity_Name": {
+      "de": "Intensität und Schäden (Fujita-Skala)",
+      "en": "Intensity and damage (Fujita scale)"
+    },
+    "intensity": [
+      {
+        "value": 0,
+        "name": "TORNADO_NO_VISIBLE_DAMAGE",
+        "de": "Keine Schäden sichtbar",
+        "deLong": "",
+        "en": "No visible damage",
+        "enLong": ""
+      },
+      {
+        "value": 1,
+        "name": "TORNADO_F0",
+        "de": "Leicht",
+        "deLong": "F0: Schäden an Dächern und Bäumen",
+        "en": "Light",
+        "enLong": "F0: Some damage to chimneys, branches broken off trees"
+      },
+      {
+        "value": 2,
+        "name": "TORNADO_F1",
+        "de": "Moderat",
+        "deLong": "F1: Dächer abgedeckt, Bäume umgeworfen",
+        "en": "Moderate",
+        "enLong": "F1: Peels surface off roofs, trees snapped or uprooted"
+      },
+      {
+        "value": 3,
+        "name": "TORNADO_F2",
+        "de": "Signifikant",
+        "deLong": "F2: Grosse Bäume entwurzelt",
+        "en": "Significant",
+        "enLong": "F2: Large trees snapped or uprooted"
+      },
+      {
+        "value": 4,
+        "name": "TORNADO_F3",
+        "de": "Schwer",
+        "deLong": "F3: Wände zerstört, Autos bewegt",
+        "en": "Severe",
+        "enLong": "F3: Walls torn of houses, most trees in forest uprooted"
+      },
+      {
+        "value": 5,
+        "name": "TORNADO_F4",
+        "de": "Verherrend",
+        "deLong": "F4: Häuser zerstört, grosse Gegenstände aufgewirbelt",
+        "en": "Devastating",
+        "enLong": "F4: Houses destroyed, large objects thrown up"
+      }
+    ]
+  }
+]

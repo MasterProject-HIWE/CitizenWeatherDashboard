@@ -1,0 +1,1360 @@
+[
+  {
+    "sl": 0,
+    "user": "Jessica Johnston",
+    "degree": 0.409326425,
+    "betweenness": 0.143608413,
+    "closeness": 0.608832808
+  },
+  {
+    "sl": 1,
+    "user": "Tricia Gross",
+    "degree": 0.088082902,
+    "betweenness": 0.002948462,
+    "closeness": 0.468446602
+  },
+  {
+    "sl": 2,
+    "user": "Kari Perez",
+    "degree": 0.435233161,
+    "betweenness": 0.186590945,
+    "closeness": 0.628664495
+  },
+  {
+    "sl": 3,
+    "user": "John Cross",
+    "degree": 0.015544041,
+    "betweenness": 0.0000487,
+    "closeness": 0.417748918
+  },
+  {
+    "sl": 4,
+    "user": "Nicole Miller",
+    "degree": 0.367875648,
+    "betweenness": 0.139419158,
+    "closeness": 0.599378882
+  },
+  {
+    "sl": 5,
+    "user": "Janet Nguyen",
+    "degree": 0.170984456,
+    "betweenness": 0.010831622,
+    "closeness": 0.520215633
+  },
+  {
+    "sl": 6,
+    "user": "Daniel Smith",
+    "degree": 0.310880829,
+    "betweenness": 0.09670079,
+    "closeness": 0.581325301
+  },
+  {
+    "sl": 7,
+    "user": "Carol Ramirez",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.377690802
+  },
+  {
+    "sl": 8,
+    "user": "Sharon Vega",
+    "degree": 0.046632124,
+    "betweenness": 0.002900473,
+    "closeness": 0.431767338
+  },
+  {
+    "sl": 9,
+    "user": "Jeffrey Perez",
+    "degree": 0.165803109,
+    "betweenness": 0.031369051,
+    "closeness": 0.513297872
+  },
+  {
+    "sl": 10,
+    "user": "Mr. Russell Spencer DDS",
+    "degree": 0.088082902,
+    "betweenness": 0.013910976,
+    "closeness": 0.463942308
+  },
+  {
+    "sl": 11,
+    "user": "Cathy Hernandez",
+    "degree": 0.150259067,
+    "betweenness": 0.01758666,
+    "closeness": 0.51193634
+  },
+  {
+    "sl": 12,
+    "user": "Katie Hudson",
+    "degree": 0.098445596,
+    "betweenness": 0.005486784,
+    "closeness": 0.474201474
+  },
+  {
+    "sl": 13,
+    "user": "Danny Lucas",
+    "degree": 0.233160622,
+    "betweenness": 0.047843598,
+    "closeness": 0.548295455
+  },
+  {
+    "sl": 14,
+    "user": "Christopher Burke",
+    "degree": 0.150259067,
+    "betweenness": 0.015805269,
+    "closeness": 0.513297872
+  },
+  {
+    "sl": 15,
+    "user": "Elizabeth Peterson",
+    "degree": 0.202072539,
+    "betweenness": 0.037671778,
+    "closeness": 0.527322404
+  },
+  {
+    "sl": 16,
+    "user": "Melanie Vaughn",
+    "degree": 0.041450777,
+    "betweenness": 0.00070849,
+    "closeness": 0.433707865
+  },
+  {
+    "sl": 17,
+    "user": "Kyle James",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.36346516
+  },
+  {
+    "sl": 18,
+    "user": "Jordan Beasley",
+    "degree": 0.062176166,
+    "betweenness": 0.010658222,
+    "closeness": 0.443678161
+  },
+  {
+    "sl": 19,
+    "user": "Lisa Chang",
+    "degree": 0.207253886,
+    "betweenness": 0.029843855,
+    "closeness": 0.534626039
+  },
+  {
+    "sl": 20,
+    "user": "Yesenia Brown",
+    "degree": 0.25388601,
+    "betweenness": 0.059025947,
+    "closeness": 0.557803468
+  },
+  {
+    "sl": 21,
+    "user": "James Morales",
+    "degree": 0.020725389,
+    "betweenness": 0.001433636,
+    "closeness": 0.400414938
+  },
+  {
+    "sl": 22,
+    "user": "William West",
+    "degree": 0.10880829,
+    "betweenness": 0.010272372,
+    "closeness": 0.471882641
+  },
+  {
+    "sl": 23,
+    "user": "Miss Jennifer Oneill MD",
+    "degree": 0.03626943,
+    "betweenness": 0.000922905,
+    "closeness": 0.424175824
+  },
+  {
+    "sl": 24,
+    "user": "Kelsey Williams",
+    "degree": 0.139896373,
+    "betweenness": 0.010507641,
+    "closeness": 0.483709273
+  },
+  {
+    "sl": 25,
+    "user": "William Meyer",
+    "degree": 0.025906736,
+    "betweenness": 0.000778182,
+    "closeness": 0.40376569
+  },
+  {
+    "sl": 26,
+    "user": "Christine Reed",
+    "degree": 0.248704663,
+    "betweenness": 0.044762275,
+    "closeness": 0.554597701
+  },
+  {
+    "sl": 27,
+    "user": "Derrick Li",
+    "degree": 0.056994819,
+    "betweenness": 0.013088398,
+    "closeness": 0.454117647
+  },
+  {
+    "sl": 28,
+    "user": "Daniel Cervantes",
+    "degree": 0.020725389,
+    "betweenness": 0.00000386,
+    "closeness": 0.39148073
+  },
+  {
+    "sl": 29,
+    "user": "Michael Chase",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.382936508
+  },
+  {
+    "sl": 30,
+    "user": "Harold Shaw",
+    "degree": 0.025906736,
+    "betweenness": 0,
+    "closeness": 0.437641723
+  },
+  {
+    "sl": 31,
+    "user": "John Burns",
+    "degree": 0.020725389,
+    "betweenness": 0.0000332,
+    "closeness": 0.424175824
+  },
+  {
+    "sl": 32,
+    "user": "Courtney Morgan",
+    "degree": 0.274611399,
+    "betweenness": 0.078794802,
+    "closeness": 0.556195965
+  },
+  {
+    "sl": 33,
+    "user": "Diana Warren",
+    "degree": 0.077720207,
+    "betweenness": 0.002271595,
+    "closeness": 0.451990632
+  },
+  {
+    "sl": 34,
+    "user": "Sharon Taylor",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.369024857
+  },
+  {
+    "sl": 35,
+    "user": "Heidi Martin",
+    "degree": 0.212435233,
+    "betweenness": 0.023377892,
+    "closeness": 0.534626039
+  },
+  {
+    "sl": 36,
+    "user": "Ashley Bautista",
+    "degree": 0.03626943,
+    "betweenness": 0.0000147,
+    "closeness": 0.432735426
+  },
+  {
+    "sl": 37,
+    "user": "Willi",
+    "degree": 0.07253886,
+    "betweenness": 0.001155101,
+    "closeness": 0.460620525
+  },
+  {
+    "sl": 38,
+    "user": "Federwolke",
+    "degree": 0.07253886,
+    "betweenness": 0.001982969,
+    "closeness": 0.448837209
+  },
+  {
+    "sl": 39,
+    "user": "cloud-music",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.307814992
+  },
+  {
+    "sl": 40,
+    "user": "Chris Hale",
+    "degree": 0.238341969,
+    "betweenness": 0.060555456,
+    "closeness": 0.54985755
+  },
+  {
+    "sl": 41,
+    "user": "Cassandra Goodwin",
+    "degree": 0.03626943,
+    "betweenness": 0.00111572,
+    "closeness": 0.434684685
+  },
+  {
+    "sl": 42,
+    "user": "Kimberly Burgess",
+    "degree": 0.14507772,
+    "betweenness": 0.016698239,
+    "closeness": 0.492346939
+  },
+  {
+    "sl": 43,
+    "user": "Daniel Garcia",
+    "degree": 0.067357513,
+    "betweenness": 0.003400647,
+    "closeness": 0.458432304
+  },
+  {
+    "sl": 44,
+    "user": "Madison Palmer",
+    "degree": 0.062176166,
+    "betweenness": 0.001669218,
+    "closeness": 0.454117647
+  },
+  {
+    "sl": 45,
+    "user": "Jacqueline Gomez",
+    "degree": 0.031088083,
+    "betweenness": 0.000137859,
+    "closeness": 0.427937916
+  },
+  {
+    "sl": 46,
+    "user": "Keith Williams",
+    "degree": 0.150259067,
+    "betweenness": 0.022237556,
+    "closeness": 0.520215633
+  },
+  {
+    "sl": 47,
+    "user": "Christopher Burns",
+    "degree": 0.259067358,
+    "betweenness": 0.070006396,
+    "closeness": 0.54985755
+  },
+  {
+    "sl": 48,
+    "user": "Kenneth Rosales",
+    "degree": 0.031088083,
+    "betweenness": 0.003386154,
+    "closeness": 0.431767338
+  },
+  {
+    "sl": 49,
+    "user": "widovnir",
+    "degree": 0.041450777,
+    "betweenness": 0.000705504,
+    "closeness": 0.402083333
+  },
+  {
+    "sl": 50,
+    "user": "Kaiko (Döttingen)",
+    "degree": 0.025906736,
+    "betweenness": 0.000262438,
+    "closeness": 0.412393162
+  },
+  {
+    "sl": 51,
+    "user": "Severestorms",
+    "degree": 0.062176166,
+    "betweenness": 0.002287636,
+    "closeness": 0.44266055
+  },
+  {
+    "sl": 52,
+    "user": "Mathias Uster",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.368320611
+  },
+  {
+    "sl": 53,
+    "user": "Tajno",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.358070501
+  },
+  {
+    "sl": 54,
+    "user": "zti",
+    "degree": 0.031088083,
+    "betweenness": 0.000437242,
+    "closeness": 0.384462151
+  },
+  {
+    "sl": 55,
+    "user": "flowi",
+    "degree": 0.020725389,
+    "betweenness": 0.0000827,
+    "closeness": 0.38989899
+  },
+  {
+    "sl": 56,
+    "user": "Bernhard Oker",
+    "degree": 0.093264249,
+    "betweenness": 0.0027295,
+    "closeness": 0.469586375
+  },
+  {
+    "sl": 57,
+    "user": "Tinu (Männedorf)",
+    "degree": 0.020725389,
+    "betweenness": 0.0000101,
+    "closeness": 0.401247401
+  },
+  {
+    "sl": 58,
+    "user": "Gary Clark",
+    "degree": 0.046632124,
+    "betweenness": 0.000824462,
+    "closeness": 0.439635535
+  },
+  {
+    "sl": 59,
+    "user": "Allen Thompson",
+    "degree": 0.077720207,
+    "betweenness": 0.003854753,
+    "closeness": 0.47654321
+  },
+  {
+    "sl": 60,
+    "user": "Mrs. Margaret French",
+    "degree": 0.062176166,
+    "betweenness": 0.011173449,
+    "closeness": 0.446759259
+  },
+  {
+    "sl": 61,
+    "user": "Alison Rivas",
+    "degree": 0.07253886,
+    "betweenness": 0.001726114,
+    "closeness": 0.441647597
+  },
+  {
+    "sl": 62,
+    "user": "Und Zürich",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.375486381
+  },
+  {
+    "sl": 63,
+    "user": "Linth",
+    "degree": 0.015544041,
+    "betweenness": 0.000018,
+    "closeness": 0.382936508
+  },
+  {
+    "sl": 64,
+    "user": "Angela Simmons",
+    "degree": 0.031088083,
+    "betweenness": 0.000383138,
+    "closeness": 0.436651584
+  },
+  {
+    "sl": 65,
+    "user": "John Taylor",
+    "degree": 0.025906736,
+    "betweenness": 0.000242155,
+    "closeness": 0.399585921
+  },
+  {
+    "sl": 66,
+    "user": "Karen Day",
+    "degree": 0.160621762,
+    "betweenness": 0.026667861,
+    "closeness": 0.520215633
+  },
+  {
+    "sl": 67,
+    "user": "Thomas Hernandez",
+    "degree": 0.067357513,
+    "betweenness": 0.004738657,
+    "closeness": 0.434684685
+  },
+  {
+    "sl": 68,
+    "user": "Pamela Le",
+    "degree": 0.124352332,
+    "betweenness": 0.018860234,
+    "closeness": 0.503916449
+  },
+  {
+    "sl": 69,
+    "user": "Michael Skinner",
+    "degree": 0.031088083,
+    "betweenness": 0.000409562,
+    "closeness": 0.417748918
+  },
+  {
+    "sl": 70,
+    "user": "Jessica Jones",
+    "degree": 0.103626943,
+    "betweenness": 0.004298724,
+    "closeness": 0.44988345
+  },
+  {
+    "sl": 71,
+    "user": "Troy Brown",
+    "degree": 0.051813472,
+    "betweenness": 0.006894664,
+    "closeness": 0.453051643
+  },
+  {
+    "sl": 72,
+    "user": "Brooke Miller",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.319008264
+  },
+  {
+    "sl": 73,
+    "user": "Jennifer Carter",
+    "degree": 0.03626943,
+    "betweenness": 0.001328628,
+    "closeness": 0.444700461
+  },
+  {
+    "sl": 74,
+    "user": "Thomas Baker",
+    "degree": 0.041450777,
+    "betweenness": 0.000568372,
+    "closeness": 0.408898305
+  },
+  {
+    "sl": 75,
+    "user": "Angela Richardson",
+    "degree": 0.046632124,
+    "betweenness": 0.000895624,
+    "closeness": 0.447795824
+  },
+  {
+    "sl": 76,
+    "user": "Katie Nichols",
+    "degree": 0.03626943,
+    "betweenness": 0.000580968,
+    "closeness": 0.387550201
+  },
+  {
+    "sl": 77,
+    "user": "Angela Hart",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.397119342
+  },
+  {
+    "sl": 78,
+    "user": "Raymond Mills",
+    "degree": 0.015544041,
+    "betweenness": 0,
+    "closeness": 0.376218324
+  },
+  {
+    "sl": 79,
+    "user": "James Lucas",
+    "degree": 0.041450777,
+    "betweenness": 0.01037624,
+    "closeness": 0.429844098
+  },
+  {
+    "sl": 80,
+    "user": "Vortex2",
+    "degree": 0.015544041,
+    "betweenness": 0.000006,
+    "closeness": 0.38989899
+  },
+  {
+    "sl": 81,
+    "user": "Holly Wallace",
+    "degree": 0.041450777,
+    "betweenness": 0.001702148,
+    "closeness": 0.396303901
+  },
+  {
+    "sl": 82,
+    "user": "Molly Salinas",
+    "degree": 0.025906736,
+    "betweenness": 0.010636878,
+    "closeness": 0.404612159
+  },
+  {
+    "sl": 83,
+    "user": "Peter Sexton",
+    "degree": 0.041450777,
+    "betweenness": 0.0000599,
+    "closeness": 0.431767338
+  },
+  {
+    "sl": 84,
+    "user": "Martin",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.288490284
+  },
+  {
+    "sl": 85,
+    "user": "tnsilres",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.368320611
+  },
+  {
+    "sl": 86,
+    "user": "Off Topic@Christian Schlieren: Ok, ich war vorher dort wegen Durchreise, da",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.358070501
+  },
+  {
+    "sl": 87,
+    "user": "Jesse Nguyen",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.385229541
+  },
+  {
+    "sl": 88,
+    "user": "Edward Ross",
+    "degree": 0.03626943,
+    "betweenness": 0.000492383,
+    "closeness": 0.413276231
+  },
+  {
+    "sl": 89,
+    "user": "Gregory Taylor",
+    "degree": 0.082901554,
+    "betweenness": 0.001024521,
+    "closeness": 0.475369458
+  },
+  {
+    "sl": 90,
+    "user": "Steven Hall",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.355432781
+  },
+  {
+    "sl": 91,
+    "user": "Tanya Jones",
+    "degree": 0.067357513,
+    "betweenness": 0.010921654,
+    "closeness": 0.468446602
+  },
+  {
+    "sl": 92,
+    "user": "Slep",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.319536424
+  },
+  {
+    "sl": 93,
+    "user": "Andrea Martin",
+    "degree": 0.155440415,
+    "betweenness": 0.037489317,
+    "closeness": 0.509234828
+  },
+  {
+    "sl": 94,
+    "user": "Nicht unbedingt die fotogenste Kaltfront, aber für einen interessanten Timelaps",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.375486381
+  },
+  {
+    "sl": 95,
+    "user": "Rontaler",
+    "degree": 0.051813472,
+    "betweenness": 0.000555755,
+    "closeness": 0.453051643
+  },
+  {
+    "sl": 96,
+    "user": "Brooke Ferguson",
+    "degree": 0.046632124,
+    "betweenness": 0.011353845,
+    "closeness": 0.433707865
+  },
+  {
+    "sl": 97,
+    "user": "Donald Randall",
+    "degree": 0.155440415,
+    "betweenness": 0.013341972,
+    "closeness": 0.494871795
+  },
+  {
+    "sl": 98,
+    "user": "Aaron Casey",
+    "degree": 0.056994819,
+    "betweenness": 0.003508046,
+    "closeness": 0.397119342
+  },
+  {
+    "sl": 99,
+    "user": "James Gonzales",
+    "degree": 0.010362694,
+    "betweenness": 0.00000981,
+    "closeness": 0.352833638
+  },
+  {
+    "sl": 100,
+    "user": "Jan (Zeiningen, AG)",
+    "degree": 0.015544041,
+    "betweenness": 0,
+    "closeness": 0.406315789
+  },
+  {
+    "sl": 101,
+    "user": "Goldigoldi",
+    "degree": 0.031088083,
+    "betweenness": 0.000158228,
+    "closeness": 0.431767338
+  },
+  {
+    "sl": 102,
+    "user": "Microwave",
+    "degree": 0.025906736,
+    "betweenness": 0.000155368,
+    "closeness": 0.419565217
+  },
+  {
+    "sl": 103,
+    "user": "Marco (Oberfrick)",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.342806394
+  },
+  {
+    "sl": 104,
+    "user": "Michelle Carter",
+    "degree": 0.020725389,
+    "betweenness": 0.000252825,
+    "closeness": 0.386
+  },
+  {
+    "sl": 105,
+    "user": "Maria Patrick",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.390688259
+  },
+  {
+    "sl": 106,
+    "user": "Julie Turner",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.373307544
+  },
+  {
+    "sl": 107,
+    "user": "Justin Snyder",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.389112903
+  },
+  {
+    "sl": 108,
+    "user": "Emily Cox",
+    "degree": 0.010362694,
+    "betweenness": 0.00000445,
+    "closeness": 0.362101313
+  },
+  {
+    "sl": 109,
+    "user": "Bradley Harris",
+    "degree": 0.062176166,
+    "betweenness": 0.001742115,
+    "closeness": 0.457345972
+  },
+  {
+    "sl": 110,
+    "user": "Adam James",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.38832998
+  },
+  {
+    "sl": 111,
+    "user": "Mark Castillo",
+    "degree": 0.03626943,
+    "betweenness": 0.000250506,
+    "closeness": 0.408898305
+  },
+  {
+    "sl": 112,
+    "user": "Michael (Seon)",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.355432781
+  },
+  {
+    "sl": 113,
+    "user": "pasischuan",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.355432781
+  },
+  {
+    "sl": 114,
+    "user": "Zumi (AI)",
+    "degree": 0.010362694,
+    "betweenness": 0.000220268,
+    "closeness": 0.380670611
+  },
+  {
+    "sl": 115,
+    "user": "Cyrill",
+    "degree": 0.041450777,
+    "betweenness": 0.000860532,
+    "closeness": 0.444700461
+  },
+  {
+    "sl": 116,
+    "user": "Chicken3gg",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.379174853
+  },
+  {
+    "sl": 117,
+    "user": "Haene",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.399585921
+  },
+  {
+    "sl": 118,
+    "user": "Christian Schlieren",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.389112903
+  },
+  {
+    "sl": 119,
+    "user": "Briana Hall",
+    "degree": 0.098445596,
+    "betweenness": 0.016209505,
+    "closeness": 0.45952381
+  },
+  {
+    "sl": 120,
+    "user": "Joshua Wagner",
+    "degree": 0.07253886,
+    "betweenness": 0.00205037,
+    "closeness": 0.473039216
+  },
+  {
+    "sl": 121,
+    "user": "Samantha Conley",
+    "degree": 0.051813472,
+    "betweenness": 0.002941399,
+    "closeness": 0.438636364
+  },
+  {
+    "sl": 122,
+    "user": "Susan Booker",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.392276423
+  },
+  {
+    "sl": 123,
+    "user": "Jeanette Robertson",
+    "degree": 0.020725389,
+    "betweenness": 0,
+    "closeness": 0.393075356
+  },
+  {
+    "sl": 124,
+    "user": "Richard Hines",
+    "degree": 0.015544041,
+    "betweenness": 0.00000771,
+    "closeness": 0.352189781
+  },
+  {
+    "sl": 125,
+    "user": "Keith Morgan Jr.",
+    "degree": 0.056994819,
+    "betweenness": 0.001487656,
+    "closeness": 0.439635535
+  },
+  {
+    "sl": 126,
+    "user": "Justin Carroll",
+    "degree": 0.067357513,
+    "betweenness": 0.001343715,
+    "closeness": 0.453051643
+  },
+  {
+    "sl": 127,
+    "user": "Patricia Frank",
+    "degree": 0.031088083,
+    "betweenness": 0.000218396,
+    "closeness": 0.402083333
+  },
+  {
+    "sl": 128,
+    "user": "Robert Wilcox",
+    "degree": 0.010362694,
+    "betweenness": 0.0000275,
+    "closeness": 0.350272232
+  },
+  {
+    "sl": 129,
+    "user": "Carolyn Brown DVM",
+    "degree": 0.07253886,
+    "betweenness": 0.001342777,
+    "closeness": 0.461722488
+  },
+  {
+    "sl": 130,
+    "user": "James Bush",
+    "degree": 0.020725389,
+    "betweenness": 0.000244088,
+    "closeness": 0.417748918
+  },
+  {
+    "sl": 131,
+    "user": "Lori Nguyen",
+    "degree": 0.077720207,
+    "betweenness": 0.004016171,
+    "closeness": 0.444700461
+  },
+  {
+    "sl": 132,
+    "user": "Michael White",
+    "degree": 0.015544041,
+    "betweenness": 0.000158359,
+    "closeness": 0.39148073
+  },
+  {
+    "sl": 133,
+    "user": "Melissa Clayton",
+    "degree": 0.015544041,
+    "betweenness": 0.00058479,
+    "closeness": 0.392276423
+  },
+  {
+    "sl": 134,
+    "user": "Christina Cameron",
+    "degree": 0.020725389,
+    "betweenness": 0.000299333,
+    "closeness": 0.399585921
+  },
+  {
+    "sl": 135,
+    "user": "Markus Pfister",
+    "degree": 0.015544041,
+    "betweenness": 0.0000499,
+    "closeness": 0.395491803
+  },
+  {
+    "sl": 136,
+    "user": "Westwindwetter",
+    "degree": 0.020725389,
+    "betweenness": 0,
+    "closeness": 0.408033827
+  },
+  {
+    "sl": 137,
+    "user": "Dominic Kurz",
+    "degree": 0.015544041,
+    "betweenness": 0.0000558,
+    "closeness": 0.364150943
+  },
+  {
+    "sl": 138,
+    "user": "Cedric",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.386773547
+  },
+  {
+    "sl": 139,
+    "user": "RoliM",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.340989399
+  },
+  {
+    "sl": 140,
+    "user": "helios",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.379174853
+  },
+  {
+    "sl": 141,
+    "user": "Matthias_BL",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.397938144
+  },
+  {
+    "sl": 142,
+    "user": "Michael78",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.386773547
+  },
+  {
+    "sl": 143,
+    "user": "mono (Zürich)",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.393075356
+  },
+  {
+    "sl": 144,
+    "user": "MHZG",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.301092044
+  },
+  {
+    "sl": 145,
+    "user": "knight",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.302982732
+  },
+  {
+    "sl": 146,
+    "user": "Wer von euch",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.31280389
+  },
+  {
+    "sl": 147,
+    "user": "Off TopicDas ist Quatsch. Es gibt so schnell kein \"Grand solar minimum\". Der Zyklus 25",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.309294872
+  },
+  {
+    "sl": 148,
+    "user": "\\nLernen von der Schweiz\\n\\n\\nAuch in der Schweiz herrschte in der vorvergangenen Woche der Ausnahmezustand. Zuerst traf ein Sturm die Stadt Zürich, dann regnete es über Tage heftig. Die Pegel der Seen stiegen gefährlich an, in mehreren Regionen überflutete das Wasser Straßen, Schienen und Siedlungen. Seit ein paar Tagen entspannt sich die Lage. Und: Die Schäden halten sich in Grenzen. Verletzte oder gar Todesopfer gab es keine, und laut Schätzungen wird das Jahr 2021 zwar ein teures werden für die Versicherer, aber weniger schlimm als zunächst befürchtet.\\n\\nDas",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.315359477
+  },
+  {
+    "sl": 149,
+    "user": "Kimberly Logan",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.387550201
+  },
+  {
+    "sl": 150,
+    "user": "Joshua Winters",
+    "degree": 0.062176166,
+    "betweenness": 0.007188002,
+    "closeness": 0.468446602
+  },
+  {
+    "sl": 151,
+    "user": "Billy Davis Jr.",
+    "degree": 0.07253886,
+    "betweenness": 0.000538277,
+    "closeness": 0.462829736
+  },
+  {
+    "sl": 152,
+    "user": "Robert Smith",
+    "degree": 0.010362694,
+    "betweenness": 0.0000428,
+    "closeness": 0.345878136
+  },
+  {
+    "sl": 153,
+    "user": "Sarah Black",
+    "degree": 0.010362694,
+    "betweenness": 0.0000156,
+    "closeness": 0.364839319
+  },
+  {
+    "sl": 154,
+    "user": "Wendy Calhoun",
+    "degree": 0.082901554,
+    "betweenness": 0.004450881,
+    "closeness": 0.480099502
+  },
+  {
+    "sl": 155,
+    "user": "Lisa Newman",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.377690802
+  },
+  {
+    "sl": 156,
+    "user": "Crystal Cooper",
+    "degree": 0.020725389,
+    "betweenness": 0.0000151,
+    "closeness": 0.397938144
+  },
+  {
+    "sl": 157,
+    "user": "Lance Cabrera",
+    "degree": 0.020725389,
+    "betweenness": 0,
+    "closeness": 0.415053763
+  },
+  {
+    "sl": 158,
+    "user": "Gabe",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.338003503
+  },
+  {
+    "sl": 159,
+    "user": "oneworldflyer",
+    "degree": 0.010362694,
+    "betweenness": 0.0000135,
+    "closeness": 0.323825503
+  },
+  {
+    "sl": 160,
+    "user": "crosley",
+    "degree": 0.025906736,
+    "betweenness": 0,
+    "closeness": 0.402083333
+  },
+  {
+    "sl": 161,
+    "user": "Cindy Matthews",
+    "degree": 0.025906736,
+    "betweenness": 0.010362694,
+    "closeness": 0.427937916
+  },
+  {
+    "sl": 162,
+    "user": "Emily Chandler",
+    "degree": 0.015544041,
+    "betweenness": 0.000468297,
+    "closeness": 0.358736059
+  },
+  {
+    "sl": 163,
+    "user": "Donna Black",
+    "degree": 0.056994819,
+    "betweenness": 0.001027594,
+    "closeness": 0.463942308
+  },
+  {
+    "sl": 164,
+    "user": "Kara Patel",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.377690802
+  },
+  {
+    "sl": 165,
+    "user": "Brian Vargas",
+    "degree": 0.031088083,
+    "betweenness": 0.000117937,
+    "closeness": 0.392276423
+  },
+  {
+    "sl": 166,
+    "user": "nordspot",
+    "degree": 0.010362694,
+    "betweenness": 0.0000135,
+    "closeness": 0.364839319
+  },
+  {
+    "sl": 167,
+    "user": "Grebcol",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.355432781
+  },
+  {
+    "sl": 168,
+    "user": "Was für Hagelmassen! Wann",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.300155521
+  },
+  {
+    "sl": 169,
+    "user": "Pät, Basel",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.358736059
+  },
+  {
+    "sl": 170,
+    "user": "Tobi (Rheintal, VBG)",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.355432781
+  },
+  {
+    "sl": 171,
+    "user": "Mainline",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.317434211
+  },
+  {
+    "sl": 172,
+    "user": "Cindy Dean",
+    "degree": 0.010362694,
+    "betweenness": 0.000138924,
+    "closeness": 0.339788732
+  },
+  {
+    "sl": 173,
+    "user": "William Wade",
+    "degree": 0.020725389,
+    "betweenness": 0.00017437,
+    "closeness": 0.405462185
+  },
+  {
+    "sl": 174,
+    "user": "Ryan Duncan",
+    "degree": 0.010362694,
+    "betweenness": 0.0000453,
+    "closeness": 0.337412587
+  },
+  {
+    "sl": 175,
+    "user": "Yolanda Hernandez",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.404612159
+  },
+  {
+    "sl": 176,
+    "user": "Jerry Rivera",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.399585921
+  },
+  {
+    "sl": 177,
+    "user": "Gabrielle Harvey",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.373307544
+  },
+  {
+    "sl": 178,
+    "user": "Off TopicNine, schön, dass Du wieder an Bord bist.\\nAuch wenn Dir das Hochladen der Fotis gerade fast den Verstand geraubt",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.345878136
+  },
+  {
+    "sl": 179,
+    "user": "Mrs. Amy Christensen",
+    "degree": 0.03626943,
+    "betweenness": 0.000467191,
+    "closeness": 0.425110132
+  },
+  {
+    "sl": 180,
+    "user": "Katherine Dean",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.402083333
+  },
+  {
+    "sl": 181,
+    "user": "Stephanie Williams",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.387550201
+  },
+  {
+    "sl": 182,
+    "user": "Chelsey Smith",
+    "degree": 0.025906736,
+    "betweenness": 0.010397776,
+    "closeness": 0.42139738
+  },
+  {
+    "sl": 183,
+    "user": "Terry Dixon",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.376218324
+  },
+  {
+    "sl": 184,
+    "user": "Michael Ray",
+    "degree": 0.010362694,
+    "betweenness": 0,
+    "closeness": 0.368320611
+  },
+  {
+    "sl": 185,
+    "user": "Carolyn Fuller",
+    "degree": 0.010362694,
+    "betweenness": 0.0000842,
+    "closeness": 0.369731801
+  },
+  {
+    "sl": 186,
+    "user": "Arcus_Praecipitatio",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.339788732
+  },
+  {
+    "sl": 187,
+    "user": "fankyy",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.349005425
+  },
+  {
+    "sl": 188,
+    "user": "schwegi89",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.338003503
+  },
+  {
+    "sl": 189,
+    "user": "PierreK. (Dogern)",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.345878136
+  },
+  {
+    "sl": 190,
+    "user": "Markus (Horw)",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.358070501
+  },
+  {
+    "sl": 191,
+    "user": "samo",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.379174853
+  },
+  {
+    "sl": 192,
+    "user": "dxbruelhart",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.296923077
+  },
+  {
+    "sl": 193,
+    "user": "Philippe Zimmerwald",
+    "degree": 0.005181347,
+    "betweenness": 0,
+    "closeness": 0.358070501
+  }
+]

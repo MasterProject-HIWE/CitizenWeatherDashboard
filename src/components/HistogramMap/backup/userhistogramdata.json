@@ -1,0 +1,3894 @@
+[
+  {
+    "sl": 0,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2021/06/23",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 1,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022/05/22",
+    "category": "Cloudy",
+    "freq": 23
+  },
+  {
+    "sl": 2,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022/05/22",
+    "category": "Lightning",
+    "freq": 2
+  },
+  {
+    "sl": 3,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022/05/22",
+    "category": "Hail",
+    "freq": 133
+  },
+  {
+    "sl": 4,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022/05/22",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 5,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022/05/22",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 6,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022/05/22",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 7,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022/05/22",
+    "category": "Wind",
+    "freq": 6
+  },
+  {
+    "sl": 8,
+    "username": "B3rgl3r",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 42
+  },
+  {
+    "sl": 9,
+    "username": "B3rgl3r",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 54
+  },
+  {
+    "sl": 10,
+    "username": "B3rgl3r",
+    "timestamp": "2022/05/23",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 11,
+    "username": "B3rgl3r",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 990
+  },
+  {
+    "sl": 12,
+    "username": "B3rgl3r",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 75
+  },
+  {
+    "sl": 13,
+    "username": "B3rgl3r",
+    "timestamp": "2022/05/23",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 14,
+    "username": "B3rgl3r",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 3
+  },
+  {
+    "sl": 15,
+    "username": "B3rgl3r",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 23
+  },
+  {
+    "sl": 16,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/01/31",
+    "category": "Cloudy",
+    "freq": 2
+  },
+  {
+    "sl": 17,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/01/31",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 18,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/01/31",
+    "category": "Rain",
+    "freq": 4
+  },
+  {
+    "sl": 19,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/01/31",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 20,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/01/31",
+    "category": "Snow_Cover",
+    "freq": 2
+  },
+  {
+    "sl": 21,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/02/07",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 22,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/02/07",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 23,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/02/21",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 24,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/02/21",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 25,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/04/02",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 26,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/04/09",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 27,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/04/09",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 28,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/03",
+    "category": "Lightning",
+    "freq": 4
+  },
+  {
+    "sl": 29,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/03",
+    "category": "Hail",
+    "freq": 4
+  },
+  {
+    "sl": 30,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/04",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 31,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/04",
+    "category": "Lightning",
+    "freq": 1
+  },
+  {
+    "sl": 32,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/04",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 33,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 10
+  },
+  {
+    "sl": 34,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 24
+  },
+  {
+    "sl": 35,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 58
+  },
+  {
+    "sl": 36,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 40
+  },
+  {
+    "sl": 37,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 16
+  },
+  {
+    "sl": 38,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/27",
+    "category": "Cloudy",
+    "freq": 10
+  },
+  {
+    "sl": 39,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/27",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 40,
+    "username": "Bernhard Oker",
+    "timestamp": "2022/05/27",
+    "category": "Wind",
+    "freq": 7
+  },
+  {
+    "sl": 41,
+    "username": "Chris_83",
+    "timestamp": "2022/04/01",
+    "category": "Cloudy",
+    "freq": 2
+  },
+  {
+    "sl": 42,
+    "username": "Chris_83",
+    "timestamp": "2022/04/01",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 43,
+    "username": "Chris_83",
+    "timestamp": "2022/04/01",
+    "category": "Rain",
+    "freq": 5
+  },
+  {
+    "sl": 44,
+    "username": "Chris_83",
+    "timestamp": "2022/04/01",
+    "category": "Snow",
+    "freq": 2
+  },
+  {
+    "sl": 45,
+    "username": "Chris_83",
+    "timestamp": "2022/04/01",
+    "category": "Snow_Cover",
+    "freq": 23
+  },
+  {
+    "sl": 46,
+    "username": "Chris_83",
+    "timestamp": "2022/04/02",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 47,
+    "username": "Chris_83",
+    "timestamp": "2022/04/02",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 48,
+    "username": "Chris_83",
+    "timestamp": "2022/04/02",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 49,
+    "username": "Chris_83",
+    "timestamp": "2022/04/02",
+    "category": "Snow",
+    "freq": 30
+  },
+  {
+    "sl": 50,
+    "username": "Chris_83",
+    "timestamp": "2022/04/02",
+    "category": "Snow_Cover",
+    "freq": 67
+  },
+  {
+    "sl": 51,
+    "username": "Chris_83",
+    "timestamp": "2022/04/02",
+    "category": "Wind",
+    "freq": 3
+  },
+  {
+    "sl": 52,
+    "username": "Chris_83",
+    "timestamp": "2022/04/03",
+    "category": "Cloudy",
+    "freq": 10
+  },
+  {
+    "sl": 53,
+    "username": "Chris_83",
+    "timestamp": "2022/04/03",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 54,
+    "username": "Chris_83",
+    "timestamp": "2022/04/03",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 55,
+    "username": "Chris_83",
+    "timestamp": "2022/04/03",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 56,
+    "username": "Chris_83",
+    "timestamp": "2022/04/03",
+    "category": "Snow",
+    "freq": 14
+  },
+  {
+    "sl": 57,
+    "username": "Chris_83",
+    "timestamp": "2022/04/03",
+    "category": "Snow_Cover",
+    "freq": 20
+  },
+  {
+    "sl": 58,
+    "username": "Chris_83",
+    "timestamp": "2022/04/03",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 59,
+    "username": "Christian Schlieren",
+    "timestamp": "2022/01/10",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 60,
+    "username": "Christian Schlieren",
+    "timestamp": "2022/01/10",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 61,
+    "username": "David BS",
+    "timestamp": "2021/12/29",
+    "category": "Cloudy",
+    "freq": 20
+  },
+  {
+    "sl": 62,
+    "username": "David BS",
+    "timestamp": "2021/12/29",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 63,
+    "username": "David BS",
+    "timestamp": "2021/12/29",
+    "category": "Fog",
+    "freq": 2
+  },
+  {
+    "sl": 64,
+    "username": "David BS",
+    "timestamp": "2021/12/29",
+    "category": "Rain",
+    "freq": 26
+  },
+  {
+    "sl": 65,
+    "username": "David BS",
+    "timestamp": "2021/12/29",
+    "category": "Snow",
+    "freq": 2
+  },
+  {
+    "sl": 66,
+    "username": "David BS",
+    "timestamp": "2021/12/29",
+    "category": "Snow_Cover",
+    "freq": 30
+  },
+  {
+    "sl": 67,
+    "username": "David BS",
+    "timestamp": "2021/12/29",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 68,
+    "username": "David BS",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 17
+  },
+  {
+    "sl": 69,
+    "username": "David BS",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 22
+  },
+  {
+    "sl": 70,
+    "username": "David BS",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 249
+  },
+  {
+    "sl": 71,
+    "username": "David BS",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 35
+  },
+  {
+    "sl": 72,
+    "username": "David BS",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 10
+  },
+  {
+    "sl": 73,
+    "username": "Dr. Funnel",
+    "timestamp": "2022/02/17",
+    "category": "Cloudy",
+    "freq": 12
+  },
+  {
+    "sl": 74,
+    "username": "Dr. Funnel",
+    "timestamp": "2022/02/17",
+    "category": "Lightning",
+    "freq": 1
+  },
+  {
+    "sl": 75,
+    "username": "Dr. Funnel",
+    "timestamp": "2022/02/17",
+    "category": "Rain",
+    "freq": 10
+  },
+  {
+    "sl": 76,
+    "username": "Dr. Funnel",
+    "timestamp": "2022/02/17",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 77,
+    "username": "Dr. Funnel",
+    "timestamp": "2022/02/17",
+    "category": "Wind",
+    "freq": 56
+  },
+  {
+    "sl": 78,
+    "username": "Federwolke",
+    "timestamp": "2022/02/05",
+    "category": "Cloudy",
+    "freq": 9
+  },
+  {
+    "sl": 79,
+    "username": "Federwolke",
+    "timestamp": "2022/02/05",
+    "category": "Rain",
+    "freq": 2
+  },
+  {
+    "sl": 80,
+    "username": "Federwolke",
+    "timestamp": "2022/02/05",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 81,
+    "username": "Federwolke",
+    "timestamp": "2022/02/08",
+    "category": "Cloudy",
+    "freq": 40
+  },
+  {
+    "sl": 82,
+    "username": "Federwolke",
+    "timestamp": "2022/02/08",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 83,
+    "username": "Federwolke",
+    "timestamp": "2022/04/03",
+    "category": "Cloudy",
+    "freq": 8
+  },
+  {
+    "sl": 84,
+    "username": "Federwolke",
+    "timestamp": "2022/04/03",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 85,
+    "username": "Federwolke",
+    "timestamp": "2022/04/03",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 86,
+    "username": "Federwolke",
+    "timestamp": "2022/04/03",
+    "category": "Snow",
+    "freq": 9
+  },
+  {
+    "sl": 87,
+    "username": "Federwolke",
+    "timestamp": "2022/04/03",
+    "category": "Snow_Cover",
+    "freq": 11
+  },
+  {
+    "sl": 88,
+    "username": "Federwolke",
+    "timestamp": "2022/04/03",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 89,
+    "username": "Federwolke",
+    "timestamp": "2022/04/04",
+    "category": "Cloudy",
+    "freq": 39
+  },
+  {
+    "sl": 90,
+    "username": "Federwolke",
+    "timestamp": "2022/04/04",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 91,
+    "username": "Federwolke",
+    "timestamp": "2022/04/04",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 92,
+    "username": "Federwolke",
+    "timestamp": "2022/04/04",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 93,
+    "username": "Federwolke",
+    "timestamp": "2022/04/24",
+    "category": "Cloudy",
+    "freq": 20
+  },
+  {
+    "sl": 94,
+    "username": "Federwolke",
+    "timestamp": "2022/04/24",
+    "category": "Lightning",
+    "freq": 10
+  },
+  {
+    "sl": 95,
+    "username": "Federwolke",
+    "timestamp": "2022/04/24",
+    "category": "Hail",
+    "freq": 4
+  },
+  {
+    "sl": 96,
+    "username": "Federwolke",
+    "timestamp": "2022/04/24",
+    "category": "Rain",
+    "freq": 32
+  },
+  {
+    "sl": 97,
+    "username": "Federwolke",
+    "timestamp": "2022/04/24",
+    "category": "Snow_Cover",
+    "freq": 2
+  },
+  {
+    "sl": 98,
+    "username": "Federwolke",
+    "timestamp": "2022/04/24",
+    "category": "Tornado",
+    "freq": 2
+  },
+  {
+    "sl": 99,
+    "username": "Federwolke",
+    "timestamp": "2022/04/24",
+    "category": "Wind",
+    "freq": 23
+  },
+  {
+    "sl": 100,
+    "username": "Federwolke",
+    "timestamp": "2022/04/25",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 101,
+    "username": "Federwolke",
+    "timestamp": "2022/04/25",
+    "category": "Lightning",
+    "freq": 1
+  },
+  {
+    "sl": 102,
+    "username": "Federwolke",
+    "timestamp": "2022/04/25",
+    "category": "Rain",
+    "freq": 8
+  },
+  {
+    "sl": 103,
+    "username": "Federwolke",
+    "timestamp": "2022/05/21",
+    "category": "Cloudy",
+    "freq": 8
+  },
+  {
+    "sl": 104,
+    "username": "Federwolke",
+    "timestamp": "2022/05/21",
+    "category": "Lightning",
+    "freq": 2
+  },
+  {
+    "sl": 105,
+    "username": "Federwolke",
+    "timestamp": "2022/05/21",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 106,
+    "username": "Federwolke",
+    "timestamp": "2022/05/21",
+    "category": "Rain",
+    "freq": 2
+  },
+  {
+    "sl": 107,
+    "username": "Federwolke",
+    "timestamp": "2022/05/21",
+    "category": "Wind",
+    "freq": 3
+  },
+  {
+    "sl": 108,
+    "username": "Federwolke",
+    "timestamp": "2022/05/22",
+    "category": "Cloudy",
+    "freq": 58
+  },
+  {
+    "sl": 109,
+    "username": "Federwolke",
+    "timestamp": "2022/05/22",
+    "category": "Lightning",
+    "freq": 15
+  },
+  {
+    "sl": 110,
+    "username": "Federwolke",
+    "timestamp": "2022/05/22",
+    "category": "Hail",
+    "freq": 280
+  },
+  {
+    "sl": 111,
+    "username": "Federwolke",
+    "timestamp": "2022/05/22",
+    "category": "Rain",
+    "freq": 25
+  },
+  {
+    "sl": 112,
+    "username": "Federwolke",
+    "timestamp": "2022/05/22",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 113,
+    "username": "Federwolke",
+    "timestamp": "2022/05/22",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 114,
+    "username": "Federwolke",
+    "timestamp": "2022/05/22",
+    "category": "Wind",
+    "freq": 4
+  },
+  {
+    "sl": 115,
+    "username": "Friburg",
+    "timestamp": "2022/05/22",
+    "category": "Cloudy",
+    "freq": 58
+  },
+  {
+    "sl": 116,
+    "username": "Friburg",
+    "timestamp": "2022/05/22",
+    "category": "Lightning",
+    "freq": 15
+  },
+  {
+    "sl": 117,
+    "username": "Friburg",
+    "timestamp": "2022/05/22",
+    "category": "Hail",
+    "freq": 280
+  },
+  {
+    "sl": 118,
+    "username": "Friburg",
+    "timestamp": "2022/05/22",
+    "category": "Rain",
+    "freq": 25
+  },
+  {
+    "sl": 119,
+    "username": "Friburg",
+    "timestamp": "2022/05/22",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 120,
+    "username": "Friburg",
+    "timestamp": "2022/05/22",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 121,
+    "username": "Friburg",
+    "timestamp": "2022/05/22",
+    "category": "Wind",
+    "freq": 4
+  },
+  {
+    "sl": 122,
+    "username": "Gabe",
+    "timestamp": "2021/06/23",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 123,
+    "username": "Grebcol",
+    "timestamp": "2021/06/23",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 124,
+    "username": "Haene",
+    "timestamp": "2022/04/03",
+    "category": "Cloudy",
+    "freq": 8
+  },
+  {
+    "sl": 125,
+    "username": "Haene",
+    "timestamp": "2022/04/03",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 126,
+    "username": "Haene",
+    "timestamp": "2022/04/03",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 127,
+    "username": "Haene",
+    "timestamp": "2022/04/03",
+    "category": "Snow",
+    "freq": 9
+  },
+  {
+    "sl": 128,
+    "username": "Haene",
+    "timestamp": "2022/04/03",
+    "category": "Snow_Cover",
+    "freq": 11
+  },
+  {
+    "sl": 129,
+    "username": "Haene",
+    "timestamp": "2022/04/03",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 130,
+    "username": "Haene",
+    "timestamp": "2022/04/09",
+    "category": "Cloudy",
+    "freq": 5
+  },
+  {
+    "sl": 131,
+    "username": "Haene",
+    "timestamp": "2022/04/09",
+    "category": "Lightning",
+    "freq": 5
+  },
+  {
+    "sl": 132,
+    "username": "Haene",
+    "timestamp": "2022/04/09",
+    "category": "Hail",
+    "freq": 21
+  },
+  {
+    "sl": 133,
+    "username": "Haene",
+    "timestamp": "2022/04/09",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 134,
+    "username": "Haene",
+    "timestamp": "2022/04/09",
+    "category": "Rain",
+    "freq": 2
+  },
+  {
+    "sl": 135,
+    "username": "Haene",
+    "timestamp": "2022/04/09",
+    "category": "Snow_Cover",
+    "freq": 10
+  },
+  {
+    "sl": 136,
+    "username": "Haene",
+    "timestamp": "2022/04/09",
+    "category": "Wind",
+    "freq": 13
+  },
+  {
+    "sl": 137,
+    "username": "Haene",
+    "timestamp": "2022/05/05",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 138,
+    "username": "Haene",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 17
+  },
+  {
+    "sl": 139,
+    "username": "Haene",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 22
+  },
+  {
+    "sl": 140,
+    "username": "Haene",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 249
+  },
+  {
+    "sl": 141,
+    "username": "Haene",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 35
+  },
+  {
+    "sl": 142,
+    "username": "Haene",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 10
+  },
+  {
+    "sl": 143,
+    "username": "Heiziger",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 42
+  },
+  {
+    "sl": 144,
+    "username": "Heiziger",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 54
+  },
+  {
+    "sl": 145,
+    "username": "Heiziger",
+    "timestamp": "2022/05/23",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 146,
+    "username": "Heiziger",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 990
+  },
+  {
+    "sl": 147,
+    "username": "Heiziger",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 75
+  },
+  {
+    "sl": 148,
+    "username": "Heiziger",
+    "timestamp": "2022/05/23",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 149,
+    "username": "Heiziger",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 3
+  },
+  {
+    "sl": 150,
+    "username": "Heiziger",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 23
+  },
+  {
+    "sl": 151,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021/10/20",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 152,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021/12/30",
+    "category": "Cloudy",
+    "freq": 22
+  },
+  {
+    "sl": 153,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021/12/30",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 154,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021/12/30",
+    "category": "Rain",
+    "freq": 12
+  },
+  {
+    "sl": 155,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021/12/30",
+    "category": "Snow",
+    "freq": 2
+  },
+  {
+    "sl": 156,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021/12/30",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 157,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/03",
+    "category": "Cloudy",
+    "freq": 22
+  },
+  {
+    "sl": 158,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/03",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 159,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/03",
+    "category": "Hail",
+    "freq": 4
+  },
+  {
+    "sl": 160,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/03",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 161,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/03",
+    "category": "Snow",
+    "freq": 22
+  },
+  {
+    "sl": 162,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/03",
+    "category": "Snow_Cover",
+    "freq": 37
+  },
+  {
+    "sl": 163,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/03",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 164,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/08",
+    "category": "Cloudy",
+    "freq": 2
+  },
+  {
+    "sl": 165,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/08",
+    "category": "Lightning",
+    "freq": 2
+  },
+  {
+    "sl": 166,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/08",
+    "category": "Rain",
+    "freq": 15
+  },
+  {
+    "sl": 167,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022/04/08",
+    "category": "Wind",
+    "freq": 33
+  },
+  {
+    "sl": 168,
+    "username": "Jeannette",
+    "timestamp": "2021/12/19",
+    "category": "Cloudy",
+    "freq": 10
+  },
+  {
+    "sl": 169,
+    "username": "Jeannette",
+    "timestamp": "2021/12/19",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 170,
+    "username": "Jeannette",
+    "timestamp": "2021/12/19",
+    "category": "Fog",
+    "freq": 28
+  },
+  {
+    "sl": 171,
+    "username": "Jeannette",
+    "timestamp": "2021/12/19",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 172,
+    "username": "Jeannette",
+    "timestamp": "2021/12/19",
+    "category": "Snow",
+    "freq": 2
+  },
+  {
+    "sl": 173,
+    "username": "Jeannette",
+    "timestamp": "2021/12/19",
+    "category": "Snow_Cover",
+    "freq": 2
+  },
+  {
+    "sl": 174,
+    "username": "Jeannette",
+    "timestamp": "2021/12/19",
+    "category": "Tornado",
+    "freq": 2
+  },
+  {
+    "sl": 175,
+    "username": "Jeannette",
+    "timestamp": "2021/12/19",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 176,
+    "username": "Jeannette",
+    "timestamp": "2022/01/07",
+    "category": "Cloudy",
+    "freq": 17
+  },
+  {
+    "sl": 177,
+    "username": "Jeannette",
+    "timestamp": "2022/01/07",
+    "category": "Icy_Conditions",
+    "freq": 4
+  },
+  {
+    "sl": 178,
+    "username": "Jeannette",
+    "timestamp": "2022/01/07",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 179,
+    "username": "Jeannette",
+    "timestamp": "2022/01/07",
+    "category": "Snow",
+    "freq": 5
+  },
+  {
+    "sl": 180,
+    "username": "Jeannette",
+    "timestamp": "2022/01/07",
+    "category": "Snow_Cover",
+    "freq": 44
+  },
+  {
+    "sl": 181,
+    "username": "Jeannette",
+    "timestamp": "2022/01/07",
+    "category": "Wind",
+    "freq": 4
+  },
+  {
+    "sl": 182,
+    "username": "Jeannette",
+    "timestamp": "2022/01/11",
+    "category": "Cloudy",
+    "freq": 13
+  },
+  {
+    "sl": 183,
+    "username": "Jeannette",
+    "timestamp": "2022/01/11",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 184,
+    "username": "Jeannette",
+    "timestamp": "2022/01/11",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 185,
+    "username": "Jeannette",
+    "timestamp": "2022/01/11",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 186,
+    "username": "Jeannette",
+    "timestamp": "2022/01/11",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 187,
+    "username": "Jeannette",
+    "timestamp": "2022/02/08",
+    "category": "Cloudy",
+    "freq": 26
+  },
+  {
+    "sl": 188,
+    "username": "Jeannette",
+    "timestamp": "2022/02/08",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 189,
+    "username": "Jeannette",
+    "timestamp": "2022/02/08",
+    "category": "Wind",
+    "freq": 3
+  },
+  {
+    "sl": 190,
+    "username": "Jeannette",
+    "timestamp": "2022/05/07",
+    "category": "Cloudy",
+    "freq": 26
+  },
+  {
+    "sl": 191,
+    "username": "Jeannette",
+    "timestamp": "2022/05/07",
+    "category": "Lightning",
+    "freq": 22
+  },
+  {
+    "sl": 192,
+    "username": "Jeannette",
+    "timestamp": "2022/05/07",
+    "category": "Hail",
+    "freq": 85
+  },
+  {
+    "sl": 193,
+    "username": "Jeannette",
+    "timestamp": "2022/05/07",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 194,
+    "username": "Jeannette",
+    "timestamp": "2022/05/07",
+    "category": "Rain",
+    "freq": 28
+  },
+  {
+    "sl": 195,
+    "username": "Jeannette",
+    "timestamp": "2022/05/07",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 196,
+    "username": "Jeannette",
+    "timestamp": "2022/05/22",
+    "category": "Cloudy",
+    "freq": 43
+  },
+  {
+    "sl": 197,
+    "username": "Jeannette",
+    "timestamp": "2022/05/22",
+    "category": "Lightning",
+    "freq": 7
+  },
+  {
+    "sl": 198,
+    "username": "Jeannette",
+    "timestamp": "2022/05/22",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 199,
+    "username": "Jeannette",
+    "timestamp": "2022/05/22",
+    "category": "Hail",
+    "freq": 4
+  },
+  {
+    "sl": 200,
+    "username": "Jeannette",
+    "timestamp": "2022/05/22",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 201,
+    "username": "Jeannette",
+    "timestamp": "2022/05/22",
+    "category": "Rain",
+    "freq": 15
+  },
+  {
+    "sl": 202,
+    "username": "Jeannette",
+    "timestamp": "2022/05/22",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 203,
+    "username": "Jeannette",
+    "timestamp": "2022/05/22",
+    "category": "Wind",
+    "freq": 6
+  },
+  {
+    "sl": 204,
+    "username": "Jeannette",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 71
+  },
+  {
+    "sl": 205,
+    "username": "Jeannette",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 114
+  },
+  {
+    "sl": 206,
+    "username": "Jeannette",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 430
+  },
+  {
+    "sl": 207,
+    "username": "Jeannette",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 113
+  },
+  {
+    "sl": 208,
+    "username": "Jeannette",
+    "timestamp": "2022/05/23",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 209,
+    "username": "Jeannette",
+    "timestamp": "2022/05/23",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 210,
+    "username": "Jeannette",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 3
+  },
+  {
+    "sl": 211,
+    "username": "Jeannette",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 46
+  },
+  {
+    "sl": 212,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2021/12/27",
+    "category": "Cloudy",
+    "freq": 3
+  },
+  {
+    "sl": 213,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2021/12/27",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 214,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2021/12/27",
+    "category": "Rain",
+    "freq": 2
+  },
+  {
+    "sl": 215,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2021/12/27",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 216,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/08",
+    "category": "Cloudy",
+    "freq": 20
+  },
+  {
+    "sl": 217,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/08",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 218,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/08",
+    "category": "Rain",
+    "freq": 3
+  },
+  {
+    "sl": 219,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/08",
+    "category": "Snow",
+    "freq": 2
+  },
+  {
+    "sl": 220,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/08",
+    "category": "Snow_Cover",
+    "freq": 6
+  },
+  {
+    "sl": 221,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/08",
+    "category": "Wind",
+    "freq": 16
+  },
+  {
+    "sl": 222,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/09",
+    "category": "Cloudy",
+    "freq": 22
+  },
+  {
+    "sl": 223,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/09",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 224,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/09",
+    "category": "Rain",
+    "freq": 22
+  },
+  {
+    "sl": 225,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/09",
+    "category": "Snow",
+    "freq": 5
+  },
+  {
+    "sl": 226,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/09",
+    "category": "Snow_Cover",
+    "freq": 55
+  },
+  {
+    "sl": 227,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/09",
+    "category": "Tornado",
+    "freq": 2
+  },
+  {
+    "sl": 228,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/01/09",
+    "category": "Wind",
+    "freq": 22
+  },
+  {
+    "sl": 229,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/07",
+    "category": "Cloudy",
+    "freq": 5
+  },
+  {
+    "sl": 230,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/07",
+    "category": "Rain",
+    "freq": 3
+  },
+  {
+    "sl": 231,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/07",
+    "category": "Snow_Cover",
+    "freq": 2
+  },
+  {
+    "sl": 232,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/07",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 233,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/07",
+    "category": "Wind",
+    "freq": 30
+  },
+  {
+    "sl": 234,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/17",
+    "category": "Cloudy",
+    "freq": 12
+  },
+  {
+    "sl": 235,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/17",
+    "category": "Lightning",
+    "freq": 1
+  },
+  {
+    "sl": 236,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/17",
+    "category": "Rain",
+    "freq": 10
+  },
+  {
+    "sl": 237,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/17",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 238,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/02/17",
+    "category": "Wind",
+    "freq": 56
+  },
+  {
+    "sl": 239,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/07",
+    "category": "Cloudy",
+    "freq": 4
+  },
+  {
+    "sl": 240,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/07",
+    "category": "Lightning",
+    "freq": 2
+  },
+  {
+    "sl": 241,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/07",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 242,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/07",
+    "category": "Rain",
+    "freq": 14
+  },
+  {
+    "sl": 243,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/07",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 244,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/07",
+    "category": "Tornado",
+    "freq": 7
+  },
+  {
+    "sl": 245,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/07",
+    "category": "Wind",
+    "freq": 36
+  },
+  {
+    "sl": 246,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/26",
+    "category": "Cloudy",
+    "freq": 8
+  },
+  {
+    "sl": 247,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/26",
+    "category": "Lightning",
+    "freq": 11
+  },
+  {
+    "sl": 248,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/26",
+    "category": "Hail",
+    "freq": 41
+  },
+  {
+    "sl": 249,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/26",
+    "category": "Rain",
+    "freq": 16
+  },
+  {
+    "sl": 250,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/04/26",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 251,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 67
+  },
+  {
+    "sl": 252,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 116
+  },
+  {
+    "sl": 253,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 254,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 343
+  },
+  {
+    "sl": 255,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 256,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 130
+  },
+  {
+    "sl": 257,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Snow",
+    "freq": 2
+  },
+  {
+    "sl": 258,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Snow_Cover",
+    "freq": 2
+  },
+  {
+    "sl": 259,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 4
+  },
+  {
+    "sl": 260,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 46
+  },
+  {
+    "sl": 261,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 13
+  },
+  {
+    "sl": 262,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 24
+  },
+  {
+    "sl": 263,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 264,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 162
+  },
+  {
+    "sl": 265,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 266,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 52
+  },
+  {
+    "sl": 267,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 268,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 269,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 270,
+    "username": "Laseyer",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 10
+  },
+  {
+    "sl": 271,
+    "username": "Linth",
+    "timestamp": "2022/04/24",
+    "category": "Cloudy",
+    "freq": 13
+  },
+  {
+    "sl": 272,
+    "username": "Linth",
+    "timestamp": "2022/04/24",
+    "category": "Lightning",
+    "freq": 7
+  },
+  {
+    "sl": 273,
+    "username": "Linth",
+    "timestamp": "2022/04/24",
+    "category": "Hail",
+    "freq": 6
+  },
+  {
+    "sl": 274,
+    "username": "Linth",
+    "timestamp": "2022/04/24",
+    "category": "Rain",
+    "freq": 10
+  },
+  {
+    "sl": 275,
+    "username": "Linth",
+    "timestamp": "2022/04/24",
+    "category": "Snow",
+    "freq": 3
+  },
+  {
+    "sl": 276,
+    "username": "Linth",
+    "timestamp": "2022/04/24",
+    "category": "Snow_Cover",
+    "freq": 3
+  },
+  {
+    "sl": 277,
+    "username": "Linth",
+    "timestamp": "2022/04/24",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 278,
+    "username": "MHZG",
+    "timestamp": "2022/04/01",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 279,
+    "username": "MHZG",
+    "timestamp": "2022/04/01",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 280,
+    "username": "MHZG",
+    "timestamp": "2022/04/01",
+    "category": "Snow",
+    "freq": 2
+  },
+  {
+    "sl": 281,
+    "username": "MHZG",
+    "timestamp": "2022/04/01",
+    "category": "Snow_Cover",
+    "freq": 9
+  },
+  {
+    "sl": 282,
+    "username": "MHZG",
+    "timestamp": "2022/04/01",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 283,
+    "username": "Mainline",
+    "timestamp": "2022/04/02",
+    "category": "Cloudy",
+    "freq": 4
+  },
+  {
+    "sl": 284,
+    "username": "Mainline",
+    "timestamp": "2022/04/02",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 285,
+    "username": "Mainline",
+    "timestamp": "2022/04/02",
+    "category": "Snow",
+    "freq": 26
+  },
+  {
+    "sl": 286,
+    "username": "Mainline",
+    "timestamp": "2022/04/02",
+    "category": "Snow_Cover",
+    "freq": 42
+  },
+  {
+    "sl": 287,
+    "username": "Mainline",
+    "timestamp": "2022/04/02",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 288,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/03",
+    "category": "Cloudy",
+    "freq": 15
+  },
+  {
+    "sl": 289,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/03",
+    "category": "Lightning",
+    "freq": 11
+  },
+  {
+    "sl": 290,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/03",
+    "category": "Hail",
+    "freq": 4
+  },
+  {
+    "sl": 291,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/03",
+    "category": "Rain",
+    "freq": 10
+  },
+  {
+    "sl": 292,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/04",
+    "category": "Cloudy",
+    "freq": 3
+  },
+  {
+    "sl": 293,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/04",
+    "category": "Lightning",
+    "freq": 1
+  },
+  {
+    "sl": 294,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/04",
+    "category": "Hail",
+    "freq": 8
+  },
+  {
+    "sl": 295,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 13
+  },
+  {
+    "sl": 296,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 24
+  },
+  {
+    "sl": 297,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 298,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 162
+  },
+  {
+    "sl": 299,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 300,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 52
+  },
+  {
+    "sl": 301,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 302,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 303,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 304,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 10
+  },
+  {
+    "sl": 305,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 13
+  },
+  {
+    "sl": 306,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 24
+  },
+  {
+    "sl": 307,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 308,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 162
+  },
+  {
+    "sl": 309,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 310,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 52
+  },
+  {
+    "sl": 311,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 312,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 313,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 314,
+    "username": "Markus (Horw)",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 10
+  },
+  {
+    "sl": 315,
+    "username": "Markus Pfister",
+    "timestamp": "2022/01/04",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 316,
+    "username": "Mathias Uster",
+    "timestamp": "2022/04/09",
+    "category": "Cloudy",
+    "freq": 14
+  },
+  {
+    "sl": 317,
+    "username": "Mathias Uster",
+    "timestamp": "2022/04/09",
+    "category": "Wind",
+    "freq": 58
+  },
+  {
+    "sl": 318,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022/05/21",
+    "category": "Cloudy",
+    "freq": 12
+  },
+  {
+    "sl": 319,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022/05/21",
+    "category": "Lightning",
+    "freq": 8
+  },
+  {
+    "sl": 320,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022/05/21",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 321,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022/05/21",
+    "category": "Rain",
+    "freq": 6
+  },
+  {
+    "sl": 322,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022/05/21",
+    "category": "Wind",
+    "freq": 3
+  },
+  {
+    "sl": 323,
+    "username": "Michael ZH",
+    "timestamp": "2022/05/22",
+    "category": "Cloudy",
+    "freq": 7
+  },
+  {
+    "sl": 324,
+    "username": "Michael ZH",
+    "timestamp": "2022/05/22",
+    "category": "Lightning",
+    "freq": 11
+  },
+  {
+    "sl": 325,
+    "username": "Michael ZH",
+    "timestamp": "2022/05/22",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 326,
+    "username": "Michael ZH",
+    "timestamp": "2022/05/22",
+    "category": "Rain",
+    "freq": 11
+  },
+  {
+    "sl": 327,
+    "username": "Michael ZH",
+    "timestamp": "2022/05/22",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 328,
+    "username": "Microwave",
+    "timestamp": "2022/01/10",
+    "category": "Cloudy",
+    "freq": 9
+  },
+  {
+    "sl": 329,
+    "username": "Microwave",
+    "timestamp": "2022/01/10",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 330,
+    "username": "Microwave",
+    "timestamp": "2022/01/10",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 331,
+    "username": "Microwave",
+    "timestamp": "2022/01/10",
+    "category": "Snow",
+    "freq": 3
+  },
+  {
+    "sl": 332,
+    "username": "Microwave",
+    "timestamp": "2022/01/10",
+    "category": "Snow_Cover",
+    "freq": 2
+  },
+  {
+    "sl": 333,
+    "username": "Microwave",
+    "timestamp": "2022/05/04",
+    "category": "Cloudy",
+    "freq": 3
+  },
+  {
+    "sl": 334,
+    "username": "Microwave",
+    "timestamp": "2022/05/04",
+    "category": "Lightning",
+    "freq": 6
+  },
+  {
+    "sl": 335,
+    "username": "Microwave",
+    "timestamp": "2022/05/04",
+    "category": "Hail",
+    "freq": 21
+  },
+  {
+    "sl": 336,
+    "username": "Microwave",
+    "timestamp": "2022/05/04",
+    "category": "Rain",
+    "freq": 3
+  },
+  {
+    "sl": 337,
+    "username": "Microwave",
+    "timestamp": "2022/05/04",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 338,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022/04/02",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 339,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022/04/02",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 340,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022/04/02",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 341,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022/04/02",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 342,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022/04/02",
+    "category": "Snow",
+    "freq": 37
+  },
+  {
+    "sl": 343,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022/04/02",
+    "category": "Snow_Cover",
+    "freq": 75
+  },
+  {
+    "sl": 344,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022/04/02",
+    "category": "Wind",
+    "freq": 3
+  },
+  {
+    "sl": 345,
+    "username": "Obernef",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 42
+  },
+  {
+    "sl": 346,
+    "username": "Obernef",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 54
+  },
+  {
+    "sl": 347,
+    "username": "Obernef",
+    "timestamp": "2022/05/23",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 348,
+    "username": "Obernef",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 990
+  },
+  {
+    "sl": 349,
+    "username": "Obernef",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 75
+  },
+  {
+    "sl": 350,
+    "username": "Obernef",
+    "timestamp": "2022/05/23",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 351,
+    "username": "Obernef",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 3
+  },
+  {
+    "sl": 352,
+    "username": "Obernef",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 23
+  },
+  {
+    "sl": 353,
+    "username": "Patrick /Arosa/",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 31
+  },
+  {
+    "sl": 354,
+    "username": "Patrick /Arosa/",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 17
+  },
+  {
+    "sl": 355,
+    "username": "Patrick /Arosa/",
+    "timestamp": "2022/05/23",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 356,
+    "username": "Patrick /Arosa/",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 17
+  },
+  {
+    "sl": 357,
+    "username": "Patrick /Arosa/",
+    "timestamp": "2022/05/23",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 358,
+    "username": "Patrick /Arosa/",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 29
+  },
+  {
+    "sl": 359,
+    "username": "Patrick /Arosa/",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 6
+  },
+  {
+    "sl": 360,
+    "username": "Patrick /Arosa/",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 9
+  },
+  {
+    "sl": 361,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022/04/01",
+    "category": "Cloudy",
+    "freq": 4
+  },
+  {
+    "sl": 362,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022/04/01",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 363,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022/04/01",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 364,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022/04/01",
+    "category": "Rain",
+    "freq": 5
+  },
+  {
+    "sl": 365,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022/04/01",
+    "category": "Snow",
+    "freq": 42
+  },
+  {
+    "sl": 366,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022/04/01",
+    "category": "Snow_Cover",
+    "freq": 123
+  },
+  {
+    "sl": 367,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022/04/01",
+    "category": "Wind",
+    "freq": 7
+  },
+  {
+    "sl": 368,
+    "username": "Severestorms",
+    "timestamp": "2022/05/03",
+    "category": "Cloudy",
+    "freq": 11
+  },
+  {
+    "sl": 369,
+    "username": "Severestorms",
+    "timestamp": "2022/05/03",
+    "category": "Lightning",
+    "freq": 11
+  },
+  {
+    "sl": 370,
+    "username": "Severestorms",
+    "timestamp": "2022/05/03",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 371,
+    "username": "Severestorms",
+    "timestamp": "2022/05/03",
+    "category": "Rain",
+    "freq": 5
+  },
+  {
+    "sl": 372,
+    "username": "Severestorms",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 3
+  },
+  {
+    "sl": 373,
+    "username": "Severestorms",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 374,
+    "username": "Severestorms",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 2
+  },
+  {
+    "sl": 375,
+    "username": "Severestorms",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 376,
+    "username": "Stabe",
+    "timestamp": "2022/02/07",
+    "category": "Cloudy",
+    "freq": 22
+  },
+  {
+    "sl": 377,
+    "username": "Stabe",
+    "timestamp": "2022/02/07",
+    "category": "Lightning",
+    "freq": 6
+  },
+  {
+    "sl": 378,
+    "username": "Stabe",
+    "timestamp": "2022/02/07",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 379,
+    "username": "Stabe",
+    "timestamp": "2022/02/07",
+    "category": "Rain",
+    "freq": 4
+  },
+  {
+    "sl": 380,
+    "username": "Stabe",
+    "timestamp": "2022/02/07",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 381,
+    "username": "Stabe",
+    "timestamp": "2022/02/07",
+    "category": "Wind",
+    "freq": 36
+  },
+  {
+    "sl": 382,
+    "username": "Stabe",
+    "timestamp": "2022/04/08",
+    "category": "Cloudy",
+    "freq": 23
+  },
+  {
+    "sl": 383,
+    "username": "Stabe",
+    "timestamp": "2022/04/08",
+    "category": "Lightning",
+    "freq": 7
+  },
+  {
+    "sl": 384,
+    "username": "Stabe",
+    "timestamp": "2022/04/08",
+    "category": "Hail",
+    "freq": 12
+  },
+  {
+    "sl": 385,
+    "username": "Stabe",
+    "timestamp": "2022/04/08",
+    "category": "Rain",
+    "freq": 29
+  },
+  {
+    "sl": 386,
+    "username": "Stabe",
+    "timestamp": "2022/04/08",
+    "category": "Tornado",
+    "freq": 3
+  },
+  {
+    "sl": 387,
+    "username": "Stabe",
+    "timestamp": "2022/04/08",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 388,
+    "username": "Staublaui99",
+    "timestamp": "2022/01/31",
+    "category": "Cloudy",
+    "freq": 2
+  },
+  {
+    "sl": 389,
+    "username": "Staublaui99",
+    "timestamp": "2022/01/31",
+    "category": "Icy_Conditions",
+    "freq": 3
+  },
+  {
+    "sl": 390,
+    "username": "Staublaui99",
+    "timestamp": "2022/01/31",
+    "category": "Rain",
+    "freq": 3
+  },
+  {
+    "sl": 391,
+    "username": "Staublaui99",
+    "timestamp": "2022/01/31",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 392,
+    "username": "Staublaui99",
+    "timestamp": "2022/01/31",
+    "category": "Snow_Cover",
+    "freq": 18
+  },
+  {
+    "sl": 393,
+    "username": "Staublaui99",
+    "timestamp": "2022/01/31",
+    "category": "Wind",
+    "freq": 16
+  },
+  {
+    "sl": 394,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/01",
+    "category": "Cloudy",
+    "freq": 26
+  },
+  {
+    "sl": 395,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/01",
+    "category": "Icy_Conditions",
+    "freq": 12
+  },
+  {
+    "sl": 396,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/01",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 397,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/01",
+    "category": "Rain",
+    "freq": 2
+  },
+  {
+    "sl": 398,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/01",
+    "category": "Snow",
+    "freq": 41
+  },
+  {
+    "sl": 399,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/01",
+    "category": "Snow_Cover",
+    "freq": 30
+  },
+  {
+    "sl": 400,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/01",
+    "category": "Wind",
+    "freq": 17
+  },
+  {
+    "sl": 401,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/02",
+    "category": "Cloudy",
+    "freq": 15
+  },
+  {
+    "sl": 402,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/02",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 403,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/02",
+    "category": "Rain",
+    "freq": 19
+  },
+  {
+    "sl": 404,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/02",
+    "category": "Snow",
+    "freq": 1
+  },
+  {
+    "sl": 405,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/02",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 406,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/02/02",
+    "category": "Wind",
+    "freq": 6
+  },
+  {
+    "sl": 407,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/03/31",
+    "category": "Cloudy",
+    "freq": 2
+  },
+  {
+    "sl": 408,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/03/31",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 409,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/03/31",
+    "category": "Rain",
+    "freq": 2
+  },
+  {
+    "sl": 410,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/03/31",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 411,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/04/01",
+    "category": "Cloudy",
+    "freq": 8
+  },
+  {
+    "sl": 412,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/04/01",
+    "category": "Icy_Conditions",
+    "freq": 4
+  },
+  {
+    "sl": 413,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/04/01",
+    "category": "Hail",
+    "freq": 5
+  },
+  {
+    "sl": 414,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/04/01",
+    "category": "Rain",
+    "freq": 11
+  },
+  {
+    "sl": 415,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/04/01",
+    "category": "Snow",
+    "freq": 105
+  },
+  {
+    "sl": 416,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/04/01",
+    "category": "Snow_Cover",
+    "freq": 303
+  },
+  {
+    "sl": 417,
+    "username": "Thomas, Belp",
+    "timestamp": "2022/04/01",
+    "category": "Wind",
+    "freq": 14
+  },
+  {
+    "sl": 418,
+    "username": "Timi1908",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 3
+  },
+  {
+    "sl": 419,
+    "username": "Timi1908",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 12
+  },
+  {
+    "sl": 420,
+    "username": "Timi1908",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 421,
+    "username": "Timi1908",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 19
+  },
+  {
+    "sl": 422,
+    "username": "Timi1908",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 6
+  },
+  {
+    "sl": 423,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2021/12/29",
+    "category": "Rain",
+    "freq": 8
+  },
+  {
+    "sl": 424,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2021/12/29",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 425,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022/04/02",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 426,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022/04/25",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 427,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022/04/25",
+    "category": "Lightning",
+    "freq": 1
+  },
+  {
+    "sl": 428,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022/04/25",
+    "category": "Rain",
+    "freq": 8
+  },
+  {
+    "sl": 429,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022/04/26",
+    "category": "Cloudy",
+    "freq": 5
+  },
+  {
+    "sl": 430,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022/04/26",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 431,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022/04/26",
+    "category": "Rain",
+    "freq": 7
+  },
+  {
+    "sl": 432,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022/04/26",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 433,
+    "username": "Tobi31",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 4
+  },
+  {
+    "sl": 434,
+    "username": "Tobi31",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 14
+  },
+  {
+    "sl": 435,
+    "username": "Tobi31",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 53
+  },
+  {
+    "sl": 436,
+    "username": "Tobi31",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 12
+  },
+  {
+    "sl": 437,
+    "username": "Tobi31",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 4
+  },
+  {
+    "sl": 438,
+    "username": "Tobi31",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 6
+  },
+  {
+    "sl": 439,
+    "username": "Vortex2",
+    "timestamp": "2021/12/28",
+    "category": "Cloudy",
+    "freq": 2
+  },
+  {
+    "sl": 440,
+    "username": "Vortex2",
+    "timestamp": "2021/12/28",
+    "category": "Rain",
+    "freq": 4
+  },
+  {
+    "sl": 441,
+    "username": "Vortex2",
+    "timestamp": "2021/12/28",
+    "category": "Wind",
+    "freq": 8
+  },
+  {
+    "sl": 442,
+    "username": "Vortex2",
+    "timestamp": "2022/02/05",
+    "category": "Cloudy",
+    "freq": 9
+  },
+  {
+    "sl": 443,
+    "username": "Vortex2",
+    "timestamp": "2022/04/09",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 444,
+    "username": "Vortex2",
+    "timestamp": "2022/04/09",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 445,
+    "username": "Vortex2",
+    "timestamp": "2022/04/22",
+    "category": "Cloudy",
+    "freq": 9
+  },
+  {
+    "sl": 446,
+    "username": "Vortex2",
+    "timestamp": "2022/04/22",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 447,
+    "username": "Vortex2",
+    "timestamp": "2022/04/22",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 448,
+    "username": "Vortex2",
+    "timestamp": "2022/04/22",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 449,
+    "username": "Vortex2",
+    "timestamp": "2022/05/04",
+    "category": "Cloudy",
+    "freq": 6
+  },
+  {
+    "sl": 450,
+    "username": "Vortex2",
+    "timestamp": "2022/05/04",
+    "category": "Lightning",
+    "freq": 1
+  },
+  {
+    "sl": 451,
+    "username": "Vortex2",
+    "timestamp": "2022/05/04",
+    "category": "Hail",
+    "freq": 46
+  },
+  {
+    "sl": 452,
+    "username": "Vortex2",
+    "timestamp": "2022/05/04",
+    "category": "Rain",
+    "freq": 5
+  },
+  {
+    "sl": 453,
+    "username": "Vortex2",
+    "timestamp": "2022/05/04",
+    "category": "Wind",
+    "freq": 3
+  },
+  {
+    "sl": 454,
+    "username": "Vortex2",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 3
+  },
+  {
+    "sl": 455,
+    "username": "Vortex2",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 12
+  },
+  {
+    "sl": 456,
+    "username": "Vortex2",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 457,
+    "username": "Vortex2",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 19
+  },
+  {
+    "sl": 458,
+    "username": "Vortex2",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 6
+  },
+  {
+    "sl": 459,
+    "username": "Willi",
+    "timestamp": "2022/01/04",
+    "category": "Cloudy",
+    "freq": 36
+  },
+  {
+    "sl": 460,
+    "username": "Willi",
+    "timestamp": "2022/01/04",
+    "category": "Rain",
+    "freq": 17
+  },
+  {
+    "sl": 461,
+    "username": "Willi",
+    "timestamp": "2022/01/04",
+    "category": "Wind",
+    "freq": 68
+  },
+  {
+    "sl": 462,
+    "username": "Willi",
+    "timestamp": "2022/01/30",
+    "category": "Cloudy",
+    "freq": 18
+  },
+  {
+    "sl": 463,
+    "username": "Willi",
+    "timestamp": "2022/01/30",
+    "category": "Lightning",
+    "freq": 1
+  },
+  {
+    "sl": 464,
+    "username": "Willi",
+    "timestamp": "2022/01/30",
+    "category": "Icy_Conditions",
+    "freq": 1
+  },
+  {
+    "sl": 465,
+    "username": "Willi",
+    "timestamp": "2022/01/30",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 466,
+    "username": "Willi",
+    "timestamp": "2022/01/30",
+    "category": "Rain",
+    "freq": 1
+  },
+  {
+    "sl": 467,
+    "username": "Willi",
+    "timestamp": "2022/01/30",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 468,
+    "username": "Willi",
+    "timestamp": "2022/01/30",
+    "category": "Wind",
+    "freq": 3
+  },
+  {
+    "sl": 469,
+    "username": "Willi",
+    "timestamp": "2022/04/04",
+    "category": "Cloudy",
+    "freq": 1
+  },
+  {
+    "sl": 470,
+    "username": "Willi",
+    "timestamp": "2022/04/04",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 471,
+    "username": "Willi",
+    "timestamp": "2022/04/04",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 472,
+    "username": "Willi",
+    "timestamp": "2022/04/09",
+    "category": "Cloudy",
+    "freq": 14
+  },
+  {
+    "sl": 473,
+    "username": "Willi",
+    "timestamp": "2022/04/09",
+    "category": "Wind",
+    "freq": 58
+  },
+  {
+    "sl": 474,
+    "username": "Willi",
+    "timestamp": "2022/04/24",
+    "category": "Cloudy",
+    "freq": 13
+  },
+  {
+    "sl": 475,
+    "username": "Willi",
+    "timestamp": "2022/04/24",
+    "category": "Lightning",
+    "freq": 7
+  },
+  {
+    "sl": 476,
+    "username": "Willi",
+    "timestamp": "2022/04/24",
+    "category": "Hail",
+    "freq": 6
+  },
+  {
+    "sl": 477,
+    "username": "Willi",
+    "timestamp": "2022/04/24",
+    "category": "Rain",
+    "freq": 10
+  },
+  {
+    "sl": 478,
+    "username": "Willi",
+    "timestamp": "2022/04/24",
+    "category": "Snow",
+    "freq": 3
+  },
+  {
+    "sl": 479,
+    "username": "Willi",
+    "timestamp": "2022/04/24",
+    "category": "Snow_Cover",
+    "freq": 3
+  },
+  {
+    "sl": 480,
+    "username": "Willi",
+    "timestamp": "2022/04/24",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 481,
+    "username": "Willi",
+    "timestamp": "2022/05/22",
+    "category": "Cloudy",
+    "freq": 126
+  },
+  {
+    "sl": 482,
+    "username": "Willi",
+    "timestamp": "2022/05/22",
+    "category": "Lightning",
+    "freq": 33
+  },
+  {
+    "sl": 483,
+    "username": "Willi",
+    "timestamp": "2022/05/22",
+    "category": "Hail",
+    "freq": 560
+  },
+  {
+    "sl": 484,
+    "username": "Willi",
+    "timestamp": "2022/05/22",
+    "category": "Rain",
+    "freq": 52
+  },
+  {
+    "sl": 485,
+    "username": "Willi",
+    "timestamp": "2022/05/22",
+    "category": "Snow",
+    "freq": 2
+  },
+  {
+    "sl": 486,
+    "username": "Willi",
+    "timestamp": "2022/05/22",
+    "category": "Tornado",
+    "freq": 2
+  },
+  {
+    "sl": 487,
+    "username": "Willi",
+    "timestamp": "2022/05/22",
+    "category": "Wind",
+    "freq": 8
+  },
+  {
+    "sl": 488,
+    "username": "Willi",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 17
+  },
+  {
+    "sl": 489,
+    "username": "Willi",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 25
+  },
+  {
+    "sl": 490,
+    "username": "Willi",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 249
+  },
+  {
+    "sl": 491,
+    "username": "Willi",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 38
+  },
+  {
+    "sl": 492,
+    "username": "Willi",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 2
+  },
+  {
+    "sl": 493,
+    "username": "Willi",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 10
+  },
+  {
+    "sl": 494,
+    "username": "fankyy",
+    "timestamp": "2022/02/07",
+    "category": "Cloudy",
+    "freq": 57
+  },
+  {
+    "sl": 495,
+    "username": "fankyy",
+    "timestamp": "2022/02/07",
+    "category": "Rain",
+    "freq": 9
+  },
+  {
+    "sl": 496,
+    "username": "fankyy",
+    "timestamp": "2022/02/07",
+    "category": "Snow_Cover",
+    "freq": 1
+  },
+  {
+    "sl": 497,
+    "username": "fankyy",
+    "timestamp": "2022/02/07",
+    "category": "Tornado",
+    "freq": 2
+  },
+  {
+    "sl": 498,
+    "username": "fankyy",
+    "timestamp": "2022/02/07",
+    "category": "Wind",
+    "freq": 46
+  },
+  {
+    "sl": 499,
+    "username": "flowi",
+    "timestamp": "2022/01/09",
+    "category": "Cloudy",
+    "freq": 3
+  },
+  {
+    "sl": 500,
+    "username": "flowi",
+    "timestamp": "2022/01/09",
+    "category": "Rain",
+    "freq": 2
+  },
+  {
+    "sl": 501,
+    "username": "flowi",
+    "timestamp": "2022/01/09",
+    "category": "Snow",
+    "freq": 3
+  },
+  {
+    "sl": 502,
+    "username": "flowi",
+    "timestamp": "2022/01/09",
+    "category": "Snow_Cover",
+    "freq": 13
+  },
+  {
+    "sl": 503,
+    "username": "flowi",
+    "timestamp": "2022/01/09",
+    "category": "Wind",
+    "freq": 8
+  },
+  {
+    "sl": 504,
+    "username": "flowi",
+    "timestamp": "2022/05/04",
+    "category": "Cloudy",
+    "freq": 3
+  },
+  {
+    "sl": 505,
+    "username": "flowi",
+    "timestamp": "2022/05/04",
+    "category": "Lightning",
+    "freq": 6
+  },
+  {
+    "sl": 506,
+    "username": "flowi",
+    "timestamp": "2022/05/04",
+    "category": "Hail",
+    "freq": 21
+  },
+  {
+    "sl": 507,
+    "username": "flowi",
+    "timestamp": "2022/05/04",
+    "category": "Rain",
+    "freq": 3
+  },
+  {
+    "sl": 508,
+    "username": "flowi",
+    "timestamp": "2022/05/04",
+    "category": "Wind",
+    "freq": 2
+  },
+  {
+    "sl": 509,
+    "username": "flowi",
+    "timestamp": "2022/05/05",
+    "category": "Cloudy",
+    "freq": 2
+  },
+  {
+    "sl": 510,
+    "username": "flowi",
+    "timestamp": "2022/05/05",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 511,
+    "username": "flowi",
+    "timestamp": "2022/05/05",
+    "category": "Rain",
+    "freq": 11
+  },
+  {
+    "sl": 512,
+    "username": "flowi",
+    "timestamp": "2022/05/05",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 513,
+    "username": "flowi",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 6
+  },
+  {
+    "sl": 514,
+    "username": "flowi",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 21
+  },
+  {
+    "sl": 515,
+    "username": "flowi",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 8
+  },
+  {
+    "sl": 516,
+    "username": "flowi",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 12
+  },
+  {
+    "sl": 517,
+    "username": "flowi",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 2
+  },
+  {
+    "sl": 518,
+    "username": "flowi",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 5
+  },
+  {
+    "sl": 519,
+    "username": "hb9xcl",
+    "timestamp": "2021/06/23",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 520,
+    "username": "hb9xcl",
+    "timestamp": "2022/05/07",
+    "category": "Cloudy",
+    "freq": 27
+  },
+  {
+    "sl": 521,
+    "username": "hb9xcl",
+    "timestamp": "2022/05/07",
+    "category": "Lightning",
+    "freq": 10
+  },
+  {
+    "sl": 522,
+    "username": "hb9xcl",
+    "timestamp": "2022/05/07",
+    "category": "Hail",
+    "freq": 61
+  },
+  {
+    "sl": 523,
+    "username": "hb9xcl",
+    "timestamp": "2022/05/07",
+    "category": "Fog",
+    "freq": 2
+  },
+  {
+    "sl": 524,
+    "username": "hb9xcl",
+    "timestamp": "2022/05/07",
+    "category": "Rain",
+    "freq": 25
+  },
+  {
+    "sl": 525,
+    "username": "hb9xcl",
+    "timestamp": "2022/05/07",
+    "category": "Wind",
+    "freq": 12
+  },
+  {
+    "sl": 526,
+    "username": "helios",
+    "timestamp": "2022/04/09",
+    "category": "Cloudy",
+    "freq": 14
+  },
+  {
+    "sl": 527,
+    "username": "helios",
+    "timestamp": "2022/04/09",
+    "category": "Wind",
+    "freq": 58
+  },
+  {
+    "sl": 528,
+    "username": "helios",
+    "timestamp": "2022/04/25",
+    "category": "Cloudy",
+    "freq": 11
+  },
+  {
+    "sl": 529,
+    "username": "helios",
+    "timestamp": "2022/04/25",
+    "category": "Lightning",
+    "freq": 5
+  },
+  {
+    "sl": 530,
+    "username": "helios",
+    "timestamp": "2022/04/25",
+    "category": "Hail",
+    "freq": 4
+  },
+  {
+    "sl": 531,
+    "username": "helios",
+    "timestamp": "2022/04/25",
+    "category": "Rain",
+    "freq": 12
+  },
+  {
+    "sl": 532,
+    "username": "helios",
+    "timestamp": "2022/04/25",
+    "category": "Wind",
+    "freq": 1
+  },
+  {
+    "sl": 533,
+    "username": "nordspot",
+    "timestamp": "2022/05/05",
+    "category": "Cloudy",
+    "freq": 4
+  },
+  {
+    "sl": 534,
+    "username": "nordspot",
+    "timestamp": "2022/05/05",
+    "category": "Rain",
+    "freq": 8
+  },
+  {
+    "sl": 535,
+    "username": "nordspot",
+    "timestamp": "2022/05/23",
+    "category": "Cloudy",
+    "freq": 8
+  },
+  {
+    "sl": 536,
+    "username": "nordspot",
+    "timestamp": "2022/05/23",
+    "category": "Lightning",
+    "freq": 16
+  },
+  {
+    "sl": 537,
+    "username": "nordspot",
+    "timestamp": "2022/05/23",
+    "category": "Hail",
+    "freq": 54
+  },
+  {
+    "sl": 538,
+    "username": "nordspot",
+    "timestamp": "2022/05/23",
+    "category": "Rain",
+    "freq": 15
+  },
+  {
+    "sl": 539,
+    "username": "nordspot",
+    "timestamp": "2022/05/23",
+    "category": "Tornado",
+    "freq": 3
+  },
+  {
+    "sl": 540,
+    "username": "nordspot",
+    "timestamp": "2022/05/23",
+    "category": "Wind",
+    "freq": 8
+  },
+  {
+    "sl": 541,
+    "username": "pasischuan",
+    "timestamp": "2021/06/23",
+    "category": "Hail",
+    "freq": 1
+  },
+  {
+    "sl": 542,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Cloudy",
+    "freq": 13
+  },
+  {
+    "sl": 543,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Lightning",
+    "freq": 15
+  },
+  {
+    "sl": 544,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Icy_Conditions",
+    "freq": 2
+  },
+  {
+    "sl": 545,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Hail",
+    "freq": 10
+  },
+  {
+    "sl": 546,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Fog",
+    "freq": 1
+  },
+  {
+    "sl": 547,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Rain",
+    "freq": 32
+  },
+  {
+    "sl": 548,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Snow",
+    "freq": 6
+  },
+  {
+    "sl": 549,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Snow_Cover",
+    "freq": 35
+  },
+  {
+    "sl": 550,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Tornado",
+    "freq": 1
+  },
+  {
+    "sl": 551,
+    "username": "widovnir",
+    "timestamp": "2022/04/01",
+    "category": "Wind",
+    "freq": 11
+  },
+  {
+    "sl": 552,
+    "username": "widovnir",
+    "timestamp": "2022/05/03",
+    "category": "Lightning",
+    "freq": 2
+  },
+  {
+    "sl": 553,
+    "username": "widovnir",
+    "timestamp": "2022/05/03",
+    "category": "Hail",
+    "freq": 2
+  },
+  {
+    "sl": 554,
+    "username": "widovnir",
+    "timestamp": "2022/05/04",
+    "category": "Hail",
+    "freq": 13
+  },
+  {
+    "sl": 555,
+    "username": "zti",
+    "timestamp": "2022/05/04",
+    "category": "Hail",
+    "freq": 13
+  }
+]

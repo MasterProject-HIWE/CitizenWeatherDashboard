@@ -1,0 +1,101 @@
+.comparisonSettings button {
+    margin: 0;
+}
+
+.histogramComparisonContent {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.histogramTop {
+    display: flex;
+    align-items: center;
+    margin-top: 3px;
+    justify-content: space-between;
+    padding-right: 3px;
+}
+
+.histogramTitle {
+    display: flex;
+    align-items: center;
+}
+
+.iconBox {
+    height: 24px;
+    width: 24px;
+    border-radius: 12px;
+    margin-right: 12px;
+    border: #00000091 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.histogramComparisonButtons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.histogramComparisonButtons * + * {
+    margin-left: 2px;
+}
+
+.hideEvent {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #c8c8c8;
+    opacity: 0.5;
+}
+
+#ComparisonHistogram {
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0;
+    background: grey;
+    border-right: var(--border-bg-color) solid 3px;
+    transition: width 0.5s ease-in-out, left 0.5s ease-in-out;
+}
+
+.histogramBox {
+    background: white;
+    border-bottom: 2px solid var(--border-bg-color);
+}
+
+#GeneralButtonContainer {
+    border-top: 2px solid var(--border-bg-color);
+    background-color:var(--main-bg-color);
+    padding: 0 25px 0 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+#GeneralButtons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#ComparisonPlayer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#SliderBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 11px;
+    margin-left: 35px;
+    background-color: white;
+    border: 1px solid var(--border-bg-color);
+}
+
+#SliderBox > div {
+
+}

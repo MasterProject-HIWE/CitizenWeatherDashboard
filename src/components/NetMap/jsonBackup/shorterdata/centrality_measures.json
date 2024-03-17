@@ -1,0 +1,1003 @@
+[
+  {
+    "sl": 0,
+    "user": "Federwolke",
+    "degree": 0.4507042254,
+    "betweenness": 0.08573443008,
+    "closeness": 0.6367713004
+  },
+  {
+    "sl": 1,
+    "user": "Michael (Dietikon)",
+    "degree": 0.1126760563,
+    "betweenness": 0.003238521819,
+    "closeness": 0.5
+  },
+  {
+    "sl": 2,
+    "user": "Bernhard Oker",
+    "degree": 0.5211267606,
+    "betweenness": 0.1795915008,
+    "closeness": 0.6635514019
+  },
+  {
+    "sl": 3,
+    "user": "Mick7",
+    "degree": 0.02112676056,
+    "betweenness": 0.000047,
+    "closeness": 0.4451410658
+  },
+  {
+    "sl": 4,
+    "user": "Willi",
+    "degree": 0.5211267606,
+    "betweenness": 0.1913960182,
+    "closeness": 0.6635514019
+  },
+  {
+    "sl": 5,
+    "user": "Haene",
+    "degree": 0.2253521127,
+    "betweenness": 0.01263321569,
+    "closeness": 0.5461538462
+  },
+  {
+    "sl": 6,
+    "user": "Vortex2",
+    "degree": 0.3873239437,
+    "betweenness": 0.08772425241,
+    "closeness": 0.6147186147
+  },
+  {
+    "sl": 7,
+    "user": "Friburg",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4034090909
+  },
+  {
+    "sl": 8,
+    "user": "Jan (Muri BE)",
+    "degree": 0.06338028169,
+    "betweenness": 0.003624054141,
+    "closeness": 0.4493670886
+  },
+  {
+    "sl": 9,
+    "user": "nordspot",
+    "degree": 0.2112676056,
+    "betweenness": 0.02147753591,
+    "closeness": 0.5399239544
+  },
+  {
+    "sl": 10,
+    "user": "Arcus_Praecipitatio",
+    "degree": 0.1126760563,
+    "betweenness": 0.004456718607,
+    "closeness": 0.4879725086
+  },
+  {
+    "sl": 11,
+    "user": "Slep",
+    "degree": 0.2042253521,
+    "betweenness": 0.02095446138,
+    "closeness": 0.531835206
+  },
+  {
+    "sl": 12,
+    "user": "Michael ZH",
+    "degree": 0.1197183099,
+    "betweenness": 0.004557724824,
+    "closeness": 0.4947735192
+  },
+  {
+    "sl": 13,
+    "user": "Jeannette",
+    "degree": 0.2957746479,
+    "betweenness": 0.05677881912,
+    "closeness": 0.5725806452
+  },
+  {
+    "sl": 14,
+    "user": "Marco (Oberfrick)",
+    "degree": 0.2112676056,
+    "betweenness": 0.02095898175,
+    "closeness": 0.5419847328
+  },
+  {
+    "sl": 15,
+    "user": "flowi",
+    "degree": 0.2183098592,
+    "betweenness": 0.02395760063,
+    "closeness": 0.5419847328
+  },
+  {
+    "sl": 16,
+    "user": "David BS",
+    "degree": 0.05633802817,
+    "betweenness": 0.0008278773251,
+    "closeness": 0.4522292994
+  },
+  {
+    "sl": 17,
+    "user": "bidoo",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3776595745
+  },
+  {
+    "sl": 18,
+    "user": "Pät, Basel",
+    "degree": 0.08450704225,
+    "betweenness": 0.01426895924,
+    "closeness": 0.4717607973
+  },
+  {
+    "sl": 19,
+    "user": "Rontaler",
+    "degree": 0.2746478873,
+    "betweenness": 0.0224948629,
+    "closeness": 0.5634920635
+  },
+  {
+    "sl": 20,
+    "user": "Kaiko (Döttingen)",
+    "degree": 0.3169014085,
+    "betweenness": 0.05059726156,
+    "closeness": 0.5819672131
+  },
+  {
+    "sl": 21,
+    "user": "JerryBS",
+    "degree": 0.02816901408,
+    "betweenness": 0.002060012538,
+    "closeness": 0.423880597
+  },
+  {
+    "sl": 22,
+    "user": "swissphoto",
+    "degree": 0.1478873239,
+    "betweenness": 0.011680152,
+    "closeness": 0.5035460993
+  },
+  {
+    "sl": 23,
+    "user": "B3rgl3r",
+    "degree": 0.04929577465,
+    "betweenness": 0.0002996131579,
+    "closeness": 0.4409937888
+  },
+  {
+    "sl": 24,
+    "user": "Tobi31",
+    "degree": 0.1690140845,
+    "betweenness": 0.01123942685,
+    "closeness": 0.5035460993
+  },
+  {
+    "sl": 25,
+    "user": "Markus (Horw)",
+    "degree": 0.04225352113,
+    "betweenness": 0.001599613219,
+    "closeness": 0.439628483
+  },
+  {
+    "sl": 26,
+    "user": "Tinu (Männedorf)",
+    "degree": 0.3169014085,
+    "betweenness": 0.04741367708,
+    "closeness": 0.5843621399
+  },
+  {
+    "sl": 27,
+    "user": "Timi1908",
+    "degree": 0.07746478873,
+    "betweenness": 0.01778363601,
+    "closeness": 0.4765100671
+  },
+  {
+    "sl": 28,
+    "user": "Obernef",
+    "degree": 0.02816901408,
+    "betweenness": 0.00000714,
+    "closeness": 0.4115942029
+  },
+  {
+    "sl": 29,
+    "user": "Lukas Eisenberger",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4104046243
+  },
+  {
+    "sl": 30,
+    "user": "dxbruelhart",
+    "degree": 0.04225352113,
+    "betweenness": 0.0002252680781,
+    "closeness": 0.4595469256
+  },
+  {
+    "sl": 31,
+    "user": "Patrick -Arosa-",
+    "degree": 0.02816901408,
+    "betweenness": 0.0000449,
+    "closeness": 0.4329268293
+  },
+  {
+    "sl": 32,
+    "user": "Microwave",
+    "degree": 0.3450704225,
+    "betweenness": 0.06010544595,
+    "closeness": 0.5941422594
+  },
+  {
+    "sl": 33,
+    "user": "Laseyer",
+    "degree": 0.0985915493,
+    "betweenness": 0.001253015911,
+    "closeness": 0.474916388
+  },
+  {
+    "sl": 34,
+    "user": "Heiziger",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3796791444
+  },
+  {
+    "sl": 35,
+    "user": "Severestorms",
+    "degree": 0.2394366197,
+    "betweenness": 0.01961757849,
+    "closeness": 0.5525291829
+  },
+  {
+    "sl": 36,
+    "user": "knight",
+    "degree": 0.05633802817,
+    "betweenness": 0.0004404200369,
+    "closeness": 0.4595469256
+  },
+  {
+    "sl": 37,
+    "user": "cloud-music",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.3212669683
+  },
+  {
+    "sl": 38,
+    "user": "widovnir",
+    "degree": 0.2957746479,
+    "betweenness": 0.0538879851,
+    "closeness": 0.5725806452
+  },
+  {
+    "sl": 39,
+    "user": "Blitz Phobiker",
+    "degree": 0.04929577465,
+    "betweenness": 0.0008656266373,
+    "closeness": 0.4655737705
+  },
+  {
+    "sl": 40,
+    "user": "zti",
+    "degree": 0.176056338,
+    "betweenness": 0.01130350073,
+    "closeness": 0.5201465201
+  },
+  {
+    "sl": 41,
+    "user": "Tajno",
+    "degree": 0.0985915493,
+    "betweenness": 0.004039510409,
+    "closeness": 0.4846416382
+  },
+  {
+    "sl": 42,
+    "user": "Chris_83",
+    "degree": 0.08450704225,
+    "betweenness": 0.002312815404,
+    "closeness": 0.4829931973
+  },
+  {
+    "sl": 43,
+    "user": "Mathias Uster",
+    "degree": 0.03521126761,
+    "betweenness": 0.0000147,
+    "closeness": 0.4451410658
+  },
+  {
+    "sl": 44,
+    "user": "Markus Pfister",
+    "degree": 0.2042253521,
+    "betweenness": 0.02658602906,
+    "closeness": 0.5419847328
+  },
+  {
+    "sl": 45,
+    "user": "Cyrill",
+    "degree": 0.2887323944,
+    "betweenness": 0.03513759609,
+    "closeness": 0.568
+  },
+  {
+    "sl": 46,
+    "user": "hb9xcl",
+    "degree": 0.03521126761,
+    "betweenness": 0,
+    "closeness": 0.4451410658
+  },
+  {
+    "sl": 47,
+    "user": "Staublaui99",
+    "degree": 0.06338028169,
+    "betweenness": 0.001155090357,
+    "closeness": 0.4625407166
+  },
+  {
+    "sl": 48,
+    "user": "Linth",
+    "degree": 0.0985915493,
+    "betweenness": 0.001886704192,
+    "closeness": 0.491349481
+  },
+  {
+    "sl": 49,
+    "user": "helios",
+    "degree": 0.07746478873,
+    "betweenness": 0.0148809076,
+    "closeness": 0.4655737705
+  },
+  {
+    "sl": 50,
+    "user": "Zumi (AI)",
+    "degree": 0.1056338028,
+    "betweenness": 0.004091065613,
+    "closeness": 0.4671052632
+  },
+  {
+    "sl": 51,
+    "user": "Und Zürich",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.4
+  },
+  {
+    "sl": 52,
+    "user": "Peter aus Hünenberg",
+    "degree": 0.04225352113,
+    "betweenness": 0.0004363185032,
+    "closeness": 0.4479495268
+  },
+  {
+    "sl": 53,
+    "user": "Stabe",
+    "degree": 0.03521126761,
+    "betweenness": 0.0003477924714,
+    "closeness": 0.418879056
+  },
+  {
+    "sl": 54,
+    "user": "Jan (Böckten, BL)",
+    "degree": 0.2183098592,
+    "betweenness": 0.02189543095,
+    "closeness": 0.5440613027
+  },
+  {
+    "sl": 55,
+    "user": "Thomas, Belp",
+    "degree": 0.09154929577,
+    "betweenness": 0.006038977512,
+    "closeness": 0.4580645161
+  },
+  {
+    "sl": 56,
+    "user": "MHZG",
+    "degree": 0.1690140845,
+    "betweenness": 0.02057718859,
+    "closeness": 0.5239852399
+  },
+  {
+    "sl": 57,
+    "user": "DomE",
+    "degree": 0.04225352113,
+    "betweenness": 0.0006187486767,
+    "closeness": 0.4465408805
+  },
+  {
+    "sl": 58,
+    "user": "pasischuan",
+    "degree": 0.1478873239,
+    "betweenness": 0.006287720437,
+    "closeness": 0.4879725086
+  },
+  {
+    "sl": 59,
+    "user": "Philippe Zimmerwald",
+    "degree": 0.07746478873,
+    "betweenness": 0.009825571729,
+    "closeness": 0.4863013699
+  },
+  {
+    "sl": 60,
+    "user": "René_BE",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3372921615
+  },
+  {
+    "sl": 61,
+    "user": "Mike, 4055 Basel",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4409937888
+  },
+  {
+    "sl": 62,
+    "user": "Mainline",
+    "degree": 0.05633802817,
+    "betweenness": 0.0008371689218,
+    "closeness": 0.4423676012
+  },
+  {
+    "sl": 63,
+    "user": "Mike (Jura, Basel)",
+    "degree": 0.06338028169,
+    "betweenness": 0.001180494623,
+    "closeness": 0.4701986755
+  },
+  {
+    "sl": 64,
+    "user": "pepe14",
+    "degree": 0.04929577465,
+    "betweenness": 0.0008173084382,
+    "closeness": 0.409221902
+  },
+  {
+    "sl": 65,
+    "user": "Dr. Funnel",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4127906977
+  },
+  {
+    "sl": 66,
+    "user": "fankyy",
+    "degree": 0.02112676056,
+    "betweenness": 0,
+    "closeness": 0.3901098901
+  },
+  {
+    "sl": 67,
+    "user": "Peter (Morgarten)",
+    "degree": 0.04929577465,
+    "betweenness": 0,
+    "closeness": 0.4465408805
+  },
+  {
+    "sl": 68,
+    "user": "Martin",
+    "degree": 0.05633802817,
+    "betweenness": 0.001372028008,
+    "closeness": 0.4152046784
+  },
+  {
+    "sl": 69,
+    "user": "tnsilres",
+    "degree": 0.02816901408,
+    "betweenness": 0.0004179815081,
+    "closeness": 0.4303030303
+  },
+  {
+    "sl": 70,
+    "user": "Christian Schlieren",
+    "degree": 0.05633802817,
+    "betweenness": 0.0000928,
+    "closeness": 0.4507936508
+  },
+  {
+    "sl": 71,
+    "user": "Off Topic@Christian Schlieren: Ok, ich war vorher dort wegen Durchreise, da",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.3736842105
+  },
+  {
+    "sl": 72,
+    "user": "Steffi",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4
+  },
+  {
+    "sl": 73,
+    "user": "Synonymdani",
+    "degree": 0.04225352113,
+    "betweenness": 0.0003407848782,
+    "closeness": 0.4382716049
+  },
+  {
+    "sl": 74,
+    "user": "Chicken3gg",
+    "degree": 0.09154929577,
+    "betweenness": 0.0002485331375,
+    "closeness": 0.4879725086
+  },
+  {
+    "sl": 75,
+    "user": "michel",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.3650385604
+  },
+  {
+    "sl": 76,
+    "user": "Thundersnow",
+    "degree": 0.08450704225,
+    "betweenness": 0.0005685358333,
+    "closeness": 0.4863013699
+  },
+  {
+    "sl": 77,
+    "user": "oneworldflyer",
+    "degree": 0.1901408451,
+    "betweenness": 0.02311999526,
+    "closeness": 0.5278810409
+  },
+  {
+    "sl": 78,
+    "user": "Nicht unbedingt die fotogenste Kaltfront, aber für einen interessanten Timelaps",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.4
+  },
+  {
+    "sl": 79,
+    "user": "frosch",
+    "degree": 0.04929577465,
+    "betweenness": 0.0009372376151,
+    "closeness": 0.4423676012
+  },
+  {
+    "sl": 80,
+    "user": "Goldigoldi",
+    "degree": 0.1971830986,
+    "betweenness": 0.008224342102,
+    "closeness": 0.5298507463
+  },
+  {
+    "sl": 81,
+    "user": "raffitio",
+    "degree": 0.07746478873,
+    "betweenness": 0.005128981388,
+    "closeness": 0.4201183432
+  },
+  {
+    "sl": 82,
+    "user": "Wetterfreak_VBG",
+    "degree": 0.01408450704,
+    "betweenness": 0.00000832,
+    "closeness": 0.3641025641
+  },
+  {
+    "sl": 83,
+    "user": "Jan (Zeiningen, AG)",
+    "degree": 0.02112676056,
+    "betweenness": 0,
+    "closeness": 0.4226190476
+  },
+  {
+    "sl": 84,
+    "user": "Michael (Seon)",
+    "degree": 0.04225352113,
+    "betweenness": 0.001731856038,
+    "closeness": 0.4409937888
+  },
+  {
+    "sl": 85,
+    "user": "Necronom",
+    "degree": 0.02816901408,
+    "betweenness": 0.0003832076158,
+    "closeness": 0.4104046243
+  },
+  {
+    "sl": 86,
+    "user": "Lightningfan Nadine",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4139941691
+  },
+  {
+    "sl": 87,
+    "user": "rene",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3827493261
+  },
+  {
+    "sl": 88,
+    "user": "fibi",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4104046243
+  },
+  {
+    "sl": 89,
+    "user": "Bernhard Seeger",
+    "degree": 0.01408450704,
+    "betweenness": 0.00000824,
+    "closeness": 0.3746701847
+  },
+  {
+    "sl": 90,
+    "user": "säschu (Bösingen)",
+    "degree": 0.08450704225,
+    "betweenness": 0.002093201543,
+    "closeness": 0.4701986755
+  },
+  {
+    "sl": 91,
+    "user": "tino-dietsche",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.402266289
+  },
+  {
+    "sl": 92,
+    "user": "Bruno Amriswil",
+    "degree": 0.04225352113,
+    "betweenness": 0.0001924156849,
+    "closeness": 0.4316109422
+  },
+  {
+    "sl": 93,
+    "user": "Westwindwetter",
+    "degree": 0.1197183099,
+    "betweenness": 0.01500306976,
+    "closeness": 0.491349481
+  },
+  {
+    "sl": 94,
+    "user": "deleted_account",
+    "degree": 0.0985915493,
+    "betweenness": 0.002650419219,
+    "closeness": 0.4947735192
+  },
+  {
+    "sl": 95,
+    "user": "Centaurus",
+    "degree": 0.07042253521,
+    "betweenness": 0.003520554205,
+    "closeness": 0.4536741214
+  },
+  {
+    "sl": 96,
+    "user": "messiu",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.408045977
+  },
+  {
+    "sl": 97,
+    "user": "Simon 8542",
+    "degree": 0.02816901408,
+    "betweenness": 0,
+    "closeness": 0.4057142857
+  },
+  {
+    "sl": 98,
+    "user": "Blitzphobiker",
+    "degree": 0.02112676056,
+    "betweenness": 0,
+    "closeness": 0.3707571802
+  },
+  {
+    "sl": 99,
+    "user": "RoliM",
+    "degree": 0.06338028169,
+    "betweenness": 0.001365264995,
+    "closeness": 0.4507936508
+  },
+  {
+    "sl": 100,
+    "user": "Marco SG",
+    "degree": 0.07746478873,
+    "betweenness": 0.001222178637,
+    "closeness": 0.4671052632
+  },
+  {
+    "sl": 101,
+    "user": "Tiefflieger",
+    "degree": 0.04225352113,
+    "betweenness": 0.0002870901582,
+    "closeness": 0.4152046784
+  },
+  {
+    "sl": 102,
+    "user": "Klaus",
+    "degree": 0.01408450704,
+    "betweenness": 0.0000456,
+    "closeness": 0.362244898
+  },
+  {
+    "sl": 103,
+    "user": "Matthias_BL",
+    "degree": 0.09154929577,
+    "betweenness": 0.0002590603509,
+    "closeness": 0.4765100671
+  },
+  {
+    "sl": 104,
+    "user": "Michael78",
+    "degree": 0.02816901408,
+    "betweenness": 0.0002536045491,
+    "closeness": 0.4355828221
+  },
+  {
+    "sl": 105,
+    "user": "mono (Zürich)",
+    "degree": 0.0985915493,
+    "betweenness": 0.003766630617,
+    "closeness": 0.4896551724
+  },
+  {
+    "sl": 106,
+    "user": "Thomas Jordi (ZH)",
+    "degree": 0.02112676056,
+    "betweenness": 0,
+    "closeness": 0.408045977
+  },
+  {
+    "sl": 107,
+    "user": "Noob",
+    "degree": 0.02112676056,
+    "betweenness": 0.0000924,
+    "closeness": 0.4115942029
+  },
+  {
+    "sl": 108,
+    "user": "pöstligeo",
+    "degree": 0.02816901408,
+    "betweenness": 0.0002076765542,
+    "closeness": 0.409221902
+  },
+  {
+    "sl": 109,
+    "user": "Dominic Kurz",
+    "degree": 0.02112676056,
+    "betweenness": 0.0000975,
+    "closeness": 0.3776595745
+  },
+  {
+    "sl": 110,
+    "user": "Cedric",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.4
+  },
+  {
+    "sl": 111,
+    "user": "Wer von euch",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.3234624146
+  },
+  {
+    "sl": 112,
+    "user": "Off TopicDas ist Quatsch. Es gibt so schnell kein \"Grand solar minimum\". Der Zyklus 25",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.3183856502
+  },
+  {
+    "sl": 113,
+    "user": "\\nLernen von der Schweiz\\n\\n\\nAuch in der Schweiz herrschte in der vorvergangenen Woche der Ausnahmezustand. Zuerst traf ein Sturm die Stadt Zürich, dann regnete es über Tage heftig. Die Pegel der Seen stiegen gefährlich an, in mehreren Regionen überflutete das Wasser Straßen, Schienen und Siedlungen. Seit ein paar Tagen entspannt sich die Lage. Und: Die Schäden halten sich in Grenzen. Verletzte oder gar Todesopfer gab es keine, und laut Schätzungen wird das Jahr 2021 zwar ein teures werden für die Versicherer, aber weniger schlimm als zunächst befürchtet.\\n\\nDas",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.3302325581
+  },
+  {
+    "sl": 114,
+    "user": "ratman",
+    "degree": 0.01408450704,
+    "betweenness": 0.0001401740714,
+    "closeness": 0.402266289
+  },
+  {
+    "sl": 115,
+    "user": "Gabe",
+    "degree": 0.07746478873,
+    "betweenness": 0.0001455212484,
+    "closeness": 0.4829931973
+  },
+  {
+    "sl": 116,
+    "user": "Maege81",
+    "degree": 0.0985915493,
+    "betweenness": 0.0004541755264,
+    "closeness": 0.4863013699
+  },
+  {
+    "sl": 117,
+    "user": "RhVS",
+    "degree": 0.01408450704,
+    "betweenness": 0.0000346,
+    "closeness": 0.3585858586
+  },
+  {
+    "sl": 118,
+    "user": "michi7",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3756613757
+  },
+  {
+    "sl": 119,
+    "user": "crosley",
+    "degree": 0.1197183099,
+    "betweenness": 0.004533534385,
+    "closeness": 0.5017667845
+  },
+  {
+    "sl": 120,
+    "user": "Chäps",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3933518006
+  },
+  {
+    "sl": 121,
+    "user": "Gernot",
+    "degree": 0.02816901408,
+    "betweenness": 0.0000264,
+    "closeness": 0.4139941691
+  },
+  {
+    "sl": 122,
+    "user": "Zürisee-Rob",
+    "degree": 0.02816901408,
+    "betweenness": 0,
+    "closeness": 0.4355828221
+  },
+  {
+    "sl": 123,
+    "user": "Silas",
+    "degree": 0.03521126761,
+    "betweenness": 0.01408450704,
+    "closeness": 0.4465408805
+  },
+  {
+    "sl": 124,
+    "user": "pcrail",
+    "degree": 0.02112676056,
+    "betweenness": 0.0007449544927,
+    "closeness": 0.3707571802
+  },
+  {
+    "sl": 125,
+    "user": "Tobi (Rheintal, VBG)",
+    "degree": 0.07042253521,
+    "betweenness": 0.0000878,
+    "closeness": 0.4829931973
+  },
+  {
+    "sl": 126,
+    "user": "Dävu",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4034090909
+  },
+  {
+    "sl": 127,
+    "user": "Grebcol",
+    "degree": 0.03521126761,
+    "betweenness": 0.0000226,
+    "closeness": 0.4011299435
+  },
+  {
+    "sl": 128,
+    "user": "Was für Hagelmassen! Wann",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.3093681917
+  },
+  {
+    "sl": 129,
+    "user": "Balu1972",
+    "degree": 0.01408450704,
+    "betweenness": 0.0001640247195,
+    "closeness": 0.3488943489
+  },
+  {
+    "sl": 130,
+    "user": "PierreK. (Dogern)",
+    "degree": 0.02112676056,
+    "betweenness": 0,
+    "closeness": 0.4127906977
+  },
+  {
+    "sl": 131,
+    "user": "TheSnowMan",
+    "degree": 0.01408450704,
+    "betweenness": 0.0000712,
+    "closeness": 0.3471882641
+  },
+  {
+    "sl": 132,
+    "user": "Sergio65",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4226190476
+  },
+  {
+    "sl": 133,
+    "user": "Nine",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4139941691
+  },
+  {
+    "sl": 134,
+    "user": "Hausi",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3827493261
+  },
+  {
+    "sl": 135,
+    "user": "Off TopicNine, schön, dass Du wieder an Bord bist.\\nAuch wenn Dir das Hochladen der Fotis gerade fast den Verstand geraubt",
+    "degree": 0.007042253521,
+    "betweenness": 0,
+    "closeness": 0.3523573201
+  },
+  {
+    "sl": 136,
+    "user": "samo",
+    "degree": 0.04929577465,
+    "betweenness": 0.000122815662,
+    "closeness": 0.4423676012
+  },
+  {
+    "sl": 137,
+    "user": "Simu",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.4213649852
+  },
+  {
+    "sl": 138,
+    "user": "schwegi89",
+    "degree": 0.02112676056,
+    "betweenness": 0,
+    "closeness": 0.4164222874
+  },
+  {
+    "sl": 139,
+    "user": "Chuuz51",
+    "degree": 0.03521126761,
+    "betweenness": 0.0001132088036,
+    "closeness": 0.4465408805
+  },
+  {
+    "sl": 140,
+    "user": "Blizzard",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3890410959
+  },
+  {
+    "sl": 141,
+    "user": "heness",
+    "degree": 0.01408450704,
+    "betweenness": 0,
+    "closeness": 0.3817204301
+  },
+  {
+    "sl": 142,
+    "user": "cechafilms",
+    "degree": 0.01408450704,
+    "betweenness": 0.0000725,
+    "closeness": 0.3837837838
+  }
+]

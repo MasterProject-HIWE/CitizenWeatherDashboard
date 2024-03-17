@@ -1,0 +1,2989 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Jessica Johnston",
+            "imports": [
+                "Tricia Gross",
+                "Kari Perez",
+                "Nicole Miller",
+                "Cathy Hernandez",
+                "Nicole Miller",
+                "Willi",
+                "Danny Lucas",
+                "Heidi Martin",
+                "Nicole Miller",
+                "Tinu (Männedorf)",
+                "Nicole Miller",
+                "Gary Clark",
+                "Nicole Miller",
+                "Jacqueline Gomez",
+                "Miss Jennifer Oneill MD",
+                "Christine Reed",
+                "Heidi Martin",
+                "Nicole Miller",
+                "Willi",
+                "Thomas Hernandez",
+                "Thomas Hernandez",
+                "Sharon Vega",
+                "Jessica Johnston",
+                "Melanie Vaughn",
+                "Karen Day",
+                "Nicole Miller",
+                "Diana Warren",
+                "Chris Hale",
+                "Chris Hale",
+                "Chris Hale",
+                "Yesenia Brown",
+                "Angela Simmons",
+                "Daniel Smith",
+                "Daniel Smith",
+                "Kari Perez",
+                "Courtney Morgan",
+                "Yesenia Brown",
+                "Danny Lucas",
+                "Jessica Johnston",
+                "Vortex2",
+                "Christopher Burke",
+                "Nicole Miller",
+                "Melanie Vaughn",
+                "Allen Thompson",
+                "Linth",
+                "Andrea Martin",
+                "Bernhard Oker",
+                "Christopher Burns",
+                "Daniel Smith",
+                "Alison Rivas",
+                "Christopher Burns",
+                "Zumi (AI)",
+                "Chicken3gg",
+                "Zumi (AI)",
+                "Christine Reed",
+                "Joshua Wagner",
+                "Donald Randall",
+                "Keith Morgan Jr.",
+                "Donald Randall",
+                "Justin Carroll",
+                "Daniel Smith",
+                "Daniel Smith",
+                "Kimberly Burgess",
+                "Alison Rivas",
+                "Jessica Johnston",
+                "Christopher Burke",
+                "Courtney Morgan",
+                "Courtney Morgan",
+                "Daniel Smith",
+                "Brooke Ferguson",
+                "Christopher Burns",
+                "Chris Hale",
+                "Mrs. Margaret French",
+                "Heidi Martin",
+                "Donald Randall",
+                "Daniel Smith",
+                "Kelsey Williams",
+                "Heidi Martin",
+                "Bradley Harris",
+                "Markus Pfister",
+                "helios",
+                "Goldigoldi",
+                "Goldigoldi",
+                "Willi",
+                "Federwolke",
+                "Westwindwetter",
+                "Cyrill",
+                "helios",
+                "Kari Perez",
+                "Pamela Le",
+                "Rontaler",
+                "Kari Perez",
+                "Daniel Smith",
+                "Rontaler",
+                "Kenneth Rosales",
+                "Nicole Miller",
+                "Nicole Miller",
+                "Troy Brown",
+                "Yesenia Brown",
+                "Matthias_BL",
+                "Kaiko (Döttingen)",
+                "Kaiko (Döttingen)",
+                "Christopher Burns",
+                "Wendy Calhoun",
+                "Yesenia Brown",
+                "Wendy Calhoun",
+                "Yesenia Brown",
+                "Andrea Martin",
+                "Nicole Miller",
+                "Lisa Chang",
+                "Andrea Martin",
+                "Joshua Winters",
+                "Nicole Miller",
+                "Danny Lucas",
+                "Heidi Martin",
+                "Karen Day",
+                "Karen Day",
+                "Microwave",
+                "Willi",
+                "samo",
+                "Kari Perez"
+            ],
+            "degree": 0.409326425
+        },
+        {
+            "name": "Tricia Gross",
+            "imports": [
+                "Jessica Johnston",
+                "Katie Hudson",
+                "Chris Hale",
+                "Janet Nguyen",
+                "Janet Nguyen",
+                "Keith Williams",
+                "Heidi Martin",
+                "Kari Perez",
+                "Michelle Carter",
+                "Kari Perez",
+                "Kari Perez",
+                "Bernhard Oker",
+                "Bernhard Oker",
+                "Bernhard Oker",
+                "Kari Perez",
+                "Lisa Chang",
+                "Willi",
+                "Daniel Smith",
+                "Billy Davis Jr.",
+                "Kari Perez",
+                "Kari Perez"
+            ],
+            "degree": 0.088082902
+        },
+        {
+            "name": "Kari Perez",
+            "imports": [
+                "Kari Perez",
+                "John Cross",
+                "Nicole Miller",
+                "Nicole Miller",
+                "Nicole Miller",
+                "Yesenia Brown",
+                "Derrick Li",
+                "Tricia Gross",
+                "Jeffrey Perez",
+                "Willi",
+                "Christine Reed",
+                "Cathy Hernandez",
+                "Heidi Martin",
+                "Elizabeth Peterson",
+                "Janet Nguyen",
+                "Madison Palmer",
+                "Angela Hart",
+                "Jessica Johnston",
+                "Daniel Smith",
+                "Janet Nguyen",
+                "Courtney Morgan",
+                "John Taylor",
+                "James Lucas",
+                "Nicole Miller",
+                "Daniel Smith",
+                "Yesenia Brown",
+                "Kimberly Burgess",
+                "Jessica Johnston",
+                "Lisa Chang",
+                "Courtney Morgan",
+                "Keith Williams",
+                "Danny Lucas",
+                "Daniel Smith",
+                "Brooke Ferguson",
+                "Nicole Miller",
+                "Donald Randall",
+                "Courtney Morgan",
+                "Danny Lucas",
+                "Yesenia Brown",
+                "Jan (Zeiningen, AG)",
+                "Daniel Smith",
+                "Tanya Jones",
+                "Tricia Gross",
+                "Chris Hale",
+                "Nicole Miller",
+                "Tricia Gross",
+                "Christine Reed",
+                "Christopher Burns",
+                "Janet Nguyen",
+                "Christopher Burns",
+                "Courtney Morgan",
+                "Courtney Morgan",
+                "Mark Castillo",
+                "Kari Perez",
+                "Lisa Chang",
+                "Danny Lucas",
+                "Allen Thompson",
+                "Yesenia Brown",
+                "Kari Perez",
+                "Peter Sexton",
+                "Bernhard Oker",
+                "Cyrill",
+                "Rontaler",
+                "Christian Schlieren",
+                "Rontaler",
+                "Briana Hall",
+                "Heidi Martin",
+                "Susan Booker",
+                "Joshua Wagner",
+                "Daniel Garcia",
+                "Kari Perez",
+                "Gregory Taylor",
+                "Kimberly Burgess",
+                "Nicole Miller",
+                "Briana Hall",
+                "Briana Hall",
+                "Christine Reed",
+                "Yesenia Brown",
+                "Donald Randall",
+                "Elizabeth Peterson",
+                "Nicole Miller",
+                "Daniel Smith",
+                "Heidi Martin",
+                "Briana Hall",
+                "Kimberly Burgess",
+                "Danny Lucas",
+                "Melissa Clayton",
+                "Christopher Burke",
+                "Courtney Morgan",
+                "Briana Hall",
+                "Kari Perez",
+                "Daniel Garcia",
+                "Danny Lucas",
+                "Cedric",
+                "Bernhard Oker",
+                "Goldigoldi",
+                "Michael78",
+                "Christopher Burns",
+                "Daniel Smith",
+                "Christine Reed",
+                "Keith Williams",
+                "Lisa Chang",
+                "Kimberly Logan",
+                "Samantha Conley",
+                "Yesenia Brown",
+                "Chris Hale",
+                "Pamela Le",
+                "Kari Perez",
+                "Troy Brown",
+                "Chris Hale",
+                "Courtney Morgan",
+                "Kari Perez",
+                "Heidi Martin",
+                "Heidi Martin",
+                "Kari Perez",
+                "Kari Perez",
+                "Yesenia Brown",
+                "mono (Zürich)",
+                "Microwave",
+                "Danny Lucas",
+                "Kenneth Rosales",
+                "Kari Perez",
+                "Lisa Chang",
+                "Lisa Chang",
+                "Keith Williams",
+                "Donna Black",
+                "Nicole Miller",
+                "Tricia Gross",
+                "Andrea Martin",
+                "Samantha Conley",
+                "Danny Lucas",
+                "Rontaler",
+                "Daniel Smith",
+                "Nicole Miller",
+                "Mr. Russell Spencer DDS",
+                "Daniel Smith",
+                "Heidi Martin",
+                "Kari Perez",
+                "Jordan Beasley",
+                "Mr. Russell Spencer DDS",
+                "Chris Hale",
+                "Yolanda Hernandez",
+                "Elizabeth Peterson",
+                "Daniel Smith",
+                "Christopher Burns",
+                "Jerry Rivera",
+                "Kari Perez",
+                "Wendy Calhoun",
+                "Jordan Beasley",
+                "Danny Lucas",
+                "Haene",
+                "Heidi Martin",
+                "Keith Williams",
+                "Lisa Chang",
+                "Wendy Calhoun",
+                "Courtney Morgan",
+                "Jeffrey Perez",
+                "Tricia Gross",
+                "Jessica Johnston",
+                "Tricia Gross",
+                "Jessica Johnston",
+                "Jessica Jones",
+                "Samantha Conley",
+                "Lisa Chang",
+                "Lisa Chang",
+                "Kari Perez",
+                "William West",
+                "Donna Black",
+                "Christopher Burns",
+                "Elizabeth Peterson",
+                "Jessica Johnston",
+                "Rontaler",
+                "Daniel Smith",
+                "Courtney Morgan",
+                "Jessica Johnston",
+                "Tricia Gross",
+                "Heidi Martin",
+                "Kimberly Burgess",
+                "Jessica Jones",
+                "Troy Brown",
+                "Kari Perez",
+                "Troy Brown",
+                "Harold Shaw",
+                "Chelsey Smith",
+                "Courtney Morgan",
+                "Nicole Miller",
+                "Nicole Miller",
+                "Yesenia Brown",
+                "Kari Perez",
+                "Pamela Le",
+                "Kari Perez",
+                "Kari Perez",
+                "Microwave",
+                "Bernhard Oker"
+            ],
+            "degree": 0.435233161
+        },
+        {
+            "name": "John Cross",
+            "imports": [
+                "Nicole Miller",
+                "Kari Perez"
+            ],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Nicole Miller",
+            "imports": [
+                "Janet Nguyen",
+                "Daniel Smith",
+                "Nicole Miller",
+                "Kari Perez",
+                "Kari Perez",
+                "Carol Ramirez",
+                "Jessica Johnston",
+                "Danny Lucas",
+                "Melanie Vaughn",
+                "Jeffrey Perez",
+                "Harold Shaw",
+                "Elizabeth Peterson",
+                "Melanie Vaughn",
+                "Cassandra Goodwin",
+                "Elizabeth Peterson",
+                "Elizabeth Peterson",
+                "Jessica Johnston",
+                "Jessica Johnston",
+                "Und Zürich",
+                "Christopher Burke",
+                "Jessica Johnston",
+                "Mrs. Margaret French",
+                "Jessica Johnston",
+                "Jennifer Carter",
+                "Angela Richardson",
+                "Jessica Johnston",
+                "Heidi Martin",
+                "Daniel Smith",
+                "Diana Warren",
+                "Thomas Hernandez",
+                "Courtney Morgan",
+                "Jessica Johnston",
+                "Danny Lucas",
+                "Jessica Johnston",
+                "Christopher Burns",
+                "Christopher Burns",
+                "Nicole Miller",
+                "Chris Hale",
+                "Nicole Miller",
+                "Cathy Hernandez",
+                "Yesenia Brown",
+                "Nicht unbedingt die fotogenste Kaltfront, aber für einen interessanten Timelaps",
+                "Courtney Morgan",
+                "Kari Perez",
+                "Donald Randall",
+                "Nicole Miller",
+                "Chris Hale",
+                "Maria Patrick",
+                "Gregory Taylor",
+                "Jessica Johnston",
+                "Keith Williams",
+                "Tanya Jones",
+                "Courtney Morgan",
+                "Yesenia Brown",
+                "Chris Hale",
+                "Kelsey Williams",
+                "Kelsey Williams",
+                "Jessica Johnston",
+                "Joshua Wagner",
+                "Danny Lucas",
+                "Kari Perez",
+                "Kari Perez",
+                "Nicole Miller",
+                "Heidi Martin",
+                "Kari Perez",
+                "Heidi Martin",
+                "Jessica Johnston",
+                "Jessica Johnston",
+                "Kimberly Burgess",
+                "Jessica Johnston",
+                "Elizabeth Peterson",
+                "Kari Perez",
+                "Ashley Bautista",
+                "Kimberly Burgess",
+                "Kari Perez",
+                "Andrea Martin",
+                "Joshua Winters",
+                "Keith Williams",
+                "Wendy Calhoun",
+                "Troy Brown",
+                "Lisa Chang",
+                "Keith Williams",
+                "Kari Perez",
+                "Christopher Burns",
+                "Cindy Matthews",
+                "Carolyn Brown DVM",
+                "Kari Perez",
+                "Donna Black",
+                "Joshua Winters",
+                "Thomas Baker",
+                "Pamela Le",
+                "Kari Perez",
+                "Danny Lucas",
+                "Jessica Johnston",
+                "Nicole Miller",
+                "Wendy Calhoun",
+                "Katherine Dean",
+                "Lisa Chang",
+                "Christopher Burke",
+                "Jessica Johnston",
+                "Lisa Chang",
+                "Christine Reed",
+                "Yesenia Brown",
+                "Karen Day",
+                "Heidi Martin",
+                "Kari Perez",
+                "Kari Perez",
+                "Yesenia Brown",
+                "Kari Perez",
+                "Troy Brown",
+                "Daniel Smith",
+                "Daniel Smith"
+            ],
+            "degree": 0.367875648
+        },
+        {
+            "name": "Janet Nguyen",
+            "imports": [
+                "Jessica Johnston",
+                "Diana Warren",
+                "Jeffrey Perez",
+                "Karen Day",
+                "Jessica Johnston",
+                "Janet Nguyen",
+                "Yesenia Brown",
+                "William Meyer",
+                "Peter Sexton",
+                "Tricia Gross",
+                "Tricia Gross",
+                "Peter Sexton",
+                "Christine Reed",
+                "Courtney Morgan",
+                "Kari Perez",
+                "Kari Perez",
+                "Courtney Morgan",
+                "Kari Perez",
+                "Pamela Le",
+                "Donald Randall",
+                "Patricia Frank",
+                "Danny Lucas",
+                "Jessica Johnston",
+                "Kelsey Williams",
+                "Jessica Johnston",
+                "Ashley Bautista",
+                "Christopher Burns",
+                "Kari Perez",
+                "Elizabeth Peterson",
+                "Heidi Martin",
+                "Bernhard Oker",
+                "Christine Reed",
+                "Chris Hale",
+                "Kari Perez",
+                "Daniel Smith"
+            ],
+            "degree": 0.170984456
+        },
+        {
+            "name": "Daniel Smith",
+            "imports": [
+                "Nicole Miller",
+                "Kari Perez",
+                "Nicole Miller",
+                "Danny Lucas",
+                "Christopher Burke",
+                "Madison Palmer",
+                "Kari Perez",
+                "Heidi Martin",
+                "Mathias Uster",
+                "Jessica Johnston",
+                "Allen Thompson",
+                "Christine Reed",
+                "Jessica Johnston",
+                "Yesenia Brown",
+                "Jacqueline Gomez",
+                "Cathy Hernandez",
+                "Nicole Miller",
+                "Angela Simmons",
+                "Christopher Burke",
+                "Jeffrey Perez",
+                "Jessica Johnston",
+                "Kari Perez",
+                "Karen Day",
+                "Keith Williams",
+                "Kari Perez",
+                "Chris Hale",
+                "Lisa Chang",
+                "tnsilres",
+                "Jessica Johnston",
+                "Jessica Jones",
+                "Alison Rivas",
+                "Yesenia Brown",
+                "Yesenia Brown",
+                "Tricia Gross",
+                "Courtney Morgan",
+                "Tricia Gross",
+                "Rontaler",
+                "Rontaler",
+                "Kari Perez",
+                "Lisa Chang",
+                "Danny Lucas",
+                "Jennifer Carter",
+                "Tricia Gross",
+                "Chris Hale",
+                "Keith Williams",
+                "Christopher Burns",
+                "Kelsey Williams",
+                "Nicole Miller",
+                "Cyrill",
+                "Keith Williams",
+                "Nicole Miller",
+                "Heidi Martin",
+                "Carolyn Brown DVM",
+                "James Bush",
+                "Nicole Miller",
+                "Donald Randall",
+                "Pamela Le",
+                "Donald Randall",
+                "Janet Nguyen",
+                "Patricia Frank",
+                "Donald Randall",
+                "Pamela Le",
+                "Matthias_BL",
+                "Lisa Chang",
+                "Joshua Winters",
+                "Katie Hudson",
+                "Nicole Miller",
+                "Cindy Matthews",
+                "Danny Lucas",
+                "Lisa Chang",
+                "Rontaler",
+                "Angela Richardson",
+                "Wendy Calhoun",
+                "Kelsey Williams",
+                "Nicole Miller",
+                "Kari Perez",
+                "Andrea Martin",
+                "Wendy Calhoun",
+                "Nicole Miller",
+                "Pamela Le",
+                "Mrs. Amy Christensen",
+                "Jessica Johnston",
+                "Carolyn Fuller",
+                "Christine Reed",
+                "Kari Perez",
+                "Joshua Wagner",
+                "Janet Nguyen",
+                "Courtney Morgan"
+            ],
+            "degree": 0.310880829
+        },
+        {
+            "name": "Carol Ramirez",
+            "imports": [
+                "Sharon Vega"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Sharon Vega",
+            "imports": [
+                "Jeffrey Perez",
+                "Madison Palmer",
+                "Nicole Miller",
+                "Yesenia Brown",
+                "Dominic Kurz"
+            ],
+            "degree": 0.046632124
+        },
+        {
+            "name": "Jeffrey Perez",
+            "imports": [
+                "Mr. Russell Spencer DDS",
+                "Nicole Miller",
+                "Christopher Burke",
+                "William West",
+                "Miss Jennifer Oneill MD",
+                "Kelsey Williams",
+                "Kari Perez",
+                "Willi",
+                "Daniel Smith",
+                "Kari Perez",
+                "Danny Lucas",
+                "Christopher Burns",
+                "Robert Smith",
+                "Kari Perez",
+                "Lori Nguyen",
+                "Rontaler",
+                "Kari Perez",
+                "Samantha Conley",
+                "Courtney Morgan",
+                "Christine Reed",
+                "Arcus_Praecipitatio",
+                "Kari Perez",
+                "Katie Hudson",
+                "Danny Lucas",
+                "zti"
+            ],
+            "degree": 0.165803109
+        },
+        {
+            "name": "Mr. Russell Spencer DDS",
+            "imports": [
+                "Cathy Hernandez",
+                "Cathy Hernandez",
+                "Lisa Chang",
+                "Thomas Baker",
+                "Holly Wallace",
+                "Andrea Martin",
+                "Joshua Winters",
+                "Joshua Winters",
+                "Mainline",
+                "Mainline",
+                "Yesenia Brown",
+                "John Cross",
+                "Kari Perez",
+                "Christine Reed"
+            ],
+            "degree": 0.088082902
+        },
+        {
+            "name": "Cathy Hernandez",
+            "imports": [
+                "Mr. Russell Spencer DDS",
+                "Daniel Smith",
+                "Katie Hudson",
+                "Michael Chase",
+                "Yesenia Brown",
+                "Courtney Morgan",
+                "Yesenia Brown",
+                "Christopher Burns",
+                "Danny Lucas",
+                "Danny Lucas",
+                "Thomas Baker",
+                "Katie Hudson",
+                "Peter Sexton",
+                "Yesenia Brown",
+                "Tanya Jones",
+                "Jessica Jones",
+                "Courtney Morgan",
+                "Joshua Wagner",
+                "Danny Lucas",
+                "Lisa Newman",
+                "Christopher Burns",
+                "Heidi Martin",
+                "Courtney Morgan"
+            ],
+            "degree": 0.150259067
+        },
+        {
+            "name": "Katie Hudson",
+            "imports": [
+                "Danny Lucas",
+                "Nicole Miller",
+                "Federwolke",
+                "Federwolke",
+                "Jessica Johnston",
+                "Daniel Smith",
+                "Molly Salinas",
+                "Danny Lucas",
+                "Samantha Conley",
+                "Crystal Cooper",
+                "Jessica Jones",
+                "Kari Perez",
+                "Jeffrey Perez",
+                "Bernhard Oker"
+            ],
+            "degree": 0.098445596
+        },
+        {
+            "name": "Danny Lucas",
+            "imports": [
+                "Daniel Smith",
+                "Christopher Burke",
+                "Jordan Beasley",
+                "Yesenia Brown",
+                "Danny Lucas",
+                "Courtney Morgan",
+                "Sharon Taylor",
+                "Kari Perez",
+                "Danny Lucas",
+                "Elizabeth Peterson",
+                "Elizabeth Peterson",
+                "Danny Lucas",
+                "Daniel Smith",
+                "Danny Lucas",
+                "Daniel Garcia",
+                "Daniel Smith",
+                "Nicole Miller",
+                "Kenneth Rosales",
+                "Christopher Burke",
+                "Cathy Hernandez",
+                "Danny Lucas",
+                "Daniel Smith",
+                "Kaiko (Döttingen)",
+                "Karen Day",
+                "Kaiko (Döttingen)",
+                "Jessica Johnston",
+                "Kari Perez",
+                "Janet Nguyen",
+                "Cathy Hernandez",
+                "Daniel Smith",
+                "Chris Hale",
+                "Kari Perez",
+                "Donald Randall",
+                "Kari Perez",
+                "Chris Hale",
+                "Karen Day",
+                "Cathy Hernandez",
+                "Emily Cox",
+                "Danny Lucas",
+                "Peter Sexton",
+                "Yesenia Brown",
+                "Thomas Baker",
+                "Nicole Miller",
+                "Elizabeth Peterson",
+                "Daniel Smith",
+                "Christine Reed",
+                "Jessica Johnston",
+                "Janet Nguyen",
+                "Kari Perez",
+                "Briana Hall",
+                "Severestorms",
+                "Kaiko (Döttingen)",
+                "Kari Perez",
+                "Christopher Burns",
+                "Kari Perez",
+                "Emily Chandler",
+                "Yesenia Brown",
+                "Daniel Smith",
+                "Willi",
+                "Mark Castillo",
+                "Yesenia Brown",
+                "Daniel Smith",
+                "Jessica Johnston",
+                "Kari Perez",
+                "Yesenia Brown",
+                "Daniel Smith",
+                "Jessica Johnston",
+                "Lisa Chang",
+                "Christopher Burns",
+                "Derrick Li",
+                "Aaron Casey",
+                "Christopher Burns",
+                "Kari Perez",
+                "Kari Perez",
+                "Janet Nguyen"
+            ],
+            "degree": 0.233160622
+        },
+        {
+            "name": "Christopher Burke",
+            "imports": [
+                "Elizabeth Peterson",
+                "Kyle James",
+                "Elizabeth Peterson",
+                "Ashley Bautista",
+                "Jessica Johnston",
+                "Danny Lucas",
+                "Kari Perez",
+                "John Taylor",
+                "Yesenia Brown",
+                "Jessica Johnston",
+                "Thomas Hernandez",
+                "Katie Nichols",
+                "Jessica Jones",
+                "Courtney Morgan",
+                "Yesenia Brown",
+                "Jan (Zeiningen, AG)",
+                "Keith Williams",
+                "Elizabeth Peterson",
+                "Christopher Burns",
+                "Yesenia Brown",
+                "Danny Lucas",
+                "Jeffrey Perez",
+                "Andrea Martin",
+                "Lisa Chang",
+                "Cathy Hernandez"
+            ],
+            "degree": 0.150259067
+        },
+        {
+            "name": "Elizabeth Peterson",
+            "imports": [
+                "Jeffrey Perez",
+                "Lisa Chang",
+                "John Burns",
+                "Daniel Smith",
+                "Chris Hale",
+                "Jessica Johnston",
+                "Elizabeth Peterson",
+                "Chris Hale",
+                "Madison Palmer",
+                "Danny Lucas",
+                "Cathy Hernandez",
+                "Elizabeth Peterson",
+                "Yesenia Brown",
+                "Christine Reed",
+                "Kaiko (Döttingen)",
+                "zti",
+                "Bernhard Oker",
+                "widovnir",
+                "Willi",
+                "Katie Hudson",
+                "Yesenia Brown",
+                "Courtney Morgan",
+                "Yesenia Brown",
+                "Jessica Johnston",
+                "Danny Lucas",
+                "Keith Williams",
+                "Jessica Johnston",
+                "Federwolke",
+                "Kaiko (Döttingen)",
+                "Danny Lucas",
+                "Carolyn Brown DVM",
+                "Christopher Burns",
+                "Cyrill",
+                "Nicole Miller",
+                "Willi",
+                "Christine Reed",
+                "Janet Nguyen",
+                "Christopher Burns",
+                "Janet Nguyen",
+                "widovnir",
+                "Off TopicNine, schön, dass Du wieder an Bord bist.\\nAuch wenn Dir das Hochladen der Fotis gerade fast den Verstand geraubt",
+                "flowi",
+                "William Wade",
+                "Donna Black",
+                "Jessica Johnston",
+                "PierreK. (Dogern)"
+            ],
+            "degree": 0.202072539
+        },
+        {
+            "name": "Melanie Vaughn",
+            "imports": [
+                "Christopher Burke",
+                "Jeffrey Perez",
+                "John Taylor",
+                "William West",
+                "Yesenia Brown"
+            ],
+            "degree": 0.041450777
+        },
+        {
+            "name": "Kyle James",
+            "imports": [
+                "Danny Lucas"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Jordan Beasley",
+            "imports": [
+                "Jeffrey Perez",
+                "cloud-music",
+                "Jordan Beasley",
+                "Kari Perez",
+                "Yesenia Brown",
+                "Federwolke",
+                "Samantha Conley",
+                "Karen Day"
+            ],
+            "degree": 0.062176166
+        },
+        {
+            "name": "Lisa Chang",
+            "imports": [
+                "Kari Perez",
+                "Jessica Johnston",
+                "Jessica Johnston",
+                "Federwolke",
+                "Cathy Hernandez",
+                "Daniel Smith",
+                "Yesenia Brown",
+                "Courtney Morgan",
+                "Kelsey Williams",
+                "Kari Perez",
+                "Bernhard Oker",
+                "Jessica Johnston",
+                "Mr. Russell Spencer DDS",
+                "Heidi Martin",
+                "Andrea Martin",
+                "Jessica Jones",
+                "Billy Davis Jr.",
+                "James Lucas",
+                "Christopher Burke",
+                "Yesenia Brown",
+                "Heidi Martin",
+                "Danny Lucas",
+                "Heidi Martin",
+                "Lisa Chang",
+                "Lisa Chang",
+                "Willi",
+                "Willi",
+                "Severestorms",
+                "Willi",
+                "Willi",
+                "Elizabeth Peterson",
+                "Jessica Johnston",
+                "Lisa Chang",
+                "Lisa Chang",
+                "Kari Perez",
+                "Kari Perez",
+                "Tricia Gross",
+                "Courtney Morgan",
+                "Christopher Burke",
+                "Lisa Chang",
+                "Yesenia Brown",
+                "Bernhard Oker",
+                "Bernhard Oker",
+                "Wendy Calhoun",
+                "Kari Perez",
+                "Kari Perez",
+                "Andrea Martin",
+                "Nicole Miller",
+                "Mr. Russell Spencer DDS",
+                "Stephanie Williams",
+                "Danny Lucas",
+                "Janet Nguyen",
+                "Andrea Martin",
+                "Aaron Casey",
+                "Kari Perez",
+                "fankyy",
+                "Willi",
+                "Willi",
+                "Federwolke",
+                "Bernhard Oker"
+            ],
+            "degree": 0.207253886
+        },
+        {
+            "name": "Yesenia Brown",
+            "imports": [
+                "James Morales",
+                "Daniel Cervantes",
+                "Courtney Morgan",
+                "Cathy Hernandez",
+                "Janet Nguyen",
+                "Danny Lucas",
+                "Nicole Miller",
+                "Danny Lucas",
+                "Daniel Smith",
+                "Jessica Johnston",
+                "Danny Lucas",
+                "Keith Williams",
+                "Kari Perez",
+                "Jessica Johnston",
+                "Holly Wallace",
+                "Kari Perez",
+                "Yesenia Brown",
+                "Jesse Nguyen",
+                "Keith Williams",
+                "Karen Day",
+                "Yesenia Brown",
+                "Kari Perez",
+                "Nicole Miller",
+                "Christopher Burns",
+                "widovnir",
+                "Keith Williams",
+                "Daniel Smith",
+                "Christopher Burke",
+                "Janet Nguyen",
+                "Jan (Zeiningen, AG)",
+                "Katie Nichols",
+                "Janet Nguyen",
+                "Courtney Morgan",
+                "Christine Reed",
+                "Chris Hale",
+                "Nicole Miller",
+                "Nicole Miller",
+                "Edward Ross",
+                "Justin Carroll",
+                "Heidi Martin",
+                "Daniel Smith",
+                "Donald Randall",
+                "Kari Perez",
+                "Andrea Martin",
+                "Kari Perez",
+                "Nicole Miller",
+                "Jessica Johnston",
+                "Yesenia Brown",
+                "Derrick Li",
+                "flowi",
+                "Christopher Burke",
+                "Elizabeth Peterson",
+                "Danny Lucas",
+                "Danny Lucas",
+                "Danny Lucas",
+                "Pamela Le",
+                "Yesenia Brown",
+                "Karen Day",
+                "Pät, Basel",
+                "crosley",
+                "crosley",
+                "Kari Perez",
+                "William Wade",
+                "Joshua Winters",
+                "Jeffrey Perez",
+                "Raymond Mills",
+                "William West",
+                "Danny Lucas",
+                "Billy Davis Jr.",
+                "Severestorms",
+                "Andrea Martin",
+                "Danny Lucas",
+                "Kari Perez"
+            ],
+            "degree": 0.25388601
+        },
+        {
+            "name": "James Morales",
+            "imports": [
+                "Nicole Miller",
+                "Ryan Duncan"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "William West",
+            "imports": [
+                "Jeffrey Perez",
+                "Danny Lucas",
+                "widovnir",
+                "Keith Williams",
+                "Karen Day",
+                "Yesenia Brown",
+                "Mrs. Margaret French",
+                "Kari Perez",
+                "Karen Day",
+                "Wendy Calhoun",
+                "Katie Nichols",
+                "Lisa Chang",
+                "Danny Lucas",
+                "Daniel Smith"
+            ],
+            "degree": 0.10880829
+        },
+        {
+            "name": "Miss Jennifer Oneill MD",
+            "imports": [
+                "Kelsey Williams",
+                "Mrs. Margaret French",
+                "Linth",
+                "Nicole Miller"
+            ],
+            "degree": 0.03626943
+        },
+        {
+            "name": "Kelsey Williams",
+            "imports": [
+                "William Meyer",
+                "William Meyer",
+                "John Burns",
+                "Christopher Burke",
+                "Cathy Hernandez",
+                "Kimberly Burgess",
+                "Nicole Miller",
+                "Heidi Martin",
+                "Christine Reed",
+                "Bradley Harris",
+                "Kelsey Williams",
+                "Kelsey Williams",
+                "Cyrill",
+                "Willi",
+                "Michael Skinner",
+                "Cathy Hernandez",
+                "Ashley Bautista",
+                "Severestorms",
+                "Severestorms",
+                "Brian Vargas",
+                "Willi"
+            ],
+            "degree": 0.139896373
+        },
+        {
+            "name": "William Meyer",
+            "imports": [
+                "Kelsey Williams",
+                "Christine Reed",
+                "Nicole Miller",
+                "Nicole Miller"
+            ],
+            "degree": 0.025906736
+        },
+        {
+            "name": "Christine Reed",
+            "imports": [
+                "Kari Perez",
+                "Christopher Burke",
+                "Jessica Johnston",
+                "Danny Lucas",
+                "Jessica Johnston",
+                "Yesenia Brown",
+                "Daniel Smith",
+                "Pamela Le",
+                "Alison Rivas",
+                "Yesenia Brown",
+                "Nicole Miller",
+                "Jordan Beasley",
+                "Kari Perez",
+                "Nicole Miller",
+                "Julie Turner",
+                "Yesenia Brown",
+                "Yesenia Brown",
+                "Yesenia Brown",
+                "Christopher Burns",
+                "Kari Perez",
+                "Allen Thompson",
+                "Christopher Burns",
+                "Bradley Harris",
+                "Christopher Burns",
+                "Bernhard Oker",
+                "Keith Williams",
+                "Jeanette Robertson",
+                "Nicole Miller",
+                "Elizabeth Peterson",
+                "Briana Hall",
+                "Danny Lucas",
+                "Justin Carroll",
+                "Janet Nguyen",
+                "Ashley Bautista",
+                "Westwindwetter",
+                "Dominic Kurz",
+                "Dominic Kurz",
+                "Markus Pfister",
+                "Nicole Miller",
+                "Markus Pfister",
+                "Kari Perez",
+                "Karen Day",
+                "Janet Nguyen",
+                "Jessica Johnston",
+                "Mrs. Amy Christensen",
+                "Lance Cabrera",
+                "Lisa Chang",
+                "Billy Davis Jr.",
+                "Rontaler",
+                "Rontaler",
+                "Kimberly Burgess"
+            ],
+            "degree": 0.248704663
+        },
+        {
+            "name": "Derrick Li",
+            "imports": [
+                "Danny Lucas",
+                "Nicole Miller",
+                "Jessica Johnston",
+                "Wer von euch",
+                "Nicole Miller",
+                "Kara Patel",
+                "Cassandra Goodwin"
+            ],
+            "degree": 0.056994819
+        },
+        {
+            "name": "Daniel Cervantes",
+            "imports": [
+                "Cathy Hernandez",
+                "Janet Nguyen"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Michael Chase",
+            "imports": [
+                "Nicole Miller"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Harold Shaw",
+            "imports": [
+                "Elizabeth Peterson",
+                "Christopher Burns",
+                "Nicole Miller"
+            ],
+            "degree": 0.025906736
+        },
+        {
+            "name": "John Burns",
+            "imports": [
+                "Jessica Johnston",
+                "Kari Perez"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Courtney Morgan",
+            "imports": [
+                "Daniel Cervantes",
+                "Kimberly Burgess",
+                "Kimberly Burgess",
+                "Tajno",
+                "Daniel Smith",
+                "Jessica Johnston",
+                "Christopher Burke",
+                "Peter Sexton",
+                "Danny Lucas",
+                "Off Topic@Christian Schlieren: Ok, ich war vorher dort wegen Durchreise, da",
+                "Christine Reed",
+                "Lisa Chang",
+                "Nicole Miller",
+                "Kari Perez",
+                "Kari Perez",
+                "Karen Day",
+                "Goldigoldi",
+                "Goldigoldi",
+                "Gregory Taylor",
+                "Christopher Burns",
+                "Chris Hale",
+                "Kari Perez",
+                "Kari Perez",
+                "Lisa Chang",
+                "Janet Nguyen",
+                "Kelsey Williams",
+                "Haene",
+                "Nicole Miller",
+                "Kari Perez",
+                "Pamela Le",
+                "Holly Wallace",
+                "Daniel Smith",
+                "Lisa Chang",
+                "Heidi Martin",
+                "Christine Reed",
+                "Gregory Taylor",
+                "Chris Hale",
+                "Goldigoldi",
+                "Bernhard Oker",
+                "Severestorms",
+                "Lori Nguyen",
+                "William West",
+                "Christopher Burns",
+                "Kari Perez",
+                "crosley",
+                "Jeffrey Perez",
+                "Jordan Beasley",
+                "Donna Black",
+                "Jessica Johnston",
+                "Kari Perez",
+                "Lisa Chang",
+                "Jeffrey Perez",
+                "Michael Ray",
+                "Nicole Miller",
+                "Federwolke",
+                "Markus (Horw)",
+                "Kari Perez",
+                "Billy Davis Jr.",
+                "Kari Perez",
+                "Tricia Gross",
+                "Kari Perez",
+                "Bernhard Oker",
+                "Philippe Zimmerwald",
+                "Bernhard Oker"
+            ],
+            "degree": 0.274611399
+        },
+        {
+            "name": "Diana Warren",
+            "imports": [
+                "Danny Lucas",
+                "Thomas Hernandez",
+                "Alison Rivas",
+                "Gary Clark",
+                "Tricia Gross",
+                "Janet Nguyen",
+                "Linth",
+                "Karen Day",
+                "Tanya Jones"
+            ],
+            "degree": 0.077720207
+        },
+        {
+            "name": "Sharon Taylor",
+            "imports": [
+                "Heidi Martin"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Heidi Martin",
+            "imports": [
+                "Christopher Burke",
+                "Danny Lucas",
+                "Kimberly Burgess",
+                "Christine Reed",
+                "widovnir",
+                "Heidi Martin",
+                "Kari Perez",
+                "Keith Williams",
+                "Kari Perez",
+                "Christine Reed",
+                "Danny Lucas",
+                "Courtney Morgan",
+                "Kari Perez",
+                "Gregory Taylor",
+                "Kari Perez",
+                "Mrs. Margaret French",
+                "Nicole Miller",
+                "Patricia Frank",
+                "Janet Nguyen",
+                "Kimberly Burgess",
+                "Kari Perez",
+                "Kimberly Burgess",
+                "Jessica Johnston",
+                "Nicole Miller",
+                "Briana Hall",
+                "Bradley Harris",
+                "Willi",
+                "Tinu (Männedorf)",
+                "zti",
+                "Severestorms",
+                "zti",
+                "Chris Hale",
+                "Kari Perez",
+                "Heidi Martin",
+                "Lisa Chang",
+                "Keith Williams",
+                "Mrs. Margaret French",
+                "Christopher Burns",
+                "Keith Williams",
+                "William West",
+                "Lisa Chang",
+                "Vortex2",
+                "widovnir",
+                "Rontaler",
+                "Vortex2",
+                "widovnir",
+                "Vortex2",
+                "Wendy Calhoun",
+                "Andrea Martin",
+                "Heidi Martin",
+                "Kari Perez",
+                "crosley",
+                "crosley",
+                "Kari Perez",
+                "Jessica Johnston",
+                "Courtney Morgan",
+                "Joshua Wagner",
+                "Rontaler",
+                "Federwolke",
+                "Kari Perez",
+                "Jeffrey Perez"
+            ],
+            "degree": 0.212435233
+        },
+        {
+            "name": "Ashley Bautista",
+            "imports": [
+                "Danny Lucas",
+                "Jessica Johnston",
+                "Jessica Johnston",
+                "Jessica Johnston",
+                "Christine Reed"
+            ],
+            "degree": 0.03626943
+        },
+        {
+            "name": "Willi",
+            "imports": [],
+            "degree": 0.07253886
+        },
+        {
+            "name": "Federwolke",
+            "imports": [],
+            "degree": 0.07253886
+        },
+        {
+            "name": "cloud-music",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Chris Hale",
+            "imports": [
+                "Nicole Miller",
+                "Daniel Smith",
+                "Keith Williams",
+                "flowi",
+                "Michael Skinner",
+                "Angela Richardson",
+                "Angela Richardson",
+                "Angela Richardson",
+                "Jessica Johnston",
+                "Elizabeth Peterson",
+                "Allen Thompson",
+                "Diana Warren",
+                "Janet Nguyen",
+                "Daniel Smith",
+                "Karen Day",
+                "Tricia Gross",
+                "Tanya Jones",
+                "Yesenia Brown",
+                "Justin Snyder",
+                "Christine Reed",
+                "Kari Perez",
+                "Christine Reed",
+                "Bradley Harris",
+                "Cyrill",
+                "Tinu (Männedorf)",
+                "Joshua Wagner",
+                "Kari Perez",
+                "Jessica Johnston",
+                "Brooke Ferguson",
+                "Keith Williams",
+                "Sarah Black",
+                "Lance Cabrera",
+                "Severestorms",
+                "Lisa Chang",
+                "Yesenia Brown",
+                "Mr. Russell Spencer DDS",
+                "Tobi (Rheintal, VBG)",
+                "Lori Nguyen",
+                "Elizabeth Peterson",
+                "Rontaler",
+                "Andrea Martin",
+                "Pamela Le"
+            ],
+            "degree": 0.238341969
+        },
+        {
+            "name": "Cassandra Goodwin",
+            "imports": [
+                "Kari Perez",
+                "widovnir",
+                "Courtney Morgan",
+                "Chelsey Smith"
+            ],
+            "degree": 0.03626943
+        },
+        {
+            "name": "Kimberly Burgess",
+            "imports": [
+                "William West",
+                "Cathy Hernandez",
+                "Kari Perez",
+                "widovnir",
+                "William West",
+                "Bernhard Oker",
+                "Kari Perez",
+                "Rontaler",
+                "Richard Hines",
+                "Lori Nguyen",
+                "Miss Jennifer Oneill MD",
+                "Kimberly Burgess",
+                "Jennifer Carter",
+                "Keith Morgan Jr.",
+                "Briana Hall",
+                "Kimberly Burgess",
+                "Gregory Taylor",
+                "Bradley Harris",
+                "mono (Zürich)",
+                "Severestorms",
+                "zti",
+                "zti",
+                "zti",
+                "Nicole Miller",
+                "Rontaler",
+                "Kari Perez",
+                "Chris Hale",
+                "nordspot"
+            ],
+            "degree": 0.14507772
+        },
+        {
+            "name": "Daniel Garcia",
+            "imports": [
+                "Danny Lucas",
+                "Severestorms",
+                "Daniel Smith",
+                "Christine Reed",
+                "Gregory Taylor",
+                "Keith Williams",
+                "Jessica Johnston",
+                "Dominic Kurz",
+                "Goldigoldi",
+                "Dominic Kurz"
+            ],
+            "degree": 0.067357513
+        },
+        {
+            "name": "Madison Palmer",
+            "imports": [
+                "Jacqueline Gomez",
+                "Elizabeth Peterson",
+                "Chris Hale",
+                "Jessica Jones",
+                "Nicole Miller",
+                "Alison Rivas",
+                "Chris Hale",
+                "Karen Day"
+            ],
+            "degree": 0.062176166
+        },
+        {
+            "name": "Jacqueline Gomez",
+            "imports": [
+                "Chris Hale",
+                "Daniel Smith",
+                "Willi",
+                "Nicole Miller"
+            ],
+            "degree": 0.031088083
+        },
+        {
+            "name": "Keith Williams",
+            "imports": [
+                "Elizabeth Peterson",
+                "Yesenia Brown",
+                "Elizabeth Peterson",
+                "Diana Warren",
+                "Daniel Smith",
+                "Nicole Miller",
+                "Yesenia Brown",
+                "Harold Shaw",
+                "Nicole Miller",
+                "Kari Perez",
+                "Kari Perez",
+                "Nicole Miller",
+                "Andrea Martin",
+                "Christopher Burns",
+                "Christine Reed",
+                "Jessica Johnston",
+                "Yesenia Brown",
+                "Robert Wilcox",
+                "Elizabeth Peterson",
+                "Christine Reed",
+                "Briana Hall",
+                "Kari Perez",
+                "Donald Randall",
+                "Kari Perez",
+                "Heidi Martin",
+                "Courtney Morgan",
+                "Christopher Burns",
+                "Heidi Martin",
+                "Lisa Chang",
+                "Christine Reed",
+                "Jessica Johnston",
+                "Chris Hale",
+                "Carolyn Brown DVM",
+                "Nicole Miller",
+                "Kari Perez"
+            ],
+            "degree": 0.150259067
+        },
+        {
+            "name": "Christopher Burns",
+            "imports": [
+                "Elizabeth Peterson",
+                "Kaiko (Döttingen)",
+                "Keith Williams",
+                "Nicole Miller",
+                "Gregory Taylor",
+                "Keith Williams",
+                "Willi",
+                "Tanya Jones",
+                "Jessica Johnston",
+                "Daniel Smith",
+                "Christine Reed",
+                "Chris Hale",
+                "Daniel Smith",
+                "Nicole Miller",
+                "Kari Perez",
+                "Nicole Miller",
+                "Daniel Garcia",
+                "Chris Hale",
+                "Danny Lucas",
+                "Janet Nguyen",
+                "Janet Nguyen",
+                "Christopher Burns",
+                "Tanya Jones",
+                "Tanya Jones",
+                "Kelsey Williams",
+                "Bradley Harris",
+                "Michael (Seon)",
+                "pasischuan",
+                "Federwolke",
+                "Bernhard Oker",
+                "Willi",
+                "Willi",
+                "Kaiko (Döttingen)",
+                "Bernhard Oker",
+                "Michael (Seon)",
+                "Federwolke",
+                "Bernhard Oker",
+                "Michael (Seon)",
+                "Christina Cameron",
+                "Westwindwetter",
+                "Kari Perez",
+                "Nicole Miller",
+                "Danny Lucas",
+                "Kari Perez",
+                "Lisa Chang",
+                "Lisa Chang",
+                "Bernhard Oker",
+                "Severestorms",
+                "Bernhard Oker",
+                "Bernhard Oker",
+                "Cathy Hernandez",
+                "Brian Vargas",
+                "Karen Day",
+                "Brian Vargas",
+                "nordspot",
+                "Willi",
+                "Grebcol",
+                "Willi",
+                "Elizabeth Peterson",
+                "Kari Perez",
+                "Kari Perez",
+                "Janet Nguyen",
+                "Christopher Burns",
+                "Gabrielle Harvey",
+                "Heidi Martin",
+                "crosley",
+                "Bernhard Oker",
+                "Bernhard Oker",
+                "crosley",
+                "Bernhard Oker",
+                "Jessica Johnston",
+                "Mrs. Amy Christensen",
+                "Yesenia Brown",
+                "Christopher Burns",
+                "Billy Davis Jr.",
+                "Billy Davis Jr.",
+                "Severestorms",
+                "Bernhard Oker",
+                "Severestorms",
+                "Bernhard Oker",
+                "Severestorms",
+                "Bernhard Oker"
+            ],
+            "degree": 0.259067358
+        },
+        {
+            "name": "Kenneth Rosales",
+            "imports": [
+                "Cathy Hernandez",
+                "Andrea Martin",
+                "Danny Lucas",
+                "oneworldflyer"
+            ],
+            "degree": 0.031088083
+        },
+        {
+            "name": "widovnir",
+            "imports": [],
+            "degree": 0.041450777
+        },
+        {
+            "name": "Kaiko (Döttingen)",
+            "imports": [],
+            "degree": 0.025906736
+        },
+        {
+            "name": "Severestorms",
+            "imports": [],
+            "degree": 0.062176166
+        },
+        {
+            "name": "Mathias Uster",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Tajno",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "zti",
+            "imports": [],
+            "degree": 0.031088083
+        },
+        {
+            "name": "flowi",
+            "imports": [],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Bernhard Oker",
+            "imports": [],
+            "degree": 0.093264249
+        },
+        {
+            "name": "Tinu (Männedorf)",
+            "imports": [],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Gary Clark",
+            "imports": [
+                "Jessica Johnston",
+                "Kari Perez",
+                "Christopher Burke",
+                "Thomas Hernandez",
+                "Nicole Miller"
+            ],
+            "degree": 0.046632124
+        },
+        {
+            "name": "Allen Thompson",
+            "imports": [
+                "Daniel Smith",
+                "Jessica Johnston",
+                "Diana Warren",
+                "Tricia Gross",
+                "widovnir",
+                "widovnir",
+                "Nicole Miller",
+                "Christopher Burns",
+                "Christian Schlieren",
+                "Courtney Morgan",
+                "Jessica Johnston"
+            ],
+            "degree": 0.077720207
+        },
+        {
+            "name": "Mrs. Margaret French",
+            "imports": [
+                "Alison Rivas",
+                "Yesenia Brown",
+                "Daniel Smith",
+                "Heidi Martin",
+                "Jessica Johnston",
+                "Heidi Martin",
+                "Federwolke",
+                "Off TopicDas ist Quatsch. Es gibt so schnell kein \"Grand solar minimum\". Der Zyklus 25",
+                "Heidi Martin",
+                "Yesenia Brown"
+            ],
+            "degree": 0.062176166
+        },
+        {
+            "name": "Alison Rivas",
+            "imports": [
+                "Christine Reed",
+                "Katie Nichols",
+                "Janet Nguyen",
+                "Jessica Johnston",
+                "Gary Clark",
+                "Danny Lucas",
+                "Angela Simmons",
+                "Karen Day",
+                "Diana Warren",
+                "Daniel Smith",
+                "William West"
+            ],
+            "degree": 0.07253886
+        },
+        {
+            "name": "Und Zürich",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Linth",
+            "imports": [],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Angela Simmons",
+            "imports": [
+                "Daniel Smith",
+                "Kari Perez",
+                "Yesenia Brown",
+                "Edward Ross"
+            ],
+            "degree": 0.031088083
+        },
+        {
+            "name": "John Taylor",
+            "imports": [
+                "Christopher Burke",
+                "Sharon Vega",
+                "Gary Clark"
+            ],
+            "degree": 0.025906736
+        },
+        {
+            "name": "Karen Day",
+            "imports": [
+                "Jessica Johnston",
+                "Karen Day",
+                "Daniel Smith",
+                "Madison Palmer",
+                "Lisa Chang",
+                "Madison Palmer",
+                "Jessica Johnston",
+                "Jessica Johnston",
+                "Raymond Mills",
+                "Alison Rivas",
+                "Kari Perez",
+                "Kari Perez",
+                "James Gonzales",
+                "Karen Day",
+                "Peter Sexton",
+                "Marco (Oberfrick)",
+                "Marco (Oberfrick)",
+                "Jeffrey Perez",
+                "Kari Perez",
+                "Keith Williams",
+                "Keith Williams",
+                "Karen Day",
+                "Andrea Martin",
+                "Daniel Smith",
+                "Kari Perez",
+                "Elizabeth Peterson",
+                "Christopher Burns",
+                "Christopher Burns"
+            ],
+            "degree": 0.160621762
+        },
+        {
+            "name": "Thomas Hernandez",
+            "imports": [
+                "Christine Reed",
+                "Lisa Chang",
+                "Nicole Miller",
+                "Troy Brown",
+                "Jessica Johnston",
+                "Thomas Hernandez",
+                "Madison Palmer",
+                "Jessica Jones",
+                "Jessica Jones"
+            ],
+            "degree": 0.067357513
+        },
+        {
+            "name": "Pamela Le",
+            "imports": [
+                "Jessica Johnston",
+                "Keith Morgan Jr.",
+                "Joshua Wagner",
+                "James Lucas",
+                "Donald Randall",
+                "Westwindwetter",
+                "Courtney Morgan",
+                "Heidi Martin",
+                "Daniel Smith",
+                "Andrea Martin",
+                "Christopher Burns",
+                "Rontaler",
+                "Rontaler",
+                "Mr. Russell Spencer DDS",
+                "Kari Perez",
+                "Nicole Miller",
+                "crosley",
+                "Elizabeth Peterson",
+                "Janet Nguyen",
+                "Courtney Morgan"
+            ],
+            "degree": 0.124352332
+        },
+        {
+            "name": "Michael Skinner",
+            "imports": [
+                "Jessica Jones",
+                "Daniel Smith",
+                "Nicole Miller"
+            ],
+            "degree": 0.031088083
+        },
+        {
+            "name": "Jessica Jones",
+            "imports": [
+                "Thomas Hernandez",
+                "Daniel Smith",
+                "Gary Clark",
+                "Alison Rivas",
+                "William West",
+                "Alison Rivas",
+                "Jeffrey Perez",
+                "Melanie Vaughn",
+                "Lisa Chang",
+                "Tanya Jones",
+                "Mr. Russell Spencer DDS",
+                "Billy Davis Jr.",
+                "Keith Williams"
+            ],
+            "degree": 0.103626943
+        },
+        {
+            "name": "Troy Brown",
+            "imports": [
+                "Brooke Miller",
+                "Mark Castillo",
+                "Kari Perez",
+                "Lisa Chang",
+                "Keith Williams",
+                "Daniel Smith",
+                "Mrs. Margaret French",
+                "Kari Perez"
+            ],
+            "degree": 0.051813472
+        },
+        {
+            "name": "Brooke Miller",
+            "imports": [
+                "Thomas Hernandez"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Jennifer Carter",
+            "imports": [
+                "Kari Perez",
+                "Christopher Burns",
+                "Derrick Li",
+                "Nicole Miller"
+            ],
+            "degree": 0.03626943
+        },
+        {
+            "name": "Thomas Baker",
+            "imports": [
+                "Madison Palmer",
+                "Katie Hudson",
+                "James Bush",
+                "Joshua Wagner"
+            ],
+            "degree": 0.041450777
+        },
+        {
+            "name": "Angela Richardson",
+            "imports": [
+                "Christine Reed",
+                "Karen Day",
+                "Karen Day",
+                "Jessica Johnston",
+                "Aaron Casey",
+                "Derrick Li"
+            ],
+            "degree": 0.046632124
+        },
+        {
+            "name": "Katie Nichols",
+            "imports": [
+                "Karen Day",
+                "Cathy Hernandez",
+                "Alison Rivas",
+                "Michelle Carter"
+            ],
+            "degree": 0.03626943
+        },
+        {
+            "name": "Angela Hart",
+            "imports": [
+                "Danny Lucas"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Raymond Mills",
+            "imports": [
+                "Yesenia Brown",
+                "Lisa Chang"
+            ],
+            "degree": 0.015544041
+        },
+        {
+            "name": "James Lucas",
+            "imports": [
+                "Daniel Smith",
+                "James Lucas",
+                "Yesenia Brown",
+                "MHZG",
+                "Kari Perez"
+            ],
+            "degree": 0.041450777
+        },
+        {
+            "name": "Vortex2",
+            "imports": [],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Holly Wallace",
+            "imports": [
+                "Molly Salinas",
+                "Donald Randall",
+                "Keith Morgan Jr.",
+                "Samantha Conley"
+            ],
+            "degree": 0.041450777
+        },
+        {
+            "name": "Molly Salinas",
+            "imports": [
+                "Daniel Smith",
+                "Nicole Miller",
+                "Martin"
+            ],
+            "degree": 0.025906736
+        },
+        {
+            "name": "Peter Sexton",
+            "imports": [
+                "Courtney Morgan",
+                "Courtney Morgan",
+                "Allen Thompson",
+                "Danny Lucas",
+                "Danny Lucas",
+                "Kari Perez",
+                "Christopher Burns"
+            ],
+            "degree": 0.041450777
+        },
+        {
+            "name": "Martin",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "tnsilres",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Off Topic@Christian Schlieren: Ok, ich war vorher dort wegen Durchreise, da",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Jesse Nguyen",
+            "imports": [
+                "Daniel Smith"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Edward Ross",
+            "imports": [
+                "Christine Reed",
+                "Nicole Miller",
+                "Justin Carroll",
+                "Kaiko (Döttingen)"
+            ],
+            "degree": 0.03626943
+        },
+        {
+            "name": "Gregory Taylor",
+            "imports": [
+                "Christopher Burns",
+                "Daniel Smith",
+                "Gregory Taylor",
+                "Nicole Miller",
+                "Federwolke",
+                "Kari Perez",
+                "Heidi Martin",
+                "Kari Perez",
+                "Jessica Johnston",
+                "Briana Hall",
+                "Briana Hall",
+                "Heidi Martin",
+                "Severestorms",
+                "Willi"
+            ],
+            "degree": 0.082901554
+        },
+        {
+            "name": "Steven Hall",
+            "imports": [
+                "Chris Hale"
+            ],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Tanya Jones",
+            "imports": [
+                "Danny Lucas",
+                "Slep",
+                "Jeffrey Perez",
+                "Christopher Burns",
+                "Christine Reed",
+                "Jessica Johnston",
+                "Kari Perez",
+                "Jessica Johnston",
+                "Daniel Garcia",
+                "Christopher Burns"
+            ],
+            "degree": 0.067357513
+        },
+        {
+            "name": "Slep",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Andrea Martin",
+            "imports": [
+                "Daniel Smith",
+                "Christopher Burns",
+                "Yesenia Brown",
+                "Lisa Chang",
+                "Daniel Smith",
+                "Billy Davis Jr.",
+                "Nicole Miller",
+                "Lisa Chang",
+                "Gabe",
+                "Gabe",
+                "Danny Lucas",
+                "Carolyn Brown DVM",
+                "Kari Perez",
+                "Danny Lucas",
+                "Andrea Martin",
+                "Nicole Miller",
+                "Daniel Smith",
+                "Kari Perez",
+                "Karen Day",
+                "Mr. Russell Spencer DDS",
+                "Nicole Miller",
+                "Kimberly Burgess",
+                "Kari Perez",
+                "Terry Dixon",
+                "Cathy Hernandez",
+                "Kari Perez",
+                "schwegi89",
+                "Federwolke",
+                "Gabe",
+                "Nicole Miller",
+                "Nicole Miller",
+                "Willi"
+            ],
+            "degree": 0.155440415
+        },
+        {
+            "name": "Nicht unbedingt die fotogenste Kaltfront, aber für einen interessanten Timelaps",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Rontaler",
+            "imports": [],
+            "degree": 0.051813472
+        },
+        {
+            "name": "Brooke Ferguson",
+            "imports": [
+                "Keith Williams",
+                "Bernhard Oker",
+                "Christina Cameron",
+                "Lori Nguyen",
+                "knight",
+                "widovnir"
+            ],
+            "degree": 0.046632124
+        },
+        {
+            "name": "Donald Randall",
+            "imports": [
+                "Daniel Smith",
+                "Diana Warren",
+                "Angela Richardson",
+                "Microwave",
+                "Katie Hudson",
+                "Kari Perez",
+                "Chris Hale",
+                "Kari Perez",
+                "Nicole Miller",
+                "Jessica Johnston",
+                "Donald Randall",
+                "Mrs. Margaret French",
+                "Daniel Smith",
+                "Keith Morgan Jr.",
+                "Keith Morgan Jr.",
+                "Allen Thompson",
+                "Jessica Johnston",
+                "Edward Ross",
+                "Danny Lucas",
+                "Gregory Taylor",
+                "Yesenia Brown",
+                "Justin Carroll",
+                "Justin Carroll",
+                "Christine Reed",
+                "Justin Carroll",
+                "Bernhard Oker",
+                "Federwolke",
+                "RoliM",
+                "Federwolke",
+                "Federwolke",
+                "Microwave",
+                "RoliM"
+            ],
+            "degree": 0.155440415
+        },
+        {
+            "name": "Aaron Casey",
+            "imports": [
+                "Michael Skinner",
+                "Daniel Garcia",
+                "Janet Nguyen",
+                "Mr. Russell Spencer DDS",
+                "Lisa Chang",
+                "Christopher Burke"
+            ],
+            "degree": 0.056994819
+        },
+        {
+            "name": "James Gonzales",
+            "imports": [
+                "Kelsey Williams"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Jan (Zeiningen, AG)",
+            "imports": [],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Goldigoldi",
+            "imports": [],
+            "degree": 0.031088083
+        },
+        {
+            "name": "Microwave",
+            "imports": [],
+            "degree": 0.025906736
+        },
+        {
+            "name": "Marco (Oberfrick)",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Michelle Carter",
+            "imports": [
+                "Nicole Miller",
+                "Wendy Calhoun"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Maria Patrick",
+            "imports": [
+                "Christopher Burns"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Julie Turner",
+            "imports": [
+                "Christopher Burns"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Justin Snyder",
+            "imports": [
+                "Nicole Miller"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Emily Cox",
+            "imports": [
+                "Keith Williams"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Bradley Harris",
+            "imports": [
+                "Adam James",
+                "Janet Nguyen",
+                "Courtney Morgan",
+                "Kelsey Williams",
+                "Kari Perez",
+                "Kari Perez",
+                "Justin Carroll"
+            ],
+            "degree": 0.062176166
+        },
+        {
+            "name": "Adam James",
+            "imports": [
+                "Kari Perez"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Mark Castillo",
+            "imports": [
+                "Tricia Gross",
+                "Bernhard Oker",
+                "Troy Brown",
+                "Pamela Le",
+                "Rontaler"
+            ],
+            "degree": 0.03626943
+        },
+        {
+            "name": "Michael (Seon)",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "pasischuan",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Zumi (AI)",
+            "imports": [],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Cyrill",
+            "imports": [],
+            "degree": 0.041450777
+        },
+        {
+            "name": "Chicken3gg",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Haene",
+            "imports": [],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Christian Schlieren",
+            "imports": [],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Briana Hall",
+            "imports": [
+                "Daniel Smith",
+                "Courtney Morgan",
+                "Donald Randall",
+                "Janet Nguyen",
+                "Kari Perez",
+                "Justin Carroll",
+                "Janet Nguyen",
+                "Donald Randall",
+                "Heidi Martin",
+                "Kimberly Burgess",
+                "Keith Williams",
+                "Gregory Taylor",
+                "Keith Williams",
+                "Bernhard Oker",
+                "RoliM",
+                "Bernhard Oker",
+                "Markus Pfister",
+                "Cyrill",
+                "Goldigoldi",
+                "\\nLernen von der Schweiz\\n\\n\\nAuch in der Schweiz herrschte in der vorvergangenen Woche der Ausnahmezustand. Zuerst traf ein Sturm die Stadt Zürich, dann regnete es über Tage heftig. Die Pegel der Seen stiegen gefährlich an, in mehreren Regionen überflutete das Wasser Straßen, Schienen und Siedlungen. Seit ein paar Tagen entspannt sich die Lage. Und: Die Schäden halten sich in Grenzen. Verletzte oder gar Todesopfer gab es keine, und laut Schätzungen wird das Jahr 2021 zwar ein teures werden für die Versicherer, aber weniger schlimm als zunächst befürchtet.\\n\\nDas",
+                "Cyrill"
+            ],
+            "degree": 0.098445596
+        },
+        {
+            "name": "Joshua Wagner",
+            "imports": [
+                "Heidi Martin",
+                "Donald Randall",
+                "Jeanette Robertson",
+                "Heidi Martin",
+                "Christine Reed",
+                "Nicole Miller",
+                "Nicole Miller",
+                "Sharon Vega",
+                "Courtney Morgan"
+            ],
+            "degree": 0.07253886
+        },
+        {
+            "name": "Samantha Conley",
+            "imports": [
+                "Kari Perez",
+                "Karen Day",
+                "Jessica Johnston",
+                "Jessica Johnston",
+                "Christopher Burke",
+                "Emily Chandler",
+                "Kari Perez",
+                "Cassandra Goodwin"
+            ],
+            "degree": 0.051813472
+        },
+        {
+            "name": "Susan Booker",
+            "imports": [
+                "Cathy Hernandez"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Jeanette Robertson",
+            "imports": [
+                "Courtney Morgan",
+                "Chris Hale"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Richard Hines",
+            "imports": [
+                "William West",
+                "Severestorms"
+            ],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Keith Morgan Jr.",
+            "imports": [
+                "Briana Hall",
+                "Donald Randall",
+                "Donald Randall",
+                "Aaron Casey",
+                "Kari Perez",
+                "Allen Thompson",
+                "Bernhard Oker",
+                "Goldigoldi",
+                "Goldigoldi"
+            ],
+            "degree": 0.056994819
+        },
+        {
+            "name": "Justin Carroll",
+            "imports": [
+                "Donald Randall",
+                "Donald Randall",
+                "Kari Perez",
+                "Kari Perez",
+                "Patricia Frank",
+                "Daniel Smith",
+                "Janet Nguyen",
+                "Christine Reed",
+                "Christine Reed",
+                "Federwolke",
+                "Federwolke",
+                "Bernhard Oker",
+                "Federwolke",
+                "Bernhard Oker",
+                "Bernhard Oker",
+                "Bernhard Oker"
+            ],
+            "degree": 0.067357513
+        },
+        {
+            "name": "Patricia Frank",
+            "imports": [
+                "Courtney Morgan",
+                "Courtney Morgan",
+                "Holly Wallace",
+                "Daniel Smith"
+            ],
+            "degree": 0.031088083
+        },
+        {
+            "name": "Robert Wilcox",
+            "imports": [
+                "Aaron Casey"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Carolyn Brown DVM",
+            "imports": [
+                "Donald Randall",
+                "Vortex2",
+                "Katie Hudson",
+                "Jessica Johnston",
+                "Daniel Smith",
+                "Carolyn Brown DVM",
+                "Courtney Morgan",
+                "Wendy Calhoun",
+                "Danny Lucas"
+            ],
+            "degree": 0.07253886
+        },
+        {
+            "name": "James Bush",
+            "imports": [
+                "Kari Perez",
+                "Courtney Morgan"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Lori Nguyen",
+            "imports": [
+                "Michael White",
+                "Kelsey Williams",
+                "zti",
+                "Federwolke",
+                "William West",
+                "Christopher Burke",
+                "James Morales",
+                "Kari Perez",
+                "Willi"
+            ],
+            "degree": 0.077720207
+        },
+        {
+            "name": "Michael White",
+            "imports": [
+                "Kari Perez",
+                "zti"
+            ],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Melissa Clayton",
+            "imports": [
+                "Keith Williams",
+                "Zumi (AI)"
+            ],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Christina Cameron",
+            "imports": [
+                "Jessica Johnston",
+                "Derrick Li"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Markus Pfister",
+            "imports": [],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Westwindwetter",
+            "imports": [],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Dominic Kurz",
+            "imports": [],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Cedric",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "RoliM",
+            "imports": [],
+            "degree": 0.010362694
+        },
+        {
+            "name": "helios",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Matthias_BL",
+            "imports": [],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Michael78",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "mono (Zürich)",
+            "imports": [],
+            "degree": 0.010362694
+        },
+        {
+            "name": "MHZG",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "knight",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Wer von euch",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Off TopicDas ist Quatsch. Es gibt so schnell kein \"Grand solar minimum\". Der Zyklus 25",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "\\nLernen von der Schweiz\\n\\n\\nAuch in der Schweiz herrschte in der vorvergangenen Woche der Ausnahmezustand. Zuerst traf ein Sturm die Stadt Zürich, dann regnete es über Tage heftig. Die Pegel der Seen stiegen gefährlich an, in mehreren Regionen überflutete das Wasser Straßen, Schienen und Siedlungen. Seit ein paar Tagen entspannt sich die Lage. Und: Die Schäden halten sich in Grenzen. Verletzte oder gar Todesopfer gab es keine, und laut Schätzungen wird das Jahr 2021 zwar ein teures werden für die Versicherer, aber weniger schlimm als zunächst befürchtet.\\n\\nDas",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Kimberly Logan",
+            "imports": [
+                "Jennifer Carter"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Joshua Winters",
+            "imports": [
+                "Andrea Martin",
+                "Andrea Martin",
+                "oneworldflyer",
+                "Elizabeth Peterson",
+                "Yesenia Brown",
+                "Joshua Winters",
+                "Kari Perez",
+                "Christine Reed"
+            ],
+            "degree": 0.062176166
+        },
+        {
+            "name": "Billy Davis Jr.",
+            "imports": [
+                "Andrea Martin",
+                "Kari Perez",
+                "Kari Perez",
+                "Nicole Miller",
+                "Nicole Miller",
+                "Andrea Martin",
+                "Nicole Miller",
+                "Kari Perez",
+                "Billy Davis Jr.",
+                "Katie Hudson"
+            ],
+            "degree": 0.07253886
+        },
+        {
+            "name": "Robert Smith",
+            "imports": [
+                "Aaron Casey"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Sarah Black",
+            "imports": [
+                "William West"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Wendy Calhoun",
+            "imports": [
+                "Cathy Hernandez",
+                "Mr. Russell Spencer DDS",
+                "Daniel Smith",
+                "Microwave",
+                "Carolyn Brown DVM",
+                "Carolyn Brown DVM",
+                "Heidi Martin",
+                "Crystal Cooper",
+                "Kari Perez",
+                "Christopher Burns",
+                "Kari Perez",
+                "Billy Davis Jr.",
+                "Courtney Morgan",
+                "Kari Perez"
+            ],
+            "degree": 0.082901554
+        },
+        {
+            "name": "Lisa Newman",
+            "imports": [
+                "Daniel Smith"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Crystal Cooper",
+            "imports": [
+                "Kari Perez",
+                "Jessica Jones"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Lance Cabrera",
+            "imports": [
+                "Nicole Miller",
+                "Courtney Morgan"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Gabe",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "oneworldflyer",
+            "imports": [],
+            "degree": 0.010362694
+        },
+        {
+            "name": "crosley",
+            "imports": [],
+            "degree": 0.025906736
+        },
+        {
+            "name": "Cindy Matthews",
+            "imports": [
+                "Chris Hale",
+                "Jessica Johnston",
+                "Was für Hagelmassen! Wann"
+            ],
+            "degree": 0.025906736
+        },
+        {
+            "name": "Emily Chandler",
+            "imports": [
+                "Samantha Conley",
+                "Cindy Dean"
+            ],
+            "degree": 0.015544041
+        },
+        {
+            "name": "Donna Black",
+            "imports": [
+                "Lisa Chang",
+                "Tinu (Männedorf)",
+                "Chris Hale",
+                "Jeffrey Perez",
+                "Lori Nguyen",
+                "Jessica Johnston",
+                "Bernhard Oker"
+            ],
+            "degree": 0.056994819
+        },
+        {
+            "name": "Kara Patel",
+            "imports": [
+                "Nicole Miller"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Brian Vargas",
+            "imports": [
+                "Elizabeth Peterson",
+                "Lisa Chang",
+                "Karen Day",
+                "Cyrill"
+            ],
+            "degree": 0.031088083
+        },
+        {
+            "name": "nordspot",
+            "imports": [],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Grebcol",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Was für Hagelmassen! Wann",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Pät, Basel",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Tobi (Rheintal, VBG)",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Mainline",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Cindy Dean",
+            "imports": [
+                "Andrea Martin"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "William Wade",
+            "imports": [
+                "Yesenia Brown",
+                "Jessica Johnston",
+                "flowi"
+            ],
+            "degree": 0.020725389
+        },
+        {
+            "name": "Ryan Duncan",
+            "imports": [
+                "Pamela Le"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Yolanda Hernandez",
+            "imports": [
+                "Daniel Smith"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Jerry Rivera",
+            "imports": [
+                "Chris Hale"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Gabrielle Harvey",
+            "imports": [
+                "Christine Reed"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Off TopicNine, schön, dass Du wieder an Bord bist.\\nAuch wenn Dir das Hochladen der Fotis gerade fast den Verstand geraubt",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Mrs. Amy Christensen",
+            "imports": [
+                "Jessica Jones",
+                "Andrea Martin",
+                "Jessica Johnston",
+                "Microwave"
+            ],
+            "degree": 0.03626943
+        },
+        {
+            "name": "Katherine Dean",
+            "imports": [
+                "Jessica Johnston"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Stephanie Williams",
+            "imports": [
+                "Nicole Miller"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Chelsey Smith",
+            "imports": [
+                "Nicole Miller",
+                "Jeffrey Perez",
+                "dxbruelhart"
+            ],
+            "degree": 0.025906736
+        },
+        {
+            "name": "Terry Dixon",
+            "imports": [
+                "Daniel Smith"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Michael Ray",
+            "imports": [
+                "Pamela Le"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Carolyn Fuller",
+            "imports": [
+                "William Meyer"
+            ],
+            "degree": 0.010362694
+        },
+        {
+            "name": "Arcus_Praecipitatio",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "fankyy",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "schwegi89",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "PierreK. (Dogern)",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Markus (Horw)",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "samo",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "dxbruelhart",
+            "imports": [],
+            "degree": 0.005181347
+        },
+        {
+            "name": "Philippe Zimmerwald",
+            "imports": [],
+            "degree": 0.005181347
+        }
+    ]
+}

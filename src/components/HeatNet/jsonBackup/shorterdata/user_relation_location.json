@@ -1,0 +1,849 @@
+[
+  {
+    "sl": 0,
+    "source": "Federwolke",
+    "target": "Michael (Dietikon)",
+    "latitude": 46.9297063,
+    "longitude": 7.4866868
+  },
+  {
+    "sl": 1,
+    "source": "Michael (Dietikon)",
+    "target": "Federwolke",
+    "latitude": 47.4018479,
+    "longitude": 8.3990138
+  },
+  {
+    "sl": 2,
+    "source": "Federwolke",
+    "target": "Bernhard Oker",
+    "latitude": 46.9297063,
+    "longitude": 7.4866868
+  },
+  {
+    "sl": 3,
+    "source": "Bernhard Oker",
+    "target": "Bernhard Oker",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 4,
+    "source": "Bernhard Oker",
+    "target": "Mick7",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 5,
+    "source": "Mick7",
+    "target": "Willi",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 6,
+    "source": "Willi",
+    "target": "Haene",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 7,
+    "source": "Haene",
+    "target": "Federwolke",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 8,
+    "source": "Federwolke",
+    "target": "Willi",
+    "latitude": 46.9297063,
+    "longitude": 7.4866868
+  },
+  {
+    "sl": 9,
+    "source": "Willi",
+    "target": "Vortex2",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 10,
+    "source": "Vortex2",
+    "target": "Willi",
+    "latitude": 47.5234114,
+    "longitude": 8.7531994
+  },
+  {
+    "sl": 11,
+    "source": "Willi",
+    "target": "Willi",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 12,
+    "source": "Willi",
+    "target": "Bernhard Oker",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 13,
+    "source": "Bernhard Oker",
+    "target": "Willi",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 14,
+    "source": "Willi",
+    "target": "Bernhard Oker",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 15,
+    "source": "Bernhard Oker",
+    "target": "Willi",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 16,
+    "source": "Willi",
+    "target": "Friburg",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 17,
+    "source": "Friburg",
+    "target": "Jan (Muri BE)",
+    "latitude": 46.7883209,
+    "longitude": 7.5379375
+  },
+  {
+    "sl": 18,
+    "source": "Jan (Muri BE)",
+    "target": "nordspot",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 19,
+    "source": "nordspot",
+    "target": "Arcus_Praecipitatio",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 20,
+    "source": "Arcus_Praecipitatio",
+    "target": "Slep",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 21,
+    "source": "Slep",
+    "target": "Arcus_Praecipitatio",
+    "latitude": 47.5066178,
+    "longitude": 8.7605533
+  },
+  {
+    "sl": 22,
+    "source": "Arcus_Praecipitatio",
+    "target": "Slep",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 23,
+    "source": "Slep",
+    "target": "Vortex2",
+    "latitude": 47.5066178,
+    "longitude": 8.7605533
+  },
+  {
+    "sl": 24,
+    "source": "Vortex2",
+    "target": "Bernhard Oker",
+    "latitude": 47.5234114,
+    "longitude": 8.7531994
+  },
+  {
+    "sl": 25,
+    "source": "Bernhard Oker",
+    "target": "Willi",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 26,
+    "source": "Willi",
+    "target": "Federwolke",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 27,
+    "source": "Federwolke",
+    "target": "Slep",
+    "latitude": 46.9297063,
+    "longitude": 7.4866868
+  },
+  {
+    "sl": 28,
+    "source": "Slep",
+    "target": "Michael ZH",
+    "latitude": 47.5066178,
+    "longitude": 8.7605533
+  },
+  {
+    "sl": 29,
+    "source": "Michael ZH",
+    "target": "Jeannette",
+    "latitude": 47.3671055,
+    "longitude": 8.5679249
+  },
+  {
+    "sl": 30,
+    "source": "Jeannette",
+    "target": "Vortex2",
+    "latitude": 47.5695041,
+    "longitude": 8.4198541
+  },
+  {
+    "sl": 31,
+    "source": "Vortex2",
+    "target": "Willi",
+    "latitude": 47.5234114,
+    "longitude": 8.7531994
+  },
+  {
+    "sl": 32,
+    "source": "Willi",
+    "target": "Jeannette",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 33,
+    "source": "Jeannette",
+    "target": "Marco (Oberfrick)",
+    "latitude": 47.5695041,
+    "longitude": 8.4198541
+  },
+  {
+    "sl": 34,
+    "source": "Marco (Oberfrick)",
+    "target": "flowi",
+    "latitude": 47.553724,
+    "longitude": 7.5860708
+  },
+  {
+    "sl": 35,
+    "source": "flowi",
+    "target": "nordspot",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 36,
+    "source": "nordspot",
+    "target": "Willi",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 37,
+    "source": "Willi",
+    "target": "David BS",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 38,
+    "source": "David BS",
+    "target": "Marco (Oberfrick)",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "sl": 39,
+    "source": "Marco (Oberfrick)",
+    "target": "bidoo",
+    "latitude": 47.553724,
+    "longitude": 7.5860708
+  },
+  {
+    "sl": 40,
+    "source": "bidoo",
+    "target": "Jeannette",
+    "latitude": 47.3499624,
+    "longitude": 7.9037033
+  },
+  {
+    "sl": 41,
+    "source": "Jeannette",
+    "target": "Pät, Basel",
+    "latitude": 47.5695041,
+    "longitude": 8.4198541
+  },
+  {
+    "sl": 42,
+    "source": "Pät, Basel",
+    "target": "nordspot",
+    "latitude": 47.5098182,
+    "longitude": 7.5219248
+  },
+  {
+    "sl": 43,
+    "source": "nordspot",
+    "target": "Marco (Oberfrick)",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 44,
+    "source": "Marco (Oberfrick)",
+    "target": "flowi",
+    "latitude": 47.553724,
+    "longitude": 7.5860708
+  },
+  {
+    "sl": 45,
+    "source": "flowi",
+    "target": "Rontaler",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 46,
+    "source": "Rontaler",
+    "target": "Bernhard Oker",
+    "latitude": 47.1540118,
+    "longitude": 8.2898259
+  },
+  {
+    "sl": 47,
+    "source": "Bernhard Oker",
+    "target": "Kaiko (Döttingen)",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 48,
+    "source": "Kaiko (Döttingen)",
+    "target": "JerryBS",
+    "latitude": 47.5581466,
+    "longitude": 8.2535067
+  },
+  {
+    "sl": 49,
+    "source": "JerryBS",
+    "target": "Willi",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 50,
+    "source": "Willi",
+    "target": "nordspot",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 51,
+    "source": "nordspot",
+    "target": "swissphoto",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 52,
+    "source": "swissphoto",
+    "target": "nordspot",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 53,
+    "source": "nordspot",
+    "target": "B3rgl3r",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 54,
+    "source": "B3rgl3r",
+    "target": "Tobi31",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 55,
+    "source": "Tobi31",
+    "target": "Markus (Horw)",
+    "latitude": 47.3867071,
+    "longitude": 8.420693
+  },
+  {
+    "sl": 56,
+    "source": "Markus (Horw)",
+    "target": "Tobi31",
+    "latitude": 47.0249599,
+    "longitude": 8.3121008
+  },
+  {
+    "sl": 57,
+    "source": "Tobi31",
+    "target": "Markus (Horw)",
+    "latitude": 47.3867071,
+    "longitude": 8.420693
+  },
+  {
+    "sl": 58,
+    "source": "Markus (Horw)",
+    "target": "Tinu (Männedorf)",
+    "latitude": 47.0249599,
+    "longitude": 8.3121008
+  },
+  {
+    "sl": 59,
+    "source": "Tinu (Männedorf)",
+    "target": "Bernhard Oker",
+    "latitude": 47.2574625,
+    "longitude": 8.6946733
+  },
+  {
+    "sl": 60,
+    "source": "Bernhard Oker",
+    "target": "Timi1908",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 61,
+    "source": "Timi1908",
+    "target": "Jeannette",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 62,
+    "source": "Jeannette",
+    "target": "Kaiko (Döttingen)",
+    "latitude": 47.5695041,
+    "longitude": 8.4198541
+  },
+  {
+    "sl": 63,
+    "source": "Kaiko (Döttingen)",
+    "target": "Obernef",
+    "latitude": 47.5581466,
+    "longitude": 8.2535067
+  },
+  {
+    "sl": 64,
+    "source": "Obernef",
+    "target": "Slep",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 65,
+    "source": "Slep",
+    "target": "Lukas Eisenberger",
+    "latitude": 47.5066178,
+    "longitude": 8.7605533
+  },
+  {
+    "sl": 66,
+    "source": "Lukas Eisenberger",
+    "target": "Willi",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 67,
+    "source": "Willi",
+    "target": "dxbruelhart",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 68,
+    "source": "dxbruelhart",
+    "target": "flowi",
+    "latitude": 47.0633697,
+    "longitude": 9.0550398
+  },
+  {
+    "sl": 69,
+    "source": "flowi",
+    "target": "Patrick -Arosa-",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 70,
+    "source": "Patrick -Arosa-",
+    "target": "Federwolke",
+    "latitude": 46.7772287,
+    "longitude": 9.6554
+  },
+  {
+    "sl": 71,
+    "source": "Federwolke",
+    "target": "Willi",
+    "latitude": 46.9297063,
+    "longitude": 7.4866868
+  },
+  {
+    "sl": 72,
+    "source": "Willi",
+    "target": "flowi",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 73,
+    "source": "flowi",
+    "target": "Vortex2",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 74,
+    "source": "Vortex2",
+    "target": "Jeannette",
+    "latitude": 47.5234114,
+    "longitude": 8.7531994
+  },
+  {
+    "sl": 75,
+    "source": "Jeannette",
+    "target": "Jeannette",
+    "latitude": 47.5695041,
+    "longitude": 8.4198541
+  },
+  {
+    "sl": 76,
+    "source": "Jeannette",
+    "target": "Microwave",
+    "latitude": 47.5695041,
+    "longitude": 8.4198541
+  },
+  {
+    "sl": 77,
+    "source": "Microwave",
+    "target": "Obernef",
+    "latitude": 47.3807562,
+    "longitude": 8.517289
+  },
+  {
+    "sl": 78,
+    "source": "Obernef",
+    "target": "Haene",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 79,
+    "source": "Haene",
+    "target": "Laseyer",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "sl": 80,
+    "source": "Laseyer",
+    "target": "Jeannette",
+    "latitude": 47.310552,
+    "longitude": 9.435555
+  },
+  {
+    "sl": 81,
+    "source": "Jeannette",
+    "target": "Heiziger",
+    "latitude": 47.5695041,
+    "longitude": 8.4198541
+  },
+  {
+    "sl": 82,
+    "source": "Heiziger",
+    "target": "Severestorms",
+    "latitude": 47.037219,
+    "longitude": 7.37617
+  },
+  {
+    "sl": 83,
+    "source": "Severestorms",
+    "target": "Marco (Oberfrick)",
+    "latitude": 47.3768866,
+    "longitude": 8.541694
+  },
+  {
+    "sl": 84,
+    "source": "Marco (Oberfrick)",
+    "target": "knight",
+    "latitude": 47.553724,
+    "longitude": 7.5860708
+  },
+  {
+    "sl": 85,
+    "source": "knight",
+    "target": "Jeannette",
+    "latitude": 46.960939,
+    "longitude": 7.1117146
+  },
+  {
+    "sl": 86,
+    "source": "Jeannette",
+    "target": "Bernhard Oker",
+    "latitude": 47.5695041,
+    "longitude": 8.4198541
+  },
+  {
+    "sl": 87,
+    "source": "Bernhard Oker",
+    "target": "Michael (Dietikon)",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 88,
+    "source": "Michael (Dietikon)",
+    "target": "Michael ZH",
+    "latitude": 47.4018479,
+    "longitude": 8.3990138
+  },
+  {
+    "sl": 89,
+    "source": "Michael ZH",
+    "target": "Willi",
+    "latitude": 47.3671055,
+    "longitude": 8.5679249
+  },
+  {
+    "sl": 90,
+    "source": "Willi",
+    "target": "David BS",
+    "latitude": 47.343329,
+    "longitude": 8.482777
+  },
+  {
+    "sl": 91,
+    "source": "David BS",
+    "target": "nordspot",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "sl": 92,
+    "source": "nordspot",
+    "target": "Tobi31",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 93,
+    "source": "Tobi31",
+    "target": "Patrick -Arosa-",
+    "latitude": 47.3867071,
+    "longitude": 8.420693
+  },
+  {
+    "sl": 94,
+    "source": "Patrick -Arosa-",
+    "target": "Bernhard Oker",
+    "latitude": 46.7772287,
+    "longitude": 9.6554
+  },
+  {
+    "sl": 95,
+    "source": "Bernhard Oker",
+    "target": "nordspot",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 96,
+    "source": "nordspot",
+    "target": "Bernhard Oker",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 97,
+    "source": "Federwolke",
+    "target": "Willi",
+    "latitude": 46.9297063,
+    "longitude": 7.4866868
+  },
+  {
+    "sl": 98,
+    "source": "Bernhard Oker",
+    "target": "Willi",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 99,
+    "source": "nordspot",
+    "target": "Willi",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 100,
+    "source": "Michael ZH",
+    "target": "Federwolke",
+    "latitude": 47.3671055,
+    "longitude": 8.5679249
+  },
+  {
+    "sl": 1864,
+    "source": "Microwave",
+    "target": "Michael (Dietikon)",
+    "latitude": 47.3807562,
+    "longitude": 8.517289
+  },
+  {
+    "sl": 1865,
+    "source": "Michael (Dietikon)",
+    "target": "Bernhard Oker",
+    "latitude": 47.4018479,
+    "longitude": 8.3990138
+  },
+  {
+    "sl": 1866,
+    "source": "Bernhard Oker",
+    "target": "Kaiko (Döttingen)",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 1867,
+    "source": "Kaiko (Döttingen)",
+    "target": "Bernhard Oker",
+    "latitude": 47.5581466,
+    "longitude": 8.2535067
+  },
+  {
+    "sl": 1868,
+    "source": "Bernhard Oker",
+    "target": "Bernhard Oker",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 1869,
+    "source": "Bernhard Oker",
+    "target": "MHZG",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 1870,
+    "source": "MHZG",
+    "target": "Microwave",
+    "latitude": 47.197193,
+    "longitude": 8.4850173
+  },
+  {
+    "sl": 1871,
+    "source": "Microwave",
+    "target": "Bernhard Oker",
+    "latitude": 47.3807562,
+    "longitude": 8.517289
+  },
+  {
+    "sl": 1872,
+    "source": "Bernhard Oker",
+    "target": "Bernhard Oker",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 1873,
+    "source": "Bernhard Oker",
+    "target": "Bernhard Oker",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 1874,
+    "source": "Microwave",
+    "target": "Bernhard Oker",
+    "latitude": 47.3807562,
+    "longitude": 8.517289
+  },
+  {
+    "sl": 1875,
+    "source": "Bernhard Oker",
+    "target": "Microwave",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 1876,
+    "source": "nordspot",
+    "target": "zti",
+    "latitude": 47.6755009,
+    "longitude": 9.1980125
+  },
+  {
+    "sl": 1877,
+    "source": "zti",
+    "target": "nordspot",
+    "latitude": 47.423286,
+    "longitude": 8.5422655
+  },
+  {
+    "sl": 1878,
+    "source": "oneworldflyer",
+    "target": "Willi",
+    "latitude": 47.1531739,
+    "longitude": 7.4102938
+  },
+  {
+    "sl": 1879,
+    "source": "Bernhard Oker",
+    "target": "Bernhard Oker",
+    "latitude": 47.3896332,
+    "longitude": 8.4254552
+  },
+  {
+    "sl": 1880,
+    "source": "Chuuz51",
+    "target": "dxbruelhart",
+    "latitude": 47.0940067,
+    "longitude": 9.0754485
+  },
+  {
+    "sl": 1881,
+    "source": "Michael ZH",
+    "target": "Bernhard Oker",
+    "latitude": 47.3671055,
+    "longitude": 8.5679249
+  },
+  {
+    "sl": 1882,
+    "source": "Microwave",
+    "target": "Philippe Zimmerwald",
+    "latitude": 47.3807562,
+    "longitude": 8.517289
+  },
+  {
+    "sl": 1883,
+    "source": "Microwave",
+    "target": "Bernhard Oker",
+    "latitude": 47.3807562,
+    "longitude": 8.517289
+  }
+]

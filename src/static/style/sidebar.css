@@ -1,0 +1,296 @@
+.hamburger-icon-container {
+    height: 1.7em;
+    width: 1.7em;
+    position: relative;
+    cursor: pointer;
+    border-radius: 3px;
+    margin: 18px 0 20px 2px;
+}
+
+#filter {
+    margin: 0 25px 0 25px;
+    text-align: left;
+}
+
+#filter:last-child {
+    margin-bottom: 20px;
+}
+
+.hamburger-icon,
+.hamburger-icon:before,
+.hamburger-icon:after {
+    content: "";
+    position: absolute;
+    height: 3px;
+    width: 1.7em;
+    background: #050505;
+    transition: all 0.5s ease;
+}
+
+.hamburger-icon {
+    top: 0.75em;
+}
+
+.hamburger-icon:before {
+    top: -0.55em;
+    left: 0;
+}
+
+.hamburger-icon:after {
+    top: 0.55em;
+    left: 0;
+}
+
+.hamburger-active .hamburger-icon {
+    background: transparent;
+    transform: rotate(-135deg);
+}
+
+.hamburger-active .hamburger-icon:before,
+.hamburger-active .hamburger-icon:after {
+    top: 0;
+}
+
+.hamburger-active .hamburger-icon:before {
+    transform: rotate(90deg);
+}
+
+#hamburger {
+    z-index: 2;
+}
+
+#SidebarAll {
+    flex-shrink: 0;
+    width: 320px;
+    height: 100vh;
+    border-right: var(--border-bg-color) solid 4px;
+    transition: width 0.5s ease-in-out, left 0.5s ease-in-out;
+    margin-left: -1px;
+}
+
+#SidebarContainer {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    width: inherit;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    transition: opacity 0.3s ease-in-out;
+    overflow-x: visible;
+}
+
+.Sidebar {
+    overflow: scroll;
+}
+
+.Sidebar div {
+    font-size: 18px;
+    color: black;
+}
+
+.Sidebar p {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#TopContainer {
+    flex-shrink: 0;
+    height: 60px;
+    border-bottom: 2px solid var(--border-bg-color);
+    background-color: var(--main-bg-color);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 25px;
+}
+
+.modalInfo p {
+    margin-bottom: 15px;
+}
+
+#SaveButtons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-element {
+    margin-bottom: 10px;
+}
+.menu-element label {
+    cursor: pointer;
+}
+
+.filterCopyContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.filterCopyContainer button {
+    margin-top: 5px;
+}
+
+.typeButton img {
+    height: 20px;
+    margin-right: 5px;
+}
+
+.toggleLabel {
+    margin-top: 0;
+}
+
+p {
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.categorySlider {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.categorySlider:hover {
+    position: relative;
+    z-index: 1;
+}
+
+.categorySlider p {
+    font-size: 16px;
+    align-self: flex-start;
+}
+
+.dateRangePicker {
+    width: 100%;
+}
+
+.dateRangePicker .react-datetimerange-picker__wrapper {
+    flex-direction: column;
+    border-radius: 4px;
+    border: var(--border-bg-color) 2px solid;
+}
+
+.durationInputs{
+    display: flex;
+    margin-left: 8px;
+    margin-bottom: 5px;
+}
+
+.areaOptions {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 5px;
+}
+
+.singleAreaChoice {
+    color: #000000d6;
+    font-size: 16px;
+    margin-top: 6px !important;
+    cursor: pointer;
+}
+
+#colorOption {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+#colorBox {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+    border: #00000091 1px solid;
+    border-radius: 3px;
+}
+
+#colorBox:hover {
+    cursor: pointer;
+}
+
+#colorPickerBox {
+    transform: translateX(5px);
+    display: flex;
+
+}
+
+.colorPickerBoxShow {
+    display: flex;
+}
+
+.pin-left {
+    width: 0;
+    height: 0;
+    border-top: 118px solid transparent;
+    border-bottom: 118px solid transparent;
+    border-right: 30px solid var(--border-bg-color);
+}
+
+.pin {
+    height: 230px;
+    width: 230px;
+    background-color: white;
+    border: var(--border-bg-color) 3px solid;
+    border-left: var(--border-bg-color) 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.react-colorful {
+    width: 180px;
+}
+
+#colorPicker {
+    width: 176px;
+}
+
+.tooltip {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tooltipbase {
+    font-size: 12px !important;
+    margin-bottom: 3px !important;
+    margin-top: 3px !important;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    background-color: #fcf5f2;;
+    color: black;
+    box-shadow: 0 1px 3px #000000cf;
+    text-align: center;
+    border-radius: 6px;
+    padding: 3px 5px;
+    font-size: 12px;
+    width: max-content;
+    max-width: 120px;
+    margin-bottom: 3px;
+    transition-delay: 250ms;
+    transition-property: visibility;
+}
+
+.tooltipTop {
+    flex-direction: column-reverse;
+}
+
+.tooltipbase:hover + .tooltiptext {
+    visibility: visible;
+    transition-delay: 500ms;
+    transition-property: visibility;
+}
+
+.nestedMenu {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+}
+
+.nestedMenu div p {
+    font-size: 13px;
+}

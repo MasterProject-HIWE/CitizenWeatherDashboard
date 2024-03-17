@@ -1,0 +1,3894 @@
+[
+  {
+    "": 0,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2021-06-23",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 1,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022-05-22",
+    "category": "BEWOELKUNG",
+    "freq": 23
+  },
+  {
+    "": 2,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022-05-22",
+    "category": "BLITZE",
+    "freq": 2
+  },
+  {
+    "": 3,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022-05-22",
+    "category": "HAGEL",
+    "freq": 133
+  },
+  {
+    "": 4,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022-05-22",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 5,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022-05-22",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 6,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022-05-22",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 7,
+    "username": "Arcus_Praecipitatio",
+    "timestamp": "2022-05-22",
+    "category": "WIND",
+    "freq": 6
+  },
+  {
+    "": 8,
+    "username": "B3rgl3r",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 42
+  },
+  {
+    "": 9,
+    "username": "B3rgl3r",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 54
+  },
+  {
+    "": 10,
+    "username": "B3rgl3r",
+    "timestamp": "2022-05-23",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 11,
+    "username": "B3rgl3r",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 990
+  },
+  {
+    "": 12,
+    "username": "B3rgl3r",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 75
+  },
+  {
+    "": 13,
+    "username": "B3rgl3r",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 14,
+    "username": "B3rgl3r",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 3
+  },
+  {
+    "": 15,
+    "username": "B3rgl3r",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 23
+  },
+  {
+    "": 16,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-01-31",
+    "category": "BEWOELKUNG",
+    "freq": 2
+  },
+  {
+    "": 17,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-01-31",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 18,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-01-31",
+    "category": "REGEN",
+    "freq": 4
+  },
+  {
+    "": 19,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-01-31",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 20,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-01-31",
+    "category": "SCHNEEFALL",
+    "freq": 2
+  },
+  {
+    "": 21,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-02-07",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 22,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-02-07",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 23,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-02-21",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 24,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-02-21",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 25,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-04-02",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 26,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-04-09",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 27,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-04-09",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 28,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-03",
+    "category": "BLITZE",
+    "freq": 4
+  },
+  {
+    "": 29,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-03",
+    "category": "HAGEL",
+    "freq": 4
+  },
+  {
+    "": 30,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-04",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 31,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-04",
+    "category": "BLITZE",
+    "freq": 1
+  },
+  {
+    "": 32,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-04",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 33,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 10
+  },
+  {
+    "": 34,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 24
+  },
+  {
+    "": 35,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 58
+  },
+  {
+    "": 36,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 40
+  },
+  {
+    "": 37,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 16
+  },
+  {
+    "": 38,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-27",
+    "category": "BEWOELKUNG",
+    "freq": 10
+  },
+  {
+    "": 39,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-27",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 40,
+    "username": "Bernhard Oker",
+    "timestamp": "2022-05-27",
+    "category": "WIND",
+    "freq": 7
+  },
+  {
+    "": 41,
+    "username": "Chris_83",
+    "timestamp": "2022-04-01",
+    "category": "BEWOELKUNG",
+    "freq": 2
+  },
+  {
+    "": 42,
+    "username": "Chris_83",
+    "timestamp": "2022-04-01",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 43,
+    "username": "Chris_83",
+    "timestamp": "2022-04-01",
+    "category": "REGEN",
+    "freq": 5
+  },
+  {
+    "": 44,
+    "username": "Chris_83",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEDECKE",
+    "freq": 2
+  },
+  {
+    "": 45,
+    "username": "Chris_83",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEFALL",
+    "freq": 23
+  },
+  {
+    "": 46,
+    "username": "Chris_83",
+    "timestamp": "2022-04-02",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 47,
+    "username": "Chris_83",
+    "timestamp": "2022-04-02",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 48,
+    "username": "Chris_83",
+    "timestamp": "2022-04-02",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 49,
+    "username": "Chris_83",
+    "timestamp": "2022-04-02",
+    "category": "SCHNEEDECKE",
+    "freq": 30
+  },
+  {
+    "": 50,
+    "username": "Chris_83",
+    "timestamp": "2022-04-02",
+    "category": "SCHNEEFALL",
+    "freq": 67
+  },
+  {
+    "": 51,
+    "username": "Chris_83",
+    "timestamp": "2022-04-02",
+    "category": "WIND",
+    "freq": 3
+  },
+  {
+    "": 52,
+    "username": "Chris_83",
+    "timestamp": "2022-04-03",
+    "category": "BEWOELKUNG",
+    "freq": 10
+  },
+  {
+    "": 53,
+    "username": "Chris_83",
+    "timestamp": "2022-04-03",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 54,
+    "username": "Chris_83",
+    "timestamp": "2022-04-03",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 55,
+    "username": "Chris_83",
+    "timestamp": "2022-04-03",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 56,
+    "username": "Chris_83",
+    "timestamp": "2022-04-03",
+    "category": "SCHNEEDECKE",
+    "freq": 14
+  },
+  {
+    "": 57,
+    "username": "Chris_83",
+    "timestamp": "2022-04-03",
+    "category": "SCHNEEFALL",
+    "freq": 20
+  },
+  {
+    "": 58,
+    "username": "Chris_83",
+    "timestamp": "2022-04-03",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 59,
+    "username": "Christian Schlieren",
+    "timestamp": "2022-01-10",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 60,
+    "username": "Christian Schlieren",
+    "timestamp": "2022-01-10",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 61,
+    "username": "David BS",
+    "timestamp": "2021-12-29",
+    "category": "BEWOELKUNG",
+    "freq": 20
+  },
+  {
+    "": 62,
+    "username": "David BS",
+    "timestamp": "2021-12-29",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 63,
+    "username": "David BS",
+    "timestamp": "2021-12-29",
+    "category": "NEBEL",
+    "freq": 2
+  },
+  {
+    "": 64,
+    "username": "David BS",
+    "timestamp": "2021-12-29",
+    "category": "REGEN",
+    "freq": 26
+  },
+  {
+    "": 65,
+    "username": "David BS",
+    "timestamp": "2021-12-29",
+    "category": "SCHNEEDECKE",
+    "freq": 2
+  },
+  {
+    "": 66,
+    "username": "David BS",
+    "timestamp": "2021-12-29",
+    "category": "SCHNEEFALL",
+    "freq": 30
+  },
+  {
+    "": 67,
+    "username": "David BS",
+    "timestamp": "2021-12-29",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 68,
+    "username": "David BS",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 17
+  },
+  {
+    "": 69,
+    "username": "David BS",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 22
+  },
+  {
+    "": 70,
+    "username": "David BS",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 249
+  },
+  {
+    "": 71,
+    "username": "David BS",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 35
+  },
+  {
+    "": 72,
+    "username": "David BS",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 10
+  },
+  {
+    "": 73,
+    "username": "Dr. Funnel",
+    "timestamp": "2022-02-17",
+    "category": "BEWOELKUNG",
+    "freq": 12
+  },
+  {
+    "": 74,
+    "username": "Dr. Funnel",
+    "timestamp": "2022-02-17",
+    "category": "BLITZE",
+    "freq": 1
+  },
+  {
+    "": 75,
+    "username": "Dr. Funnel",
+    "timestamp": "2022-02-17",
+    "category": "REGEN",
+    "freq": 10
+  },
+  {
+    "": 76,
+    "username": "Dr. Funnel",
+    "timestamp": "2022-02-17",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 77,
+    "username": "Dr. Funnel",
+    "timestamp": "2022-02-17",
+    "category": "WIND",
+    "freq": 56
+  },
+  {
+    "": 78,
+    "username": "Federwolke",
+    "timestamp": "2022-02-05",
+    "category": "BEWOELKUNG",
+    "freq": 9
+  },
+  {
+    "": 79,
+    "username": "Federwolke",
+    "timestamp": "2022-02-05",
+    "category": "REGEN",
+    "freq": 2
+  },
+  {
+    "": 80,
+    "username": "Federwolke",
+    "timestamp": "2022-02-05",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 81,
+    "username": "Federwolke",
+    "timestamp": "2022-02-08",
+    "category": "BEWOELKUNG",
+    "freq": 40
+  },
+  {
+    "": 82,
+    "username": "Federwolke",
+    "timestamp": "2022-02-08",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 83,
+    "username": "Federwolke",
+    "timestamp": "2022-04-03",
+    "category": "BEWOELKUNG",
+    "freq": 8
+  },
+  {
+    "": 84,
+    "username": "Federwolke",
+    "timestamp": "2022-04-03",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 85,
+    "username": "Federwolke",
+    "timestamp": "2022-04-03",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 86,
+    "username": "Federwolke",
+    "timestamp": "2022-04-03",
+    "category": "SCHNEEDECKE",
+    "freq": 9
+  },
+  {
+    "": 87,
+    "username": "Federwolke",
+    "timestamp": "2022-04-03",
+    "category": "SCHNEEFALL",
+    "freq": 11
+  },
+  {
+    "": 88,
+    "username": "Federwolke",
+    "timestamp": "2022-04-03",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 89,
+    "username": "Federwolke",
+    "timestamp": "2022-04-04",
+    "category": "BEWOELKUNG",
+    "freq": 39
+  },
+  {
+    "": 90,
+    "username": "Federwolke",
+    "timestamp": "2022-04-04",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 91,
+    "username": "Federwolke",
+    "timestamp": "2022-04-04",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 92,
+    "username": "Federwolke",
+    "timestamp": "2022-04-04",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 93,
+    "username": "Federwolke",
+    "timestamp": "2022-04-24",
+    "category": "BEWOELKUNG",
+    "freq": 20
+  },
+  {
+    "": 94,
+    "username": "Federwolke",
+    "timestamp": "2022-04-24",
+    "category": "BLITZE",
+    "freq": 10
+  },
+  {
+    "": 95,
+    "username": "Federwolke",
+    "timestamp": "2022-04-24",
+    "category": "HAGEL",
+    "freq": 4
+  },
+  {
+    "": 96,
+    "username": "Federwolke",
+    "timestamp": "2022-04-24",
+    "category": "REGEN",
+    "freq": 32
+  },
+  {
+    "": 97,
+    "username": "Federwolke",
+    "timestamp": "2022-04-24",
+    "category": "SCHNEEFALL",
+    "freq": 2
+  },
+  {
+    "": 98,
+    "username": "Federwolke",
+    "timestamp": "2022-04-24",
+    "category": "TORNADO",
+    "freq": 2
+  },
+  {
+    "": 99,
+    "username": "Federwolke",
+    "timestamp": "2022-04-24",
+    "category": "WIND",
+    "freq": 23
+  },
+  {
+    "": 100,
+    "username": "Federwolke",
+    "timestamp": "2022-04-25",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 101,
+    "username": "Federwolke",
+    "timestamp": "2022-04-25",
+    "category": "BLITZE",
+    "freq": 1
+  },
+  {
+    "": 102,
+    "username": "Federwolke",
+    "timestamp": "2022-04-25",
+    "category": "REGEN",
+    "freq": 8
+  },
+  {
+    "": 103,
+    "username": "Federwolke",
+    "timestamp": "2022-05-21",
+    "category": "BEWOELKUNG",
+    "freq": 8
+  },
+  {
+    "": 104,
+    "username": "Federwolke",
+    "timestamp": "2022-05-21",
+    "category": "BLITZE",
+    "freq": 2
+  },
+  {
+    "": 105,
+    "username": "Federwolke",
+    "timestamp": "2022-05-21",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 106,
+    "username": "Federwolke",
+    "timestamp": "2022-05-21",
+    "category": "REGEN",
+    "freq": 2
+  },
+  {
+    "": 107,
+    "username": "Federwolke",
+    "timestamp": "2022-05-21",
+    "category": "WIND",
+    "freq": 3
+  },
+  {
+    "": 108,
+    "username": "Federwolke",
+    "timestamp": "2022-05-22",
+    "category": "BEWOELKUNG",
+    "freq": 58
+  },
+  {
+    "": 109,
+    "username": "Federwolke",
+    "timestamp": "2022-05-22",
+    "category": "BLITZE",
+    "freq": 15
+  },
+  {
+    "": 110,
+    "username": "Federwolke",
+    "timestamp": "2022-05-22",
+    "category": "HAGEL",
+    "freq": 280
+  },
+  {
+    "": 111,
+    "username": "Federwolke",
+    "timestamp": "2022-05-22",
+    "category": "REGEN",
+    "freq": 25
+  },
+  {
+    "": 112,
+    "username": "Federwolke",
+    "timestamp": "2022-05-22",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 113,
+    "username": "Federwolke",
+    "timestamp": "2022-05-22",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 114,
+    "username": "Federwolke",
+    "timestamp": "2022-05-22",
+    "category": "WIND",
+    "freq": 4
+  },
+  {
+    "": 115,
+    "username": "Friburg",
+    "timestamp": "2022-05-22",
+    "category": "BEWOELKUNG",
+    "freq": 58
+  },
+  {
+    "": 116,
+    "username": "Friburg",
+    "timestamp": "2022-05-22",
+    "category": "BLITZE",
+    "freq": 15
+  },
+  {
+    "": 117,
+    "username": "Friburg",
+    "timestamp": "2022-05-22",
+    "category": "HAGEL",
+    "freq": 280
+  },
+  {
+    "": 118,
+    "username": "Friburg",
+    "timestamp": "2022-05-22",
+    "category": "REGEN",
+    "freq": 25
+  },
+  {
+    "": 119,
+    "username": "Friburg",
+    "timestamp": "2022-05-22",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 120,
+    "username": "Friburg",
+    "timestamp": "2022-05-22",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 121,
+    "username": "Friburg",
+    "timestamp": "2022-05-22",
+    "category": "WIND",
+    "freq": 4
+  },
+  {
+    "": 122,
+    "username": "Gabe",
+    "timestamp": "2021-06-23",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 123,
+    "username": "Grebcol",
+    "timestamp": "2021-06-23",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 124,
+    "username": "Haene",
+    "timestamp": "2022-04-03",
+    "category": "BEWOELKUNG",
+    "freq": 8
+  },
+  {
+    "": 125,
+    "username": "Haene",
+    "timestamp": "2022-04-03",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 126,
+    "username": "Haene",
+    "timestamp": "2022-04-03",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 127,
+    "username": "Haene",
+    "timestamp": "2022-04-03",
+    "category": "SCHNEEDECKE",
+    "freq": 9
+  },
+  {
+    "": 128,
+    "username": "Haene",
+    "timestamp": "2022-04-03",
+    "category": "SCHNEEFALL",
+    "freq": 11
+  },
+  {
+    "": 129,
+    "username": "Haene",
+    "timestamp": "2022-04-03",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 130,
+    "username": "Haene",
+    "timestamp": "2022-04-09",
+    "category": "BEWOELKUNG",
+    "freq": 5
+  },
+  {
+    "": 131,
+    "username": "Haene",
+    "timestamp": "2022-04-09",
+    "category": "BLITZE",
+    "freq": 5
+  },
+  {
+    "": 132,
+    "username": "Haene",
+    "timestamp": "2022-04-09",
+    "category": "HAGEL",
+    "freq": 21
+  },
+  {
+    "": 133,
+    "username": "Haene",
+    "timestamp": "2022-04-09",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 134,
+    "username": "Haene",
+    "timestamp": "2022-04-09",
+    "category": "REGEN",
+    "freq": 2
+  },
+  {
+    "": 135,
+    "username": "Haene",
+    "timestamp": "2022-04-09",
+    "category": "SCHNEEFALL",
+    "freq": 10
+  },
+  {
+    "": 136,
+    "username": "Haene",
+    "timestamp": "2022-04-09",
+    "category": "WIND",
+    "freq": 13
+  },
+  {
+    "": 137,
+    "username": "Haene",
+    "timestamp": "2022-05-05",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 138,
+    "username": "Haene",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 17
+  },
+  {
+    "": 139,
+    "username": "Haene",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 22
+  },
+  {
+    "": 140,
+    "username": "Haene",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 249
+  },
+  {
+    "": 141,
+    "username": "Haene",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 35
+  },
+  {
+    "": 142,
+    "username": "Haene",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 10
+  },
+  {
+    "": 143,
+    "username": "Heiziger",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 42
+  },
+  {
+    "": 144,
+    "username": "Heiziger",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 54
+  },
+  {
+    "": 145,
+    "username": "Heiziger",
+    "timestamp": "2022-05-23",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 146,
+    "username": "Heiziger",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 990
+  },
+  {
+    "": 147,
+    "username": "Heiziger",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 75
+  },
+  {
+    "": 148,
+    "username": "Heiziger",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 149,
+    "username": "Heiziger",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 3
+  },
+  {
+    "": 150,
+    "username": "Heiziger",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 23
+  },
+  {
+    "": 151,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021-10-20",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 152,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021-12-30",
+    "category": "BEWOELKUNG",
+    "freq": 22
+  },
+  {
+    "": 153,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021-12-30",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 154,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021-12-30",
+    "category": "REGEN",
+    "freq": 12
+  },
+  {
+    "": 155,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021-12-30",
+    "category": "SCHNEEDECKE",
+    "freq": 2
+  },
+  {
+    "": 156,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2021-12-30",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 157,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-03",
+    "category": "BEWOELKUNG",
+    "freq": 22
+  },
+  {
+    "": 158,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-03",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 159,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-03",
+    "category": "HAGEL",
+    "freq": 4
+  },
+  {
+    "": 160,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-03",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 161,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-03",
+    "category": "SCHNEEDECKE",
+    "freq": 22
+  },
+  {
+    "": 162,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-03",
+    "category": "SCHNEEFALL",
+    "freq": 37
+  },
+  {
+    "": 163,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-03",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 164,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-08",
+    "category": "BEWOELKUNG",
+    "freq": 2
+  },
+  {
+    "": 165,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-08",
+    "category": "BLITZE",
+    "freq": 2
+  },
+  {
+    "": 166,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-08",
+    "category": "REGEN",
+    "freq": 15
+  },
+  {
+    "": 167,
+    "username": "Jan (Böckten, BL)",
+    "timestamp": "2022-04-08",
+    "category": "WIND",
+    "freq": 33
+  },
+  {
+    "": 168,
+    "username": "Jeannette",
+    "timestamp": "2021-12-19",
+    "category": "BEWOELKUNG",
+    "freq": 10
+  },
+  {
+    "": 169,
+    "username": "Jeannette",
+    "timestamp": "2021-12-19",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 170,
+    "username": "Jeannette",
+    "timestamp": "2021-12-19",
+    "category": "NEBEL",
+    "freq": 28
+  },
+  {
+    "": 171,
+    "username": "Jeannette",
+    "timestamp": "2021-12-19",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 172,
+    "username": "Jeannette",
+    "timestamp": "2021-12-19",
+    "category": "SCHNEEDECKE",
+    "freq": 2
+  },
+  {
+    "": 173,
+    "username": "Jeannette",
+    "timestamp": "2021-12-19",
+    "category": "SCHNEEFALL",
+    "freq": 2
+  },
+  {
+    "": 174,
+    "username": "Jeannette",
+    "timestamp": "2021-12-19",
+    "category": "TORNADO",
+    "freq": 2
+  },
+  {
+    "": 175,
+    "username": "Jeannette",
+    "timestamp": "2021-12-19",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 176,
+    "username": "Jeannette",
+    "timestamp": "2022-01-07",
+    "category": "BEWOELKUNG",
+    "freq": 17
+  },
+  {
+    "": 177,
+    "username": "Jeannette",
+    "timestamp": "2022-01-07",
+    "category": "GLAETTE",
+    "freq": 4
+  },
+  {
+    "": 178,
+    "username": "Jeannette",
+    "timestamp": "2022-01-07",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 179,
+    "username": "Jeannette",
+    "timestamp": "2022-01-07",
+    "category": "SCHNEEDECKE",
+    "freq": 5
+  },
+  {
+    "": 180,
+    "username": "Jeannette",
+    "timestamp": "2022-01-07",
+    "category": "SCHNEEFALL",
+    "freq": 44
+  },
+  {
+    "": 181,
+    "username": "Jeannette",
+    "timestamp": "2022-01-07",
+    "category": "WIND",
+    "freq": 4
+  },
+  {
+    "": 182,
+    "username": "Jeannette",
+    "timestamp": "2022-01-11",
+    "category": "BEWOELKUNG",
+    "freq": 13
+  },
+  {
+    "": 183,
+    "username": "Jeannette",
+    "timestamp": "2022-01-11",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 184,
+    "username": "Jeannette",
+    "timestamp": "2022-01-11",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 185,
+    "username": "Jeannette",
+    "timestamp": "2022-01-11",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 186,
+    "username": "Jeannette",
+    "timestamp": "2022-01-11",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 187,
+    "username": "Jeannette",
+    "timestamp": "2022-02-08",
+    "category": "BEWOELKUNG",
+    "freq": 26
+  },
+  {
+    "": 188,
+    "username": "Jeannette",
+    "timestamp": "2022-02-08",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 189,
+    "username": "Jeannette",
+    "timestamp": "2022-02-08",
+    "category": "WIND",
+    "freq": 3
+  },
+  {
+    "": 190,
+    "username": "Jeannette",
+    "timestamp": "2022-05-07",
+    "category": "BEWOELKUNG",
+    "freq": 26
+  },
+  {
+    "": 191,
+    "username": "Jeannette",
+    "timestamp": "2022-05-07",
+    "category": "BLITZE",
+    "freq": 22
+  },
+  {
+    "": 192,
+    "username": "Jeannette",
+    "timestamp": "2022-05-07",
+    "category": "HAGEL",
+    "freq": 85
+  },
+  {
+    "": 193,
+    "username": "Jeannette",
+    "timestamp": "2022-05-07",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 194,
+    "username": "Jeannette",
+    "timestamp": "2022-05-07",
+    "category": "REGEN",
+    "freq": 28
+  },
+  {
+    "": 195,
+    "username": "Jeannette",
+    "timestamp": "2022-05-07",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 196,
+    "username": "Jeannette",
+    "timestamp": "2022-05-22",
+    "category": "BEWOELKUNG",
+    "freq": 43
+  },
+  {
+    "": 197,
+    "username": "Jeannette",
+    "timestamp": "2022-05-22",
+    "category": "BLITZE",
+    "freq": 7
+  },
+  {
+    "": 198,
+    "username": "Jeannette",
+    "timestamp": "2022-05-22",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 199,
+    "username": "Jeannette",
+    "timestamp": "2022-05-22",
+    "category": "HAGEL",
+    "freq": 4
+  },
+  {
+    "": 200,
+    "username": "Jeannette",
+    "timestamp": "2022-05-22",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 201,
+    "username": "Jeannette",
+    "timestamp": "2022-05-22",
+    "category": "REGEN",
+    "freq": 15
+  },
+  {
+    "": 202,
+    "username": "Jeannette",
+    "timestamp": "2022-05-22",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 203,
+    "username": "Jeannette",
+    "timestamp": "2022-05-22",
+    "category": "WIND",
+    "freq": 6
+  },
+  {
+    "": 204,
+    "username": "Jeannette",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 71
+  },
+  {
+    "": 205,
+    "username": "Jeannette",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 114
+  },
+  {
+    "": 206,
+    "username": "Jeannette",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 430
+  },
+  {
+    "": 207,
+    "username": "Jeannette",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 113
+  },
+  {
+    "": 208,
+    "username": "Jeannette",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 209,
+    "username": "Jeannette",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 210,
+    "username": "Jeannette",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 3
+  },
+  {
+    "": 211,
+    "username": "Jeannette",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 46
+  },
+  {
+    "": 212,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2021-12-27",
+    "category": "BEWOELKUNG",
+    "freq": 3
+  },
+  {
+    "": 213,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2021-12-27",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 214,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2021-12-27",
+    "category": "REGEN",
+    "freq": 2
+  },
+  {
+    "": 215,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2021-12-27",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 216,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-08",
+    "category": "BEWOELKUNG",
+    "freq": 20
+  },
+  {
+    "": 217,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-08",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 218,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-08",
+    "category": "REGEN",
+    "freq": 3
+  },
+  {
+    "": 219,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-08",
+    "category": "SCHNEEDECKE",
+    "freq": 2
+  },
+  {
+    "": 220,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-08",
+    "category": "SCHNEEFALL",
+    "freq": 6
+  },
+  {
+    "": 221,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-08",
+    "category": "WIND",
+    "freq": 16
+  },
+  {
+    "": 222,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-09",
+    "category": "BEWOELKUNG",
+    "freq": 22
+  },
+  {
+    "": 223,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-09",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 224,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-09",
+    "category": "REGEN",
+    "freq": 22
+  },
+  {
+    "": 225,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-09",
+    "category": "SCHNEEDECKE",
+    "freq": 5
+  },
+  {
+    "": 226,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-09",
+    "category": "SCHNEEFALL",
+    "freq": 55
+  },
+  {
+    "": 227,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-09",
+    "category": "TORNADO",
+    "freq": 2
+  },
+  {
+    "": 228,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-01-09",
+    "category": "WIND",
+    "freq": 22
+  },
+  {
+    "": 229,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-07",
+    "category": "BEWOELKUNG",
+    "freq": 5
+  },
+  {
+    "": 230,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-07",
+    "category": "REGEN",
+    "freq": 3
+  },
+  {
+    "": 231,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-07",
+    "category": "SCHNEEFALL",
+    "freq": 2
+  },
+  {
+    "": 232,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-07",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 233,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-07",
+    "category": "WIND",
+    "freq": 30
+  },
+  {
+    "": 234,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-17",
+    "category": "BEWOELKUNG",
+    "freq": 12
+  },
+  {
+    "": 235,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-17",
+    "category": "BLITZE",
+    "freq": 1
+  },
+  {
+    "": 236,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-17",
+    "category": "REGEN",
+    "freq": 10
+  },
+  {
+    "": 237,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-17",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 238,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-02-17",
+    "category": "WIND",
+    "freq": 56
+  },
+  {
+    "": 239,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-07",
+    "category": "BEWOELKUNG",
+    "freq": 4
+  },
+  {
+    "": 240,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-07",
+    "category": "BLITZE",
+    "freq": 2
+  },
+  {
+    "": 241,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-07",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 242,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-07",
+    "category": "REGEN",
+    "freq": 14
+  },
+  {
+    "": 243,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-07",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 244,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-07",
+    "category": "TORNADO",
+    "freq": 7
+  },
+  {
+    "": 245,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-07",
+    "category": "WIND",
+    "freq": 36
+  },
+  {
+    "": 246,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-26",
+    "category": "BEWOELKUNG",
+    "freq": 8
+  },
+  {
+    "": 247,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-26",
+    "category": "BLITZE",
+    "freq": 11
+  },
+  {
+    "": 248,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-26",
+    "category": "HAGEL",
+    "freq": 41
+  },
+  {
+    "": 249,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-26",
+    "category": "REGEN",
+    "freq": 16
+  },
+  {
+    "": 250,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-04-26",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 251,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 67
+  },
+  {
+    "": 252,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 116
+  },
+  {
+    "": 253,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 254,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 343
+  },
+  {
+    "": 255,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 256,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 130
+  },
+  {
+    "": 257,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEDECKE",
+    "freq": 2
+  },
+  {
+    "": 258,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEFALL",
+    "freq": 2
+  },
+  {
+    "": 259,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 4
+  },
+  {
+    "": 260,
+    "username": "Kaiko (Döttingen)",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 46
+  },
+  {
+    "": 261,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 13
+  },
+  {
+    "": 262,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 24
+  },
+  {
+    "": 263,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 264,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 162
+  },
+  {
+    "": 265,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 266,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 52
+  },
+  {
+    "": 267,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 268,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 269,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 270,
+    "username": "Laseyer",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 10
+  },
+  {
+    "": 271,
+    "username": "Linth",
+    "timestamp": "2022-04-24",
+    "category": "BEWOELKUNG",
+    "freq": 13
+  },
+  {
+    "": 272,
+    "username": "Linth",
+    "timestamp": "2022-04-24",
+    "category": "BLITZE",
+    "freq": 7
+  },
+  {
+    "": 273,
+    "username": "Linth",
+    "timestamp": "2022-04-24",
+    "category": "HAGEL",
+    "freq": 6
+  },
+  {
+    "": 274,
+    "username": "Linth",
+    "timestamp": "2022-04-24",
+    "category": "REGEN",
+    "freq": 10
+  },
+  {
+    "": 275,
+    "username": "Linth",
+    "timestamp": "2022-04-24",
+    "category": "SCHNEEDECKE",
+    "freq": 3
+  },
+  {
+    "": 276,
+    "username": "Linth",
+    "timestamp": "2022-04-24",
+    "category": "SCHNEEFALL",
+    "freq": 3
+  },
+  {
+    "": 277,
+    "username": "Linth",
+    "timestamp": "2022-04-24",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 278,
+    "username": "MHZG",
+    "timestamp": "2022-04-01",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 279,
+    "username": "MHZG",
+    "timestamp": "2022-04-01",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 280,
+    "username": "MHZG",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEDECKE",
+    "freq": 2
+  },
+  {
+    "": 281,
+    "username": "MHZG",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEFALL",
+    "freq": 9
+  },
+  {
+    "": 282,
+    "username": "MHZG",
+    "timestamp": "2022-04-01",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 283,
+    "username": "Mainline",
+    "timestamp": "2022-04-02",
+    "category": "BEWOELKUNG",
+    "freq": 4
+  },
+  {
+    "": 284,
+    "username": "Mainline",
+    "timestamp": "2022-04-02",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 285,
+    "username": "Mainline",
+    "timestamp": "2022-04-02",
+    "category": "SCHNEEDECKE",
+    "freq": 26
+  },
+  {
+    "": 286,
+    "username": "Mainline",
+    "timestamp": "2022-04-02",
+    "category": "SCHNEEFALL",
+    "freq": 42
+  },
+  {
+    "": 287,
+    "username": "Mainline",
+    "timestamp": "2022-04-02",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 288,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-03",
+    "category": "BEWOELKUNG",
+    "freq": 15
+  },
+  {
+    "": 289,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-03",
+    "category": "BLITZE",
+    "freq": 11
+  },
+  {
+    "": 290,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-03",
+    "category": "HAGEL",
+    "freq": 4
+  },
+  {
+    "": 291,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-03",
+    "category": "REGEN",
+    "freq": 10
+  },
+  {
+    "": 292,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-04",
+    "category": "BEWOELKUNG",
+    "freq": 3
+  },
+  {
+    "": 293,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-04",
+    "category": "BLITZE",
+    "freq": 1
+  },
+  {
+    "": 294,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-04",
+    "category": "HAGEL",
+    "freq": 8
+  },
+  {
+    "": 295,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 13
+  },
+  {
+    "": 296,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 24
+  },
+  {
+    "": 297,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 298,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 162
+  },
+  {
+    "": 299,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 300,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 52
+  },
+  {
+    "": 301,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 302,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 303,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 304,
+    "username": "Marco (Oberfrick)",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 10
+  },
+  {
+    "": 305,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 13
+  },
+  {
+    "": 306,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 24
+  },
+  {
+    "": 307,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 308,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 162
+  },
+  {
+    "": 309,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 310,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 52
+  },
+  {
+    "": 311,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 312,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 313,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 314,
+    "username": "Markus (Horw)",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 10
+  },
+  {
+    "": 315,
+    "username": "Markus Pfister",
+    "timestamp": "2022-01-04",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 316,
+    "username": "Mathias Uster",
+    "timestamp": "2022-04-09",
+    "category": "BEWOELKUNG",
+    "freq": 14
+  },
+  {
+    "": 317,
+    "username": "Mathias Uster",
+    "timestamp": "2022-04-09",
+    "category": "WIND",
+    "freq": 58
+  },
+  {
+    "": 318,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022-05-21",
+    "category": "BEWOELKUNG",
+    "freq": 12
+  },
+  {
+    "": 319,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022-05-21",
+    "category": "BLITZE",
+    "freq": 8
+  },
+  {
+    "": 320,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022-05-21",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 321,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022-05-21",
+    "category": "REGEN",
+    "freq": 6
+  },
+  {
+    "": 322,
+    "username": "Michael (Dietikon)",
+    "timestamp": "2022-05-21",
+    "category": "WIND",
+    "freq": 3
+  },
+  {
+    "": 323,
+    "username": "Michael ZH",
+    "timestamp": "2022-05-22",
+    "category": "BEWOELKUNG",
+    "freq": 7
+  },
+  {
+    "": 324,
+    "username": "Michael ZH",
+    "timestamp": "2022-05-22",
+    "category": "BLITZE",
+    "freq": 11
+  },
+  {
+    "": 325,
+    "username": "Michael ZH",
+    "timestamp": "2022-05-22",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 326,
+    "username": "Michael ZH",
+    "timestamp": "2022-05-22",
+    "category": "REGEN",
+    "freq": 11
+  },
+  {
+    "": 327,
+    "username": "Michael ZH",
+    "timestamp": "2022-05-22",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 328,
+    "username": "Microwave",
+    "timestamp": "2022-01-10",
+    "category": "BEWOELKUNG",
+    "freq": 9
+  },
+  {
+    "": 329,
+    "username": "Microwave",
+    "timestamp": "2022-01-10",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 330,
+    "username": "Microwave",
+    "timestamp": "2022-01-10",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 331,
+    "username": "Microwave",
+    "timestamp": "2022-01-10",
+    "category": "SCHNEEDECKE",
+    "freq": 3
+  },
+  {
+    "": 332,
+    "username": "Microwave",
+    "timestamp": "2022-01-10",
+    "category": "SCHNEEFALL",
+    "freq": 2
+  },
+  {
+    "": 333,
+    "username": "Microwave",
+    "timestamp": "2022-05-04",
+    "category": "BEWOELKUNG",
+    "freq": 3
+  },
+  {
+    "": 334,
+    "username": "Microwave",
+    "timestamp": "2022-05-04",
+    "category": "BLITZE",
+    "freq": 6
+  },
+  {
+    "": 335,
+    "username": "Microwave",
+    "timestamp": "2022-05-04",
+    "category": "HAGEL",
+    "freq": 21
+  },
+  {
+    "": 336,
+    "username": "Microwave",
+    "timestamp": "2022-05-04",
+    "category": "REGEN",
+    "freq": 3
+  },
+  {
+    "": 337,
+    "username": "Microwave",
+    "timestamp": "2022-05-04",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 338,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022-04-02",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 339,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022-04-02",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 340,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022-04-02",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 341,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022-04-02",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 342,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022-04-02",
+    "category": "SCHNEEDECKE",
+    "freq": 37
+  },
+  {
+    "": 343,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022-04-02",
+    "category": "SCHNEEFALL",
+    "freq": 75
+  },
+  {
+    "": 344,
+    "username": "Mike (Jura, Basel)",
+    "timestamp": "2022-04-02",
+    "category": "WIND",
+    "freq": 3
+  },
+  {
+    "": 345,
+    "username": "Obernef",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 42
+  },
+  {
+    "": 346,
+    "username": "Obernef",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 54
+  },
+  {
+    "": 347,
+    "username": "Obernef",
+    "timestamp": "2022-05-23",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 348,
+    "username": "Obernef",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 990
+  },
+  {
+    "": 349,
+    "username": "Obernef",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 75
+  },
+  {
+    "": 350,
+    "username": "Obernef",
+    "timestamp": "2022-05-23",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 351,
+    "username": "Obernef",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 3
+  },
+  {
+    "": 352,
+    "username": "Obernef",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 23
+  },
+  {
+    "": 353,
+    "username": "Patrick -Arosa-",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 31
+  },
+  {
+    "": 354,
+    "username": "Patrick -Arosa-",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 17
+  },
+  {
+    "": 355,
+    "username": "Patrick -Arosa-",
+    "timestamp": "2022-05-23",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 356,
+    "username": "Patrick -Arosa-",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 17
+  },
+  {
+    "": 357,
+    "username": "Patrick -Arosa-",
+    "timestamp": "2022-05-23",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 358,
+    "username": "Patrick -Arosa-",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 29
+  },
+  {
+    "": 359,
+    "username": "Patrick -Arosa-",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 6
+  },
+  {
+    "": 360,
+    "username": "Patrick -Arosa-",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 9
+  },
+  {
+    "": 361,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022-04-01",
+    "category": "BEWOELKUNG",
+    "freq": 4
+  },
+  {
+    "": 362,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022-04-01",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 363,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022-04-01",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 364,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022-04-01",
+    "category": "REGEN",
+    "freq": 5
+  },
+  {
+    "": 365,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEDECKE",
+    "freq": 42
+  },
+  {
+    "": 366,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEFALL",
+    "freq": 123
+  },
+  {
+    "": 367,
+    "username": "Philippe Zimmerwald",
+    "timestamp": "2022-04-01",
+    "category": "WIND",
+    "freq": 7
+  },
+  {
+    "": 368,
+    "username": "Severestorms",
+    "timestamp": "2022-05-03",
+    "category": "BEWOELKUNG",
+    "freq": 11
+  },
+  {
+    "": 369,
+    "username": "Severestorms",
+    "timestamp": "2022-05-03",
+    "category": "BLITZE",
+    "freq": 11
+  },
+  {
+    "": 370,
+    "username": "Severestorms",
+    "timestamp": "2022-05-03",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 371,
+    "username": "Severestorms",
+    "timestamp": "2022-05-03",
+    "category": "REGEN",
+    "freq": 5
+  },
+  {
+    "": 372,
+    "username": "Severestorms",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 3
+  },
+  {
+    "": 373,
+    "username": "Severestorms",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 374,
+    "username": "Severestorms",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 2
+  },
+  {
+    "": 375,
+    "username": "Severestorms",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 376,
+    "username": "Stabe",
+    "timestamp": "2022-02-07",
+    "category": "BEWOELKUNG",
+    "freq": 22
+  },
+  {
+    "": 377,
+    "username": "Stabe",
+    "timestamp": "2022-02-07",
+    "category": "BLITZE",
+    "freq": 6
+  },
+  {
+    "": 378,
+    "username": "Stabe",
+    "timestamp": "2022-02-07",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 379,
+    "username": "Stabe",
+    "timestamp": "2022-02-07",
+    "category": "REGEN",
+    "freq": 4
+  },
+  {
+    "": 380,
+    "username": "Stabe",
+    "timestamp": "2022-02-07",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 381,
+    "username": "Stabe",
+    "timestamp": "2022-02-07",
+    "category": "WIND",
+    "freq": 36
+  },
+  {
+    "": 382,
+    "username": "Stabe",
+    "timestamp": "2022-04-08",
+    "category": "BEWOELKUNG",
+    "freq": 23
+  },
+  {
+    "": 383,
+    "username": "Stabe",
+    "timestamp": "2022-04-08",
+    "category": "BLITZE",
+    "freq": 7
+  },
+  {
+    "": 384,
+    "username": "Stabe",
+    "timestamp": "2022-04-08",
+    "category": "HAGEL",
+    "freq": 12
+  },
+  {
+    "": 385,
+    "username": "Stabe",
+    "timestamp": "2022-04-08",
+    "category": "REGEN",
+    "freq": 29
+  },
+  {
+    "": 386,
+    "username": "Stabe",
+    "timestamp": "2022-04-08",
+    "category": "TORNADO",
+    "freq": 3
+  },
+  {
+    "": 387,
+    "username": "Stabe",
+    "timestamp": "2022-04-08",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 388,
+    "username": "Staublaui99",
+    "timestamp": "2022-01-31",
+    "category": "BEWOELKUNG",
+    "freq": 2
+  },
+  {
+    "": 389,
+    "username": "Staublaui99",
+    "timestamp": "2022-01-31",
+    "category": "GLAETTE",
+    "freq": 3
+  },
+  {
+    "": 390,
+    "username": "Staublaui99",
+    "timestamp": "2022-01-31",
+    "category": "REGEN",
+    "freq": 3
+  },
+  {
+    "": 391,
+    "username": "Staublaui99",
+    "timestamp": "2022-01-31",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 392,
+    "username": "Staublaui99",
+    "timestamp": "2022-01-31",
+    "category": "SCHNEEFALL",
+    "freq": 18
+  },
+  {
+    "": 393,
+    "username": "Staublaui99",
+    "timestamp": "2022-01-31",
+    "category": "WIND",
+    "freq": 16
+  },
+  {
+    "": 394,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-01",
+    "category": "BEWOELKUNG",
+    "freq": 26
+  },
+  {
+    "": 395,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-01",
+    "category": "GLAETTE",
+    "freq": 12
+  },
+  {
+    "": 396,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-01",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 397,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-01",
+    "category": "REGEN",
+    "freq": 2
+  },
+  {
+    "": 398,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-01",
+    "category": "SCHNEEDECKE",
+    "freq": 41
+  },
+  {
+    "": 399,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-01",
+    "category": "SCHNEEFALL",
+    "freq": 30
+  },
+  {
+    "": 400,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-01",
+    "category": "WIND",
+    "freq": 17
+  },
+  {
+    "": 401,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-02",
+    "category": "BEWOELKUNG",
+    "freq": 15
+  },
+  {
+    "": 402,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-02",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 403,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-02",
+    "category": "REGEN",
+    "freq": 19
+  },
+  {
+    "": 404,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-02",
+    "category": "SCHNEEDECKE",
+    "freq": 1
+  },
+  {
+    "": 405,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-02",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 406,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-02-02",
+    "category": "WIND",
+    "freq": 6
+  },
+  {
+    "": 407,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-03-31",
+    "category": "BEWOELKUNG",
+    "freq": 2
+  },
+  {
+    "": 408,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-03-31",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 409,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-03-31",
+    "category": "REGEN",
+    "freq": 2
+  },
+  {
+    "": 410,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-03-31",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 411,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-04-01",
+    "category": "BEWOELKUNG",
+    "freq": 8
+  },
+  {
+    "": 412,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-04-01",
+    "category": "GLAETTE",
+    "freq": 4
+  },
+  {
+    "": 413,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-04-01",
+    "category": "HAGEL",
+    "freq": 5
+  },
+  {
+    "": 414,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-04-01",
+    "category": "REGEN",
+    "freq": 11
+  },
+  {
+    "": 415,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEDECKE",
+    "freq": 105
+  },
+  {
+    "": 416,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEFALL",
+    "freq": 303
+  },
+  {
+    "": 417,
+    "username": "Thomas, Belp",
+    "timestamp": "2022-04-01",
+    "category": "WIND",
+    "freq": 14
+  },
+  {
+    "": 418,
+    "username": "Timi1908",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 3
+  },
+  {
+    "": 419,
+    "username": "Timi1908",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 12
+  },
+  {
+    "": 420,
+    "username": "Timi1908",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 421,
+    "username": "Timi1908",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 19
+  },
+  {
+    "": 422,
+    "username": "Timi1908",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 6
+  },
+  {
+    "": 423,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2021-12-29",
+    "category": "REGEN",
+    "freq": 8
+  },
+  {
+    "": 424,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2021-12-29",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 425,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022-04-02",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 426,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022-04-25",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 427,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022-04-25",
+    "category": "BLITZE",
+    "freq": 1
+  },
+  {
+    "": 428,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022-04-25",
+    "category": "REGEN",
+    "freq": 8
+  },
+  {
+    "": 429,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022-04-26",
+    "category": "BEWOELKUNG",
+    "freq": 5
+  },
+  {
+    "": 430,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022-04-26",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 431,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022-04-26",
+    "category": "REGEN",
+    "freq": 7
+  },
+  {
+    "": 432,
+    "username": "Tinu (Männedorf)",
+    "timestamp": "2022-04-26",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 433,
+    "username": "Tobi31",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 4
+  },
+  {
+    "": 434,
+    "username": "Tobi31",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 14
+  },
+  {
+    "": 435,
+    "username": "Tobi31",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 53
+  },
+  {
+    "": 436,
+    "username": "Tobi31",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 12
+  },
+  {
+    "": 437,
+    "username": "Tobi31",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 4
+  },
+  {
+    "": 438,
+    "username": "Tobi31",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 6
+  },
+  {
+    "": 439,
+    "username": "Vortex2",
+    "timestamp": "2021-12-28",
+    "category": "BEWOELKUNG",
+    "freq": 2
+  },
+  {
+    "": 440,
+    "username": "Vortex2",
+    "timestamp": "2021-12-28",
+    "category": "REGEN",
+    "freq": 4
+  },
+  {
+    "": 441,
+    "username": "Vortex2",
+    "timestamp": "2021-12-28",
+    "category": "WIND",
+    "freq": 8
+  },
+  {
+    "": 442,
+    "username": "Vortex2",
+    "timestamp": "2022-02-05",
+    "category": "BEWOELKUNG",
+    "freq": 9
+  },
+  {
+    "": 443,
+    "username": "Vortex2",
+    "timestamp": "2022-04-09",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 444,
+    "username": "Vortex2",
+    "timestamp": "2022-04-09",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 445,
+    "username": "Vortex2",
+    "timestamp": "2022-04-22",
+    "category": "BEWOELKUNG",
+    "freq": 9
+  },
+  {
+    "": 446,
+    "username": "Vortex2",
+    "timestamp": "2022-04-22",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 447,
+    "username": "Vortex2",
+    "timestamp": "2022-04-22",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 448,
+    "username": "Vortex2",
+    "timestamp": "2022-04-22",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 449,
+    "username": "Vortex2",
+    "timestamp": "2022-05-04",
+    "category": "BEWOELKUNG",
+    "freq": 6
+  },
+  {
+    "": 450,
+    "username": "Vortex2",
+    "timestamp": "2022-05-04",
+    "category": "BLITZE",
+    "freq": 1
+  },
+  {
+    "": 451,
+    "username": "Vortex2",
+    "timestamp": "2022-05-04",
+    "category": "HAGEL",
+    "freq": 46
+  },
+  {
+    "": 452,
+    "username": "Vortex2",
+    "timestamp": "2022-05-04",
+    "category": "REGEN",
+    "freq": 5
+  },
+  {
+    "": 453,
+    "username": "Vortex2",
+    "timestamp": "2022-05-04",
+    "category": "WIND",
+    "freq": 3
+  },
+  {
+    "": 454,
+    "username": "Vortex2",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 3
+  },
+  {
+    "": 455,
+    "username": "Vortex2",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 12
+  },
+  {
+    "": 456,
+    "username": "Vortex2",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 457,
+    "username": "Vortex2",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 19
+  },
+  {
+    "": 458,
+    "username": "Vortex2",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 6
+  },
+  {
+    "": 459,
+    "username": "Willi",
+    "timestamp": "2022-01-04",
+    "category": "BEWOELKUNG",
+    "freq": 36
+  },
+  {
+    "": 460,
+    "username": "Willi",
+    "timestamp": "2022-01-04",
+    "category": "REGEN",
+    "freq": 17
+  },
+  {
+    "": 461,
+    "username": "Willi",
+    "timestamp": "2022-01-04",
+    "category": "WIND",
+    "freq": 68
+  },
+  {
+    "": 462,
+    "username": "Willi",
+    "timestamp": "2022-01-30",
+    "category": "BEWOELKUNG",
+    "freq": 18
+  },
+  {
+    "": 463,
+    "username": "Willi",
+    "timestamp": "2022-01-30",
+    "category": "BLITZE",
+    "freq": 1
+  },
+  {
+    "": 464,
+    "username": "Willi",
+    "timestamp": "2022-01-30",
+    "category": "GLAETTE",
+    "freq": 1
+  },
+  {
+    "": 465,
+    "username": "Willi",
+    "timestamp": "2022-01-30",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 466,
+    "username": "Willi",
+    "timestamp": "2022-01-30",
+    "category": "REGEN",
+    "freq": 1
+  },
+  {
+    "": 467,
+    "username": "Willi",
+    "timestamp": "2022-01-30",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 468,
+    "username": "Willi",
+    "timestamp": "2022-01-30",
+    "category": "WIND",
+    "freq": 3
+  },
+  {
+    "": 469,
+    "username": "Willi",
+    "timestamp": "2022-04-04",
+    "category": "BEWOELKUNG",
+    "freq": 1
+  },
+  {
+    "": 470,
+    "username": "Willi",
+    "timestamp": "2022-04-04",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 471,
+    "username": "Willi",
+    "timestamp": "2022-04-04",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 472,
+    "username": "Willi",
+    "timestamp": "2022-04-09",
+    "category": "BEWOELKUNG",
+    "freq": 14
+  },
+  {
+    "": 473,
+    "username": "Willi",
+    "timestamp": "2022-04-09",
+    "category": "WIND",
+    "freq": 58
+  },
+  {
+    "": 474,
+    "username": "Willi",
+    "timestamp": "2022-04-24",
+    "category": "BEWOELKUNG",
+    "freq": 13
+  },
+  {
+    "": 475,
+    "username": "Willi",
+    "timestamp": "2022-04-24",
+    "category": "BLITZE",
+    "freq": 7
+  },
+  {
+    "": 476,
+    "username": "Willi",
+    "timestamp": "2022-04-24",
+    "category": "HAGEL",
+    "freq": 6
+  },
+  {
+    "": 477,
+    "username": "Willi",
+    "timestamp": "2022-04-24",
+    "category": "REGEN",
+    "freq": 10
+  },
+  {
+    "": 478,
+    "username": "Willi",
+    "timestamp": "2022-04-24",
+    "category": "SCHNEEDECKE",
+    "freq": 3
+  },
+  {
+    "": 479,
+    "username": "Willi",
+    "timestamp": "2022-04-24",
+    "category": "SCHNEEFALL",
+    "freq": 3
+  },
+  {
+    "": 480,
+    "username": "Willi",
+    "timestamp": "2022-04-24",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 481,
+    "username": "Willi",
+    "timestamp": "2022-05-22",
+    "category": "BEWOELKUNG",
+    "freq": 126
+  },
+  {
+    "": 482,
+    "username": "Willi",
+    "timestamp": "2022-05-22",
+    "category": "BLITZE",
+    "freq": 33
+  },
+  {
+    "": 483,
+    "username": "Willi",
+    "timestamp": "2022-05-22",
+    "category": "HAGEL",
+    "freq": 560
+  },
+  {
+    "": 484,
+    "username": "Willi",
+    "timestamp": "2022-05-22",
+    "category": "REGEN",
+    "freq": 52
+  },
+  {
+    "": 485,
+    "username": "Willi",
+    "timestamp": "2022-05-22",
+    "category": "SCHNEEDECKE",
+    "freq": 2
+  },
+  {
+    "": 486,
+    "username": "Willi",
+    "timestamp": "2022-05-22",
+    "category": "TORNADO",
+    "freq": 2
+  },
+  {
+    "": 487,
+    "username": "Willi",
+    "timestamp": "2022-05-22",
+    "category": "WIND",
+    "freq": 8
+  },
+  {
+    "": 488,
+    "username": "Willi",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 17
+  },
+  {
+    "": 489,
+    "username": "Willi",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 25
+  },
+  {
+    "": 490,
+    "username": "Willi",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 249
+  },
+  {
+    "": 491,
+    "username": "Willi",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 38
+  },
+  {
+    "": 492,
+    "username": "Willi",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 2
+  },
+  {
+    "": 493,
+    "username": "Willi",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 10
+  },
+  {
+    "": 494,
+    "username": "fankyy",
+    "timestamp": "2022-02-07",
+    "category": "BEWOELKUNG",
+    "freq": 57
+  },
+  {
+    "": 495,
+    "username": "fankyy",
+    "timestamp": "2022-02-07",
+    "category": "REGEN",
+    "freq": 9
+  },
+  {
+    "": 496,
+    "username": "fankyy",
+    "timestamp": "2022-02-07",
+    "category": "SCHNEEFALL",
+    "freq": 1
+  },
+  {
+    "": 497,
+    "username": "fankyy",
+    "timestamp": "2022-02-07",
+    "category": "TORNADO",
+    "freq": 2
+  },
+  {
+    "": 498,
+    "username": "fankyy",
+    "timestamp": "2022-02-07",
+    "category": "WIND",
+    "freq": 46
+  },
+  {
+    "": 499,
+    "username": "flowi",
+    "timestamp": "2022-01-09",
+    "category": "BEWOELKUNG",
+    "freq": 3
+  },
+  {
+    "": 500,
+    "username": "flowi",
+    "timestamp": "2022-01-09",
+    "category": "REGEN",
+    "freq": 2
+  },
+  {
+    "": 501,
+    "username": "flowi",
+    "timestamp": "2022-01-09",
+    "category": "SCHNEEDECKE",
+    "freq": 3
+  },
+  {
+    "": 502,
+    "username": "flowi",
+    "timestamp": "2022-01-09",
+    "category": "SCHNEEFALL",
+    "freq": 13
+  },
+  {
+    "": 503,
+    "username": "flowi",
+    "timestamp": "2022-01-09",
+    "category": "WIND",
+    "freq": 8
+  },
+  {
+    "": 504,
+    "username": "flowi",
+    "timestamp": "2022-05-04",
+    "category": "BEWOELKUNG",
+    "freq": 3
+  },
+  {
+    "": 505,
+    "username": "flowi",
+    "timestamp": "2022-05-04",
+    "category": "BLITZE",
+    "freq": 6
+  },
+  {
+    "": 506,
+    "username": "flowi",
+    "timestamp": "2022-05-04",
+    "category": "HAGEL",
+    "freq": 21
+  },
+  {
+    "": 507,
+    "username": "flowi",
+    "timestamp": "2022-05-04",
+    "category": "REGEN",
+    "freq": 3
+  },
+  {
+    "": 508,
+    "username": "flowi",
+    "timestamp": "2022-05-04",
+    "category": "WIND",
+    "freq": 2
+  },
+  {
+    "": 509,
+    "username": "flowi",
+    "timestamp": "2022-05-05",
+    "category": "BEWOELKUNG",
+    "freq": 2
+  },
+  {
+    "": 510,
+    "username": "flowi",
+    "timestamp": "2022-05-05",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 511,
+    "username": "flowi",
+    "timestamp": "2022-05-05",
+    "category": "REGEN",
+    "freq": 11
+  },
+  {
+    "": 512,
+    "username": "flowi",
+    "timestamp": "2022-05-05",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 513,
+    "username": "flowi",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 6
+  },
+  {
+    "": 514,
+    "username": "flowi",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 21
+  },
+  {
+    "": 515,
+    "username": "flowi",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 8
+  },
+  {
+    "": 516,
+    "username": "flowi",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 12
+  },
+  {
+    "": 517,
+    "username": "flowi",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 2
+  },
+  {
+    "": 518,
+    "username": "flowi",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 5
+  },
+  {
+    "": 519,
+    "username": "hb9xcl",
+    "timestamp": "2021-06-23",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 520,
+    "username": "hb9xcl",
+    "timestamp": "2022-05-07",
+    "category": "BEWOELKUNG",
+    "freq": 27
+  },
+  {
+    "": 521,
+    "username": "hb9xcl",
+    "timestamp": "2022-05-07",
+    "category": "BLITZE",
+    "freq": 10
+  },
+  {
+    "": 522,
+    "username": "hb9xcl",
+    "timestamp": "2022-05-07",
+    "category": "HAGEL",
+    "freq": 61
+  },
+  {
+    "": 523,
+    "username": "hb9xcl",
+    "timestamp": "2022-05-07",
+    "category": "NEBEL",
+    "freq": 2
+  },
+  {
+    "": 524,
+    "username": "hb9xcl",
+    "timestamp": "2022-05-07",
+    "category": "REGEN",
+    "freq": 25
+  },
+  {
+    "": 525,
+    "username": "hb9xcl",
+    "timestamp": "2022-05-07",
+    "category": "WIND",
+    "freq": 12
+  },
+  {
+    "": 526,
+    "username": "helios",
+    "timestamp": "2022-04-09",
+    "category": "BEWOELKUNG",
+    "freq": 14
+  },
+  {
+    "": 527,
+    "username": "helios",
+    "timestamp": "2022-04-09",
+    "category": "WIND",
+    "freq": 58
+  },
+  {
+    "": 528,
+    "username": "helios",
+    "timestamp": "2022-04-25",
+    "category": "BEWOELKUNG",
+    "freq": 11
+  },
+  {
+    "": 529,
+    "username": "helios",
+    "timestamp": "2022-04-25",
+    "category": "BLITZE",
+    "freq": 5
+  },
+  {
+    "": 530,
+    "username": "helios",
+    "timestamp": "2022-04-25",
+    "category": "HAGEL",
+    "freq": 4
+  },
+  {
+    "": 531,
+    "username": "helios",
+    "timestamp": "2022-04-25",
+    "category": "REGEN",
+    "freq": 12
+  },
+  {
+    "": 532,
+    "username": "helios",
+    "timestamp": "2022-04-25",
+    "category": "WIND",
+    "freq": 1
+  },
+  {
+    "": 533,
+    "username": "nordspot",
+    "timestamp": "2022-05-05",
+    "category": "BEWOELKUNG",
+    "freq": 4
+  },
+  {
+    "": 534,
+    "username": "nordspot",
+    "timestamp": "2022-05-05",
+    "category": "REGEN",
+    "freq": 8
+  },
+  {
+    "": 535,
+    "username": "nordspot",
+    "timestamp": "2022-05-23",
+    "category": "BEWOELKUNG",
+    "freq": 8
+  },
+  {
+    "": 536,
+    "username": "nordspot",
+    "timestamp": "2022-05-23",
+    "category": "BLITZE",
+    "freq": 16
+  },
+  {
+    "": 537,
+    "username": "nordspot",
+    "timestamp": "2022-05-23",
+    "category": "HAGEL",
+    "freq": 54
+  },
+  {
+    "": 538,
+    "username": "nordspot",
+    "timestamp": "2022-05-23",
+    "category": "REGEN",
+    "freq": 15
+  },
+  {
+    "": 539,
+    "username": "nordspot",
+    "timestamp": "2022-05-23",
+    "category": "TORNADO",
+    "freq": 3
+  },
+  {
+    "": 540,
+    "username": "nordspot",
+    "timestamp": "2022-05-23",
+    "category": "WIND",
+    "freq": 8
+  },
+  {
+    "": 541,
+    "username": "pasischuan",
+    "timestamp": "2021-06-23",
+    "category": "HAGEL",
+    "freq": 1
+  },
+  {
+    "": 542,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "BEWOELKUNG",
+    "freq": 13
+  },
+  {
+    "": 543,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "BLITZE",
+    "freq": 15
+  },
+  {
+    "": 544,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "GLAETTE",
+    "freq": 2
+  },
+  {
+    "": 545,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "HAGEL",
+    "freq": 10
+  },
+  {
+    "": 546,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "NEBEL",
+    "freq": 1
+  },
+  {
+    "": 547,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "REGEN",
+    "freq": 32
+  },
+  {
+    "": 548,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEDECKE",
+    "freq": 6
+  },
+  {
+    "": 549,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "SCHNEEFALL",
+    "freq": 35
+  },
+  {
+    "": 550,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "TORNADO",
+    "freq": 1
+  },
+  {
+    "": 551,
+    "username": "widovnir",
+    "timestamp": "2022-04-01",
+    "category": "WIND",
+    "freq": 11
+  },
+  {
+    "": 552,
+    "username": "widovnir",
+    "timestamp": "2022-05-03",
+    "category": "BLITZE",
+    "freq": 2
+  },
+  {
+    "": 553,
+    "username": "widovnir",
+    "timestamp": "2022-05-03",
+    "category": "HAGEL",
+    "freq": 2
+  },
+  {
+    "": 554,
+    "username": "widovnir",
+    "timestamp": "2022-05-04",
+    "category": "HAGEL",
+    "freq": 13
+  },
+  {
+    "": 555,
+    "username": "zti",
+    "timestamp": "2022-05-04",
+    "category": "HAGEL",
+    "freq": 13
+  }
+]

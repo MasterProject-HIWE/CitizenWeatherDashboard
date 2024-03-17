@@ -1,0 +1,501 @@
+.App {
+  /* text-align: center; */
+  color: #FFFFFF;
+  /* background-color: rgb(23 25 27); */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* ae-main-temp */
+
+#Map .leaflet-container {
+  background-color: #263645;
+}
+
+.netmap-container {
+  background-color: #F5F5F5 !important;
+}
+
+.map-boxes {
+  width: 100%;
+  padding: 4px;
+}
+
+.map-boxes-heat {
+  width: 55% !important;
+}
+
+.map-boxes-netmap {
+  width: 45% !important;
+}
+
+.custom-tile-layer {
+  filter: invert(100%);
+  opacity: 0.5;
+  background-color: #1C2834;
+}
+
+/* Override Leaflet styles for zoom control buttons */
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out {
+  background-color: #263645 !important;
+  color: #FFFFFF !important;
+}
+
+/* Optionally, you can style the hover state */
+.leaflet-control-zoom-in:hover,
+.leaflet-control-zoom-out:hover {
+  background-color: #263645;
+  color: #FFFFFF;
+}
+
+.leaflet-touch .leaflet-bar a {
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  border: none;
+}
+
+.leaflet-touch .leaflet-control-zoom-in,
+.leaflet-touch .leaflet-control-zoom-out {
+  font-size: 22px;
+}
+
+.leaflet-control-attribution.leaflet-control {
+  opacity: 0;
+}
+
+
+#ae-main-temp {
+  /* height: 280px; */
+  /* width: 86%; */
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ae-main-header h1 {
+  font-size: 48px;
+}
+
+.ae-main-header h3 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: -32px;
+  margin-bottom: 32px;
+}
+
+.ae-main-map-body {
+  display: flex;
+  box-shadow: 4px 4px 22px 0px rgb(0, 0, 0, 0.5);
+  /* border-radius: 0.75rem; */
+}
+
+.map-label {
+  background: transparent;
+  padding: 3px;
+  border-radius: 3px;
+  text-align: center;
+  font-size: 10px;
+  /* pointer-events: none; */
+}
+
+.map-label-tooltip {
+  color: #FFF;
+  background: transparent;
+  border: transparent;
+  border-radius: 3px;
+  padding: 6px;
+  font-size: 14px;
+  box-shadow: none;
+  text-shadow: 2px 1px 3px rgba(0, 0, 0, 1);
+}
+
+#ae-heatmap-map-blend-mode .leaflet-overlay-pane {
+  /* height: 34px;
+  width: 48px; */
+  mix-blend-mode: overlay;
+}
+
+
+
+
+
+/* #heatmap-toggle-button button {
+  padding: 6px 8px;
+  margin: 2px;
+  transition: 0.2s all ease-in-out;
+  border: none;
+  background-color: #FFF;
+  border-radius: 4px;
+}
+
+#heatmap-toggle-button button:hover {
+  background-color: #d1d6eb;
+  cursor: pointer;
+}
+
+
+#heatmap-toggle-button button:active {
+  background-color: #61dafb;
+}
+
+#heatmap-toggle-button button:focus-visible {
+  background-color: #61dafb;
+} */
+
+
+/* Custom Button */
+
+#heatmap-toggle-button button {
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.85);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui, -apple-system, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 7px;
+  font-weight: 600;
+  justify-content: center;
+  /* line-height: 1.25; */
+  /* min-height: 3rem; */
+  padding: 6px 8px;
+  margin: 2px;
+  position: relative;
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+}
+
+#heatmap-toggle-button button:hover,
+#heatmap-toggle-button button:focus {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+#heatmap-toggle-button button:hover {
+  transform: translateY(-1px);
+}
+
+#heatmap-toggle-button button:active {
+  background-color: #F0F0F1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
+
+/* Custom Button */
+
+#right-sidebar {
+  background-color: #263645;
+
+  padding: 12px;
+}
+
+.right-sidebar {
+  width: 0%;
+  display: none !important;
+}
+
+.right-sidebar.visible {
+  width: 24%;
+  display: block !important;
+}
+
+.right-slider {
+  /* width: 0%; */
+  display: none !important;
+}
+
+.right-slider.visible {
+  /* width: 24%; */
+  display: block !important;
+}
+
+
+
+#toggleButtonHeatmap {
+  background-color: #ffffff;
+  position: absolute;
+  top: 30px;
+  right: 0;
+  color: rgb(0, 0, 0);
+  border: none;
+  width: 24px;
+  padding: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  /* writing-mode: vertical-rl;
+  text-orientation: mixed; */
+  transition: .24s 1s ease-in-out;
+  border-radius: 32px 0px 0px 32px;
+  z-index: 99;
+}
+
+#toggleButtonNetmap {
+  background-color: #ffffff;
+  position: absolute !important;
+  top: 18px;
+  right: 0;
+  color: rgb(0, 0, 0);
+  border: none;
+  width: 24px;
+  padding: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  /* writing-mode: vertical-rl;
+  text-orientation: mixed; */
+  transition: .24s 1s ease-in-out;
+  border-radius: 32px 0px 0px 32px !important;
+  z-index: 99;
+}
+
+#toggleButtonHeatmap:hover,
+#toggleButtonNetmap:hover {
+  background-color: #d4d4d4;
+}
+
+#right-sidebar h4,
+#right-sidebar h2 {
+  line-height: 14px;
+  padding: 0px !important;
+  margin: 8px 0px;
+}
+
+.hazardNamesOnClick {
+  position: absolute;
+  display: flex;
+  gap: 4px;
+  width: 124px;
+  z-index: 99;
+  margin-top: 92px;
+  margin-left: 18px;
+}
+
+.legend-danger-levels {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.legend-danger-level {
+  display: flex;
+  gap: 6px;
+  font-size: 12px;
+}
+
+.legend-danger-level .legend-danger-level-color-box {
+  width: 16px;
+  height: 16px;
+}
+
+.danger-level-five .legend-danger-level-color-box {
+  background-color: #800000;
+}
+
+.danger-level-four .legend-danger-level-color-box {
+  background-color: #FF0000;
+}
+
+.danger-level-three .legend-danger-level-color-box {
+  background-color: #FF9900;
+}
+
+.danger-level-two .legend-danger-level-color-box {
+  background-color: #FFFF00;
+}
+
+.danger-level-one .legend-danger-level-color-box {
+  background-color: #CCFF66;
+}
+
+.danger-level-zero .legend-danger-level-color-box {
+  background-color: #999999;
+}
+
+.is-Bern {
+  margin-right: 6px;
+  margin-top: -16px;
+}
+
+.is-Genève {
+  margin-left: 14px;
+}
+
+.is-Aargau {
+  margin-left: 8px;
+  margin-top: 8px;
+}
+
+.is-Schaffhausen {
+  margin-left: 28px;
+  margin-top: 4px;
+}
+
+.is-Vaud {
+  margin-left: 12px;
+  margin-top: -4px;
+}
+
+.is-Fribourg {}
+
+.all-cell-parent {
+  /* transform: scale(1.35);
+  position: absolute;
+  top: 20%;
+  left: 20%; */
+}
+
+#table-of-details {
+  display: block;
+  border-collapse: collapse;
+  font-size: 8px;
+  box-shadow: 4px 4px 22px 0px rgb(0, 0, 0, 0.5);
+  max-height: 264px !important;
+  max-width: 460px !important;
+  overflow-y: scroll !important;
+}
+
+#table-of-details th {
+  font-family: sans-serif;
+  color: #000000;
+  line-height: 1.4;
+  background-color: #F5F5F5;
+}
+
+#table-of-details tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+#table-of-details tr:nth-child(even) {
+  background-color: #F5F5F5;
+}
+
+#table-of-details th,
+#table-of-details td,
+#table-of-details tr {
+  padding: 8px 2px;
+  text-align: center;
+  border-right: 1px solid #EBEBEB;
+  white-space: nowrap;
+}
+
+.network-graph-svg g {
+  transform: scale(0.55) translate(10%, 0%) !important;
+}
+
+*::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #F5F5F5;
+  scrollbar-width: thin;
+}
+
+*::-webkit-scrollbar {
+  width: 12px;
+  background-color: #F5F5F5;
+  scrollbar-width: thin;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #a7a7a7;
+  scrollbar-width: thin;
+}
+
+.truncate-text {
+  max-width: 600px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hierarchicalEdgeBundling-networkMap>g {
+  transform: scale(1.5) !important;
+}
+
+.hierarchicalEdgeBundling-networkMap-node {
+  cursor: pointer;
+}
+
+.testTest {
+  transform: translate(-22px, 5px);
+}
+
+.networkmap-link {
+  opacity: 0.35;
+  mix-blend-mode: color-dodge;
+  /* mix-blend-mode: screen; */
+}
+
+.cell-header {
+  font-size: 10px !important;
+  font-weight: 600;
+  background-color: white;
+  color: black;
+  margin: 0;
+  border-radius: 4px 4px 0px 0px;
+  padding: 4px 12px;
+  text-align: center;
+}
+
+.dashboard-header {
+  font-size: 20px !important;
+  font-weight: bolder;
+  color: rgb(255, 255, 255);
+  margin: 8px 0px;
+}
+
+.app-cell-histogram {
+  color: #1f2b41 !important;
+}
+
+.map-label-tooltip {
+  font-size: 10px;
+  /* Adjust the font size as per your requirement */
+}
