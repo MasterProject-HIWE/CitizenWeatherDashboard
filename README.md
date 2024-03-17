@@ -1,6 +1,5 @@
-# CitizenWeatherVA
-
-Visual Analysis of Weather Events observations based on Crowd-sourced data by MeteoSwiss
+# MSc Project: Visual Analysis of the Social Dynamics of Weather Spotters
+Visual Analysis of high-impact weather events (HIWEs) based on crowd-sourced data by MeteoSwiss and sturumforum.ch
 
 ## Scripts
 #### First, we need to install the "installer": yarn
