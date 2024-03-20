@@ -15,6 +15,7 @@ import UniqueDegree from "./components/UniqueDegree";
 import { useUserContext } from '../UserContext/UserContext';
 import { useKantonContext } from '../KantonContext/KantonContext';
 import DAroow from "../../static/images/darrow.svg";
+// import fisheye from "./Fisheye";
 
 function randomLatitude() {
   const minLat = 46.7207797;
@@ -40,7 +41,7 @@ const filterValidCoordinates = (locations, mapInstance) => {
 function SwitzerlandChoropleth({ data }) {
   const { getUserName } = useUserContext();
   const { selectedKantonName } = useKantonContext();
-
+  // const f = fisheye();
 
   const [isD3Enabled, setIsD3Enabled] = useState(false);
   setTimeout(function () {
@@ -172,7 +173,7 @@ function SwitzerlandChoropleth({ data }) {
         .attr('fill', (d) => {
           if (d.id) {
             if (selectedKantonName && d.cantons && d.cantons.includes(selectedKantonName)) {
-              return "red";
+              return "blue";
             } else {
               return colorScale(MinMaxMap(userDegrees[d.id]));
             }
@@ -201,25 +202,32 @@ function SwitzerlandChoropleth({ data }) {
 
       users.exit().remove();
       
-      // const fisheyeDistortion = d3fisheye.circular()
-      // .radius(100)
-      // .distortion(2);
+     //  const fisheyeDistortion = d3fisheye.circular()
+     //  .radius(100)
+     //  .distortion(2);
+  //   const f = fisheye(4, 50)
       
-      // svg.on('mousemove', function (event) {
-      //   const [x, y] = d3.pointer(event, this);
-      //   userGroups.each(function (d) {
-      //     const { x: newX, y: newY } = fisheyeDistortion({ x: d.x, y: d.y }, [x, y]);
-      //     d.fisheyeX = newX;
-      //     d.fisheyeY = newY;
-      //   });
-      //   ticked();
-      // });
+//      svg.on('mousemove', function (event) {
+      //    f.center(d3.pointer(event));
+ //         let mousePointer = { x: d3.pointer(event).x, y: d3.pointer(event).y };
+ //         const items = validUserLocations.map(f(mousePointer));
+ //         console.log(items)
+ //     });   
+     //    const [x, y] = d3.pointer(event, this);
+     //    userGroups.each(function (d) {
+     //      const { x: newX, y: newY } = fisheyeDistortion({ x: d.x, y: d.y }, [x, y]);
+     //      d.fisheyeX = newX;
+     //      d.fisheyeY = newY;
+     //    });
+     //    ticked();
+     //  });
 
       const simulation = d3.forceSimulation(validUserLocations.id)
         .force('center', d3.forceCenter(width / 2, height / 2)) // Center the nodes
         .on('tick', ticked);
 
       function ticked() {
+
         links
           .attr('x1', d => d.source.x)
           .attr('y1', d => d.source.y)
