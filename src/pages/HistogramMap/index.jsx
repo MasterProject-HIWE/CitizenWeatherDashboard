@@ -5,7 +5,7 @@ import BarChart from '../../components/BarChart/BarChart'
 const index = () => {
   return (
     <div className="App map-boxes map-boxes-heatmap app-cell-histogram" style={{ overflow: "hidden", width: "77%"}}>
-      <h1 className='cell-header'>Frequency over Months</h1>
+      <h1 className='cell-header'>Frequency Analysis</h1>
       <div id="ae-main-temp" style={{ height: '154px !important', backgroundColor: "#F5F5F5"  }}>
         <div className="ae-main-header">
         </div>
