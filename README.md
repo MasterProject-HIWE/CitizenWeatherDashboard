@@ -5,7 +5,7 @@ Visual Analysis of high-impact weather events (HIWEs) based on crowd-sourced dat
 #### First, we need to install the "installer": yarn
 sudo npm install --global yarn
 #### Then,  install all the components
-yarn install or node install --legacy-peer-deps
+yarn install or npm install --legacy-peer-deps
 #### The backend runs in the api folder
 cd api
 #### Create the environment
@@ -20,7 +20,7 @@ python3 -m pip install -U flask-cors
 
 Start the front end with:
 
-### `yarn start` or 'node run start'
+### `yarn start` or 'npm run start'
 
 Run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -31,7 +31,7 @@ You may also see any lint errors in the console.
 
 Start the back end with:
 
-### `yarn start-api` or 'node run start-api'
+### `yarn start-api` or 'npm run start-api'
 
 Runs the back end  in the development mode on [http://localhost:5000](http://localhost:5000).
 
