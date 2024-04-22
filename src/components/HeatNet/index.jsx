@@ -30,7 +30,8 @@ function getMinMax(attribute) {
 const minMaxDegree = getMinMax("degree");
 
 function mapValue(value) {
-  return 1 + (10 - 1) * ((value - minMaxDegree.min) / (minMaxDegree.max - minMaxDegree.min));
+  return value;
+  //return 1 + (10 - 1) * ((value - minMaxDegree.min) / (minMaxDegree.max - minMaxDegree.min));
 }
 
 function SwitzerlandChoropleth({ data }) {
@@ -143,6 +144,7 @@ function SwitzerlandChoropleth({ data }) {
       const source = item.source;
       const latitude = item.latitude;
       const longitude = item.longitude;
+      console.log(userGraphBarValue);
       if (!user_location[source] 
         && mapValue(userDegrees[source]) >= userGraphBarValue[0] 
         && mapValue(userDegrees[source]) <= userGraphBarValue[1]
@@ -211,7 +213,8 @@ function SwitzerlandChoropleth({ data }) {
           .attr('r', 8)
           .attr('fill', (d) => {
             if (d.id) {
-              return colorScale(mapValue(userDegrees[d.id]));
+             // return colorScale(mapValue(userDegrees[d.id]));
+                return colorScale(userDegrees[d.id])
             }
             return 'blue';
           });
