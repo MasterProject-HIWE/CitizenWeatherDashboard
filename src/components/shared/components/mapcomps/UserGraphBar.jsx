@@ -11,6 +11,8 @@ const UserGraphBar = ({ className, style, value, setValue }) => {
     return (
         <div className={className} style={style}>
             <Box sx={{ height: 300 }}>
+                <span style = {{fontSize:"10px"}}>degree</span>
+                <span style = {{fontSize:"10px"}}>centerality</span>
                 <Slider
                     value={value}
                     onChange={handleChange}
