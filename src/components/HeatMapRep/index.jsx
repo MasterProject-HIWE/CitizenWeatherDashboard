@@ -12,7 +12,7 @@ import { useKantonContext } from '../KantonContext/KantonContext';
 
 function SwitzerlandChoropleth({ data }) {
   const { handleToggle } = useButtonContext();
-  const { getKantonName } = useKantonContext();
+  const { setKantonName } = useKantonContext();
 
 
   const [bounds] = useState([
@@ -90,7 +90,7 @@ function SwitzerlandChoropleth({ data }) {
         // click: () => { },
         click: () => {
           console.log(feature["properties"]["kan_name"]);
-          getKantonName(feature["properties"]["kan_name"])
+          setKantonName(feature["properties"]["kan_name"])
         },
       });
 
