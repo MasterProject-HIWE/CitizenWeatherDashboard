@@ -37,10 +37,15 @@ const filterValidCoordinates = (locations, mapInstance) => {
       return { id, x: point.x, y: point.y, latitude, longitude, cantons };
     });
 };
+let mousemove = false;
+let links = null;
+let isFishEyeActivated = false;
 
 function SwitzerlandChoropleth({ data }) {
   const { getUserName } = useUserContext();
   const { selectedKantonName } = useKantonContext();
+
+  const radius = 3;
   // const f = fisheye();
 
   const [isD3Enabled, setIsD3Enabled] = useState(false);
@@ -49,19 +54,19 @@ function SwitzerlandChoropleth({ data }) {
   }, 500);
   const [hoveredUser, setHoveredUser] = useState(null);
   const [userGraphBarValue, setUserGraphBarValue] = useState(0.2);
-  const [highlightedKanton, setHighlightedKanton] = useState();
+ // const [highlightedKanton, setHighlightedKanton] = useState();
 
-  const [bounds] = useState([
-    [45.7, 5.5],
-    [48.0, 11.5],
-  ]);
+  //const [bounds] = useState([
+  //  [45.7, 5.5],
+  //  [48.0, 11.5],
+  //]);
 
   const [leafletZoom, setLeafletZoom] = useState(8);
 
-  const [center] = useSelector((state) => {
-    const settings = state.settings;
-    return [settings.center];
-  });
+ // const [center] = useSelector((state) => {
+ //   const settings = state.settings;
+ //   return [settings.center];
+ // });
 
   const svgRef = useRef(null);
   const mapRef = useRef(null);
@@ -82,6 +87,27 @@ function SwitzerlandChoropleth({ data }) {
     }
   }, [mapRef]);
 
+  const activateFishEye = () =>{
+    links._groups[0].map((link)=>{
+         let newlink = link;
+         delete newlink.fisheyeX;
+         delete newlink.fisheyeY;
+         delete newlink.fisheyeZ;          
+         return newlink;
+    });     
+    links._groups[0].map((link)=>{  
+        let newlink = link;
+        delete newlink.__data__.source.fisheyeX;
+        delete newlink.__data__.source.fisheyeY;
+        delete newlink.__data__.source.fisheyeZ;
+        delete newlink.__data__.target.fisheyeX;
+        delete newlink.__data__.target.fisheyeY;
+        delete newlink.__data__.target.fisheyeZ;                        
+        return newlink;
+    });     
+    isFishEyeActivated = !isFishEyeActivated;
+  }
+
   useEffect(() => {
     const width = 326;
     const height = 292;
@@ -101,7 +127,6 @@ function SwitzerlandChoropleth({ data }) {
       const latitude = item.latitude;
       const longitude = item.longitude;
       const cantons = item.cantons;
-
       if (!user_location[source]
         && userDegrees[source] < userGraphBarValue
       ) {
@@ -125,11 +150,10 @@ function SwitzerlandChoropleth({ data }) {
 
         if (sourceLocation && targetLocation) {
           return {
-            source: { x: sourceLocation.x, y: sourceLocation.y },
-            target: { x: targetLocation.x, y: targetLocation.y },
+            source: { x: sourceLocation.x, y: sourceLocation.y, id:relation.source },
+            target: { x: targetLocation.x, y: targetLocation.y, id:relation.target  },
           };
         }
-
         return null;
       }).filter(Boolean);
 
@@ -142,7 +166,7 @@ function SwitzerlandChoropleth({ data }) {
       svg.selectAll('.link').remove();
       svg.selectAll('.user-group').remove();
 
-      const links = svg
+      links = svg
         .selectAll('.link')
         .data(edges)
         .enter()
@@ -154,7 +178,6 @@ function SwitzerlandChoropleth({ data }) {
         .attr('y2', (d) => d.target.y)
         .style('stroke', 'rgb(54 74 93)')
         .style('stroke-width', 0.5);
-
       const users = svg
         .selectAll('.user-group')
         .data(validUserLocations, (d) => d.id);
@@ -162,24 +185,31 @@ function SwitzerlandChoropleth({ data }) {
       const userGroups = users.enter()
         .append('g')
         .attr('class', 'user-group')
-        .on('mouseover', (event, d) => setHoveredUser(d.id))
-        .on('mouseout', () => setHoveredUser(null))
-        .on('click', (event, d) => getUserName(d.id));
+
 
       userGroups.append('circle')
         .attr('class', 'user')
-        .attr('r', 3)
+        .attr('r', radius)
         .attr('z-index', 3)
+        .attr("id",(d,i) => `node_${d.id}`)
+        .style("pointer-events","fill")
         .attr('fill', (d) => {
           if (d.id) {
             if (selectedKantonName && d.cantons && d.cantons.includes(selectedKantonName)) {
               return "blue";
             } else {
-              return colorScale(MinMaxMap(userDegrees[d.id]));
+              if (userDegrees[d.id]){
+                  return colorScale(MinMaxMap(userDegrees[d.id]));
+              }else{
+                  return 'blue';
+              }    
             }
           }
           return "blue";
-        });
+        })
+        .on('mouseover', (event, d) => {d3.select(event.target).style("cursor","pointer");setHoveredUser(d.id)})
+        .on('mouseout', (event) => {d3.select(event.target).style("cursor","default");setHoveredUser(null)})
+        .on('click', (event, d) => getUserName(d.id));        
 
       userGroups.append('rect')
         .attr('x', -4)
@@ -202,25 +232,69 @@ function SwitzerlandChoropleth({ data }) {
 
       users.exit().remove();
       
-     //  const fisheyeDistortion = d3fisheye.circular()
-     //  .radius(100)
-     //  .distortion(2);
+       const fisheyeDistortion = d3fisheye.circular()
+       .radius(100)
+       .distortion(2);
   //   const f = fisheye(4, 50)
       
-//      svg.on('mousemove', function (event) {
+      svg.on('mousemove', function (event) {
+        if (!isFishEyeActivated){
+            return;
+        }
       //    f.center(d3.pointer(event));
  //         let mousePointer = { x: d3.pointer(event).x, y: d3.pointer(event).y };
  //         const items = validUserLocations.map(f(mousePointer));
  //         console.log(items)
  //     });   
-     //    const [x, y] = d3.pointer(event, this);
-     //    userGroups.each(function (d) {
-     //      const { x: newX, y: newY } = fisheyeDistortion({ x: d.x, y: d.y }, [x, y]);
-     //      d.fisheyeX = newX;
-     //      d.fisheyeY = newY;
-     //    });
-     //    ticked();
-     //  });
+         const [x, y] = d3.pointer(event);
+         mousemove = true;
+         fisheyeDistortion.focus([x,y]);
+         links._groups[0].map((link)=>{
+              let newlink = link;
+              delete newlink.fisheyeX;
+              delete newlink.fisheyeY;
+              delete newlink.fisheyeZ;          
+              return newlink;
+         });     
+         links._groups[0].map((link)=>{  
+             let newlink = link;
+             delete newlink.__data__.source.fisheyeX;
+             delete newlink.__data__.source.fisheyeY;
+             delete newlink.__data__.source.fisheyeZ;
+             delete newlink.__data__.target.fisheyeX;
+             delete newlink.__data__.target.fisheyeY;
+             delete newlink.__data__.target.fisheyeZ;                        
+             return newlink;
+         }); 
+         userGroups.each(function (d) {
+           const newpos = fisheyeDistortion([d.x, d.y]);// fisheyeDistortion({ x: d.x, y: d.y }, [x, y]);
+           d.fisheyeX = newpos[0];
+           d.fisheyeY = newpos[1];
+           d.fisheyeZ = newpos[2];
+           links._groups[0].map((link)=>{
+               let newlink = link;
+               let csource = fisheyeDistortion([newlink.__data__.source.x, newlink.__data__.source.y]);
+               let ctarget = fisheyeDistortion([newlink.__data__.target.x, newlink.__data__.target.y]);
+               newlink.__data__.source.fisheyeX = csource[0];
+               newlink.__data__.source.fisheyeY = csource[1];
+               newlink.__data__.target.fisheyeX = ctarget[0];
+               newlink.__data__.target.fisheyeY = ctarget[1];               
+               return newlink;
+//               if (newlink.__data__.source.id === d.id){
+//                   newlink.__data__.source.fisheyeX = newpos[0];
+//                   newlink.__data__.source.fisheyeY = newpos[1];
+//                   newlink.__data__.source.fisheyeZ = newpos[2];
+//               }
+//               if (newlink.__data__.target.id === d.id){
+//                   newlink.__data__.target.fisheyeX = newpos[0];
+//                   newlink.__data__.target.fisheyeY = newpos[1];
+//                   newlink.__data__.target.fisheyeZ = newpos[2];
+//               }   
+//               return newlink;            
+           });
+           ticked();
+       });
+      }); 
 
       const simulation = d3.forceSimulation(validUserLocations.id)
         .force('center', d3.forceCenter(width / 2, height / 2)) // Center the nodes
@@ -229,12 +303,13 @@ function SwitzerlandChoropleth({ data }) {
       function ticked() {
 
         links
-          .attr('x1', d => d.source.x)
-          .attr('y1', d => d.source.y)
-          .attr('x2', d => d.target.x)
-          .attr('y2', d => d.target.y);
+          .attr('x1', d => mousemove && d.source.fisheyeX?d.source.fisheyeX:d.source.x)
+          .attr('y1', d => mousemove && d.source.fisheyeY?d.source.fisheyeY:d.source.y)
+          .attr('x2', d => mousemove && d.target.fisheyeX?d.target.fisheyeX:d.target.x)
+          .attr('y2', d => mousemove && d.target.fisheyeY?d.target.fisheyeY:d.target.y);
 
-        userGroups.attr('transform', d => `translate(${d.x},${d.y})`);
+        userGroups.attr('transform', d => `translate(${mousemove && d.fisheyeX?d.fisheyeX:d.x},${mousemove && d.fisheyeY?d.fisheyeY:d.y})`);
+        userGroups.attr('r',d=>mousemove?d.fisheyeZ * radius * 10:radius);
       }
 
       const handleZoom = () => {
@@ -252,7 +327,8 @@ function SwitzerlandChoropleth({ data }) {
       };
 
     }
-  }, [data, leafletZoom, mapRef, isD3Enabled, hoveredUser, userGraphBarValue, selectedKantonName]);
+  }, [data, leafletZoom, mapRef, isD3Enabled, hoveredUser, userGraphBarValue, selectedKantonName, getUserName]);
+
 
   const [sidebarVisible, setSidebarVisible] = useState(false);
 
@@ -263,6 +339,7 @@ function SwitzerlandChoropleth({ data }) {
   return (<div style={{ position: 'relative' }} id="heatmap-toggle-button">
     <div style={{ position: 'absolute', top: 8, left: 8, zIndex: 99999 }}>
       <button onClick={() => getUserName('noUser')}>Reset</button>
+      <button onClick={() => activateFishEye()}>Fish Eye</button>
     </div>
     <MapContainer
       style={{ width: "100%", height: "280px", zIndex: "0" }}
@@ -278,7 +355,11 @@ function SwitzerlandChoropleth({ data }) {
     >
       <MapEvents />
       <MapResizer />
-      <button id="toggleButtonNetmap" onClick={toggleSidebar}>{sidebarVisible ? <img style={{ width: 12, transform: 'rotate(180deg)' }} src={DAroow} alt="" /> : <img style={{ width: 12 }} src={DAroow} alt="" />}</button>
+      <button id="toggleButtonNetmap" style = {{top:"6px"}} onClick={toggleSidebar}>{sidebarVisible ? <img style={{ width: 12, transform: 'rotate(180deg)' }} src={DAroow} alt="" /> : <img style={{ width: 12 }} src={DAroow} alt="" />}</button>
+      <div style = {{textAlign:"right",position:"absolute",top:"34px",right:"5px", color:"black"}}  className={`bartext ${sidebarVisible ? 'visible' : ''}`}>
+         <div style = {{fontSize:"7px",textAlign:"center"}}>degree</div>
+         <div style = {{fontSize:"7px",textAlign:"center"}}>centerality</div>
+      </div>   
       <UserGraphBar
         className={`userGraphBar right-slider ${sidebarVisible ? 'visible' : ''}`}
         style={{ position: 'absolute', bottom: 6, right: 8, zIndex: 2000 }}
