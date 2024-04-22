@@ -510,3 +510,10 @@ a.leaflet-popup-close-button {
     background-size: 100% 40px, 100% 40px, 100% 14px, 100% 14px;
     background-attachment: local, local, scroll, scroll;
 }
+
+.ag-theme-alpine .ag-icon-menu::before {
+    content: '\2BC6' !important;
+    float: right;
+    position: absolute !important;
+    top: -4px !important;
+}
