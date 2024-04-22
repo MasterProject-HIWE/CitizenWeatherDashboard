@@ -15,6 +15,8 @@
     "@turf/helpers": "^6.5.0",
     "@turf/intersect": "^6.5.0",
     "@turf/union": "^6.5.0",
+    "ag-grid": "^18.1.2",
+    "ag-grid-react": "^31.2.1",
     "d3": "^7.8.5",
     "d3-fisheye": "^2.1.2",
     "d3-scale": "^4.0.2",
