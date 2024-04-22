@@ -24,7 +24,7 @@ const WeatherDataTable = () => {
              {headerName: 'Severity', field: 'severity' ,filter: "agSetColumnFilter",width:100},        
              {headerName: 'Start Time', field: 'starttime' ,filter: "agSetColumnFilter",width:100},        
              {headerName: 'End Time', field: 'endtime' , filter: "agSetColumnFilter",width:100},           
-             {headerName: 'Post', field: 'posts' , filter: "agSetColumnFilter",width:100},           
+             {headerName: 'Post', field: 'posts' , filter: "agSetColumnFilter",width:2000},           
          ],
          rowData:filteredData}        
         setTableData(ndata);
