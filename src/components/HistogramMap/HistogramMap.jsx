@@ -25,6 +25,28 @@ const aggregateDataByMonth = (data) => {
   return Object.values(aggregatedData);
 };
 
+
+const aggregateDataByWeek = (data) => {
+  const aggregatedData = {};
+
+  data.forEach((entry) => {
+    const week = entry.week;
+    if (!aggregatedData[week]) {
+      aggregatedData[week] = { timestamp: `${entry.timestamp}`, Total: 0, Cloudiness: 0, Lightning: 0, Icy_Conditions: 0, Hail: 0, Fog: 0, Rain: 0, Snow: 0, Snow_Cover: 0, Tornado: 0, Wind: 0 };
+    }
+
+    Object.keys(aggregatedData[week]).forEach((condition) => {
+      if (condition !== 'timestamp' && condition !== 'week') {
+        aggregatedData[week][condition] = Math.max(aggregatedData[week][condition], entry[condition]);
+      }
+    });
+  });
+
+  return Object.values(aggregatedData);
+};
+
+
+
 const aggregateUserDataByMonth = (data) => {
   const aggregatedData = {};
 
@@ -206,7 +228,7 @@ const HistogramMap = () => {
       const filteredHistogramData = UserHistogramData.filter((entry) => entry.username === selectedUserName);
       setAggregatedData(aggregateUserDataByMonth(filteredHistogramData));
     }
-    setAggregatedDataWeek(aggregateDataByMonth(HistogramDataWeek));
+    setAggregatedDataWeek(aggregateDataByWeek(HistogramDataWeek));
   }, [selectedUserName, selectedButton]);
 
 
@@ -274,7 +296,7 @@ const HistogramMap = () => {
     svg["week"] = d3.select(chartRefWeek.current);
     svg["week"].selectAll('*').remove();
 
-    drawChart(svg["week"], aggregatedDataWeek, totalWidth, height, marginLeft, marginRight, marginTop, marginBottom, selectedButton, "#FCB65E","week");
+    drawChart(svg["week"], aggregatedDataWeek, totalWidth * 3, height, marginLeft, marginRight, marginTop, marginBottom, selectedButton, "#FCB65E","week");
   }, [aggregatedDataWeek, selectedButton, selectedUserName]);
 
   return (
