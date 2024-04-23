@@ -1,0 +1,53 @@
+Map
+===
+Leaflet
+- A map library to populate Tile layers, layers, markers and other things.
+Turf
+- A geometric calculation tool for layers (polygon/line etc)
+React-leaflet
+- A react leaflet library to populate various operations of Leaflet in React way
+tinycolor2
+- For coloring the leaflet map
+
+
+Force diagram with fish bone
+============================
+React
+- Basic React library used to do various React operations like UseState etc.,
+Redux
+- A state management tool used to keep the states, define contexts for using across the components.
+MUI
+- A UI library used to create slider, buttons and other things.
+D3
+- A graph library to draw force diagram in this case.
+jQuery
+- A DOM operation library used to manipulate elements in the DOM and do the replacements or adjustments.
+Fish eye library
+- Fish eye operation in this force diagram 
+
+
+Line chart
+==========
+React
+- Basic React library used to do various React operations like UseState etc.,
+Redux
+- A state management tool used to keep the states, define contexts for using across the components.
+MUI
+- A UI library used to create slider, buttons and other things.
+D3
+- A graph library to draw force diagram in this case.
+jQuery
+- A DOM operation library used to manipulate elements in the DOM and do the replacements or adjustments.
+
+Table
+=====
+React
+- Basic React library used to do various React operations like UseState etc.,
+Redux
+- A state management tool used to keep the states, define contexts for using across the components.
+MUI
+- A UI library used to create slider, buttons and other things.
+jQuery
+- A DOM operation library used to manipulate elements in the DOM and do the replacements or adjustments.
+Ag-Grid
+- A Table/Grid library used to present better UI/UX for tables based on the data, column header and other parameters.
