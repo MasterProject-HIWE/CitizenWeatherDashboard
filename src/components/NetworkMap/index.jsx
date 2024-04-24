@@ -207,12 +207,12 @@ function SwitzerlandChoropleth({ data }) {
           }
           return "blue";
         })
-        .on('mouseover', (event, d) => {d3.select(event.target).style("cursor","pointer");setHoveredUser(d.id)})
-        .on('mouseout', (event) => {d3.select(event.target).style("cursor","default");setHoveredUser(null)})
-        .on('click', (event, d) => getUserName(d.id));        
+        .on('mouseover', (event, d) => {event.stopPropagation();d3.select(event.target).style("cursor","pointer");setHoveredUser(d.id)})
+        .on('mouseout', (event) => {event.stopPropagation();d3.select(event.target).style("cursor","default");setHoveredUser(null)})
+        .on('click', (event, d) => {event.stopPropagation();getUserName(d.id)});        
 
       userGroups.append('rect')
-        .attr('x', -4)
+        .attr('x', 4)
         .attr('y', -12)
         .attr('width', 120)
         .attr('height', 40)
