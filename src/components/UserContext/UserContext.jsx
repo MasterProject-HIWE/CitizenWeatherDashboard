@@ -10,8 +10,12 @@ const UserContextprovider = ({ children }) => {
         setselectedUserName(buttonName);
     };
 
+    const setUserName = (kantonName) => {
+        selectedUserName(kantonName);
+    };
+
     return (
-        <UserContext.Provider value={{ selectedUserName, getUserName }}>
+        <UserContext.Provider value={{ selectedUserName, getUserName, setUserName }}>
             {children}
         </UserContext.Provider>
     );
