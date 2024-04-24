@@ -12,5 +12,11 @@ git clone https://github.com/MasterProject-HIWE/CitizenWeatherDashboard.git
 ####  Install the packages
 npm install --legacy-peer-deps
 
+#### Change Directory
+cd/CitizenWeatherDashboard
+
 ####  Run the script
 npm run start
+
+#### will get opened in browser as http://localhost:3000
+
