@@ -9,11 +9,11 @@ Download and install the same.
 ####  Clone the repository
 git clone https://github.com/MasterProject-HIWE/CitizenWeatherDashboard.git
 
-####  Install the packages
-npm install --legacy-peer-deps
-
 #### Change Directory
 cd/CitizenWeatherDashboard
+
+####  Install the packages
+npm install --legacy-peer-deps
 
 ####  Run the script
 npm run start
