@@ -195,14 +195,15 @@ function SwitzerlandChoropleth({ data }) {
         .style("pointer-events","fill")
         .attr('fill', (d) => {
           if (d.id) {
+            console.log("kanton"); console.log(selectedKantonName);
             if (selectedKantonName && d.cantons && d.cantons.includes(selectedKantonName)) {
-              return "blue";
+              return "orange";
             } else {
-              if (userDegrees[d.id]){
+           //   if (userDegrees[d.id]){
                   return colorScale(MinMaxMap(userDegrees[d.id]));
-              }else{
-                  return 'blue';
-              }    
+            //  }else{
+         //         return 'blue';
+             // }    
             }
           }
           return "blue";
